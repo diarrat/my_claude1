@@ -3682,30 +3682,30 @@
 11355 1 - Magic: The Gathering Arena
 11354 1 - RuneScape Classic
 
-11353 2 - Legacy of Discord, League of Angels II
+11353 2 - Legacy of Discord, League of Angels 2
 11352 1 - Entropia Universe
 11351 1 - The Maestros
 11350 уточнить
-11349 1 - Shot Online
+11349 1 - Shot Online Golf: World Championship
 11348 1 - Star Trek Online
 11347 1 - RuneScape
 11346 уточнить
 11345 уточнить
-11344 1 - TechWars
+11344 1 - Techwars Deathmatch
 11343 1 - Ship of Heroes
 11342 1 - Final Fantasy XIV
 11341 1 - Battlerite
 11340 2 - Guilty Gear Xrd Rev 2, Brave Frontier
-11339 1 - League of Angels II
+11339 1 - League of Angels 2
 11338 1 - MapleStory
 11337 1 - SMITE
 11336 1 - Villagers & Heroes
-11335 2 - Lineage 2 Revolution, Lineage
+11335 2 - Lineage 2: Revolution, Lineage
 11334 1 - Eudemons Online
 11333 1 - Battlerite Royale
 11332 1 - Trove
 11331 1 - DC Universe Online
-11330 1 - Pantheon: Rise of the Fallen
+11330 1 - Pantheon
 11329 1 - Bless Online
 11328 уточнить
 11327 1 - League of Legends
@@ -3716,7 +3716,7 @@
 11322 уточнить
 11321 1 - Bless Online
 11320 2 - Puzzle & Dragons, Yu Yu Hakusho
-11319 1 - Dawn Break: The Flaming Emperor
+11319 1 - DawnBreak: The Flaming Emperor
 11318 1 - Bless Online
 11317 1 - Magic Chronicle
 11316 1 - Returners
@@ -3743,7 +3743,7 @@
 11296 1 - TERA
 11295 1 - War Thunder
 11294 1 - DomiNations
-11293 1 - The Elder Scrolls Online
+11293 1 - Elder Scrolls Online
 11292 1 - Defiance 2050
 11291 1 - Defiance 2050
 11290 1 - Defiance 2050
@@ -3758,12 +3758,12 @@
 11281 1 - RWBY: Amity Arena
 11280 1 - Shroud of the Avatar
 11279 1 - Star Trek Online
-11278 1 - Master of Eternity
+11278 1 - Masters of Eternity
 11277 1 - Legends of Aria
 11276 1 - Neverwinter
 11275 1 - H1Z1
 11274 1 - Darwin Project
-11273 1 - League of Angels II
+11273 1 - League of Angels 2
 11272 уточнить
 11271 1 - Champions Online
 11270 1 - Darwin Project
@@ -3787,9 +3787,9 @@
 11253 1 - Fantasy Squad W
 11252 1 - NTales
 11251 1 - Magic: The Gathering Arena
-11250 1 - THE DAY Online
+11250 1 - The Day Online
 11249 1 - Final Fantasy XIV
-11248 1 - League of Angels II
+11248 1 - League of Angels 2
 11247 1 - MU Origin 2
 11246 1 - Conquer Online
 11245 1 - Fortnite
@@ -3828,9 +3828,111 @@
 11212 1 - Kritika Online
 11211 1 - Lineage 2 Revolution
 11210 1 - TERA
-11209 2 - Fantasy War Tactics R, Tower of God
+11209 2 - Fantasy War Tactics-R, Tower of God
 11208 1 - Darwin Project
 11207 1 - Star Trek Online
 11206 уточнить
-11205 2 - The Alchemist Code, Fate/stay night
+11205 2 - The Alchemist Code, Fate/Stay Night
 11204 1 - Golf Star
+
+11203 1 - Star Citizen
+11202 1 - Guild Wars 2
+11201 1 - Brave Frontier
+11200 1 - DC Unchained
+11199 1 - Black Desert
+11198 уточнить
+11197 1 - Shroud of the Avatar: Forsaken Virtues
+11196 2 - Entropia Universe, Ready Player One
+11195 1 - Battlerite
+11194 1 - Crossout
+11193 1 - League of Angels II
+11192 1 - Closers
+11191 1 - World of Warships
+11190 1 - Seal Online
+11189 1 - Flyff
+11188 1 - H1Z1
+11187 1 - Ship of Heroes
+11186 1 - Dauntless
+11185 1 - Crazy Defense Heroes
+11184 1 - Pirates of the Caribbean: Tides of War
+11183 1 - Space Wars: Interstellar Empires
+11182 уточнить
+11181 1 - Neverwinter
+11180 1 - MapleStory Blitz
+11179 1 - Defiance 2050
+11178 1 - Elsword
+11177 1 - Ship of Heroes
+11176 1 - League of Legends
+11175 1 - Guild Wars 2
+11174 1 - Closers
+11173 1 - COSMO DUEL
+11172 1 - Magic: the Gathering Arena
+11171 1 - Runescape
+11170 1 - Warframe
+11169 1 - MU Legend
+11168 уточнить
+11167 1 - Magic the Gathering Arena
+11166 1 - Trove Heroes
+11165 1 - Fable Fortune
+11164 1 - The Elder Scrolls: Legends
+11163 1 - Hyper Universe
+11162 1 - OTHERLAND
+11161 1 - EverQuest
+11160 1 - Master of Eternity
+11159 уточнить
+11158 уточнить
+11157 1 - TERA
+11156 1 - ArcheAge
+11155 1 - Black Desert Online
+11154 1 - Legacy of Atlantis
+
+11153 1 - MU Ignition
+11152 1 - Lineage 2: Revolution
+11151 1 - Battlerite
+11150 1 - Warframe
+11149 1 - Darwin Project
+11148 1 - Final Fantasy XIV
+11147 1 - Blade Reborn
+11146 1 - MU Online
+11145 1 - NTales: Child of Destiny
+11144 1 - Dino War
+11143 1 - Hand of the Gods
+11142 1 - Neverwinter
+11141 1 - Defiance 2050
+11140 1 - DawnBreak: The Flaming Emperor
+11139 1 - Mabinogi
+11138 1 - NTales: Child of Destiny
+11137 1 - Legacy of Discord
+11136 1 - Flyff
+11135 1 - HOTG Pantheon
+11134 1 - Immortal: Unchained
+11133 1 - Battleline: Steel Warfare
+11132 1 - Quake Champions
+11131 1 - Cabals: Card Blitz
+11130 уточнить
+11129 1 - Khan Wars
+11128 1 - RIFT
+11127 1 - Elsword
+11126 1 - Kritika
+11125 1 - Phantom Chaser
+11124 1 - Heir of Light
+11123 1 - Legacy of Atlantis
+11122 1 - Battlerite
+11121 1 - MU Online
+11120 1 - FIRST HERO
+11119 1 - League of Angels II
+11118 1 - Paladins
+11117 1 - Insidia
+11116 1 - Survarium
+11115 1 - Grimms Notes
+11114 1 - Path of Exile: Bestiary
+11113 1 - Closers
+11112 1 - Warframe
+11111 1 - Tales of Gaia
+11110 1 - Seal Online
+11109 1 - DC Unchained
+11108 1 - SMITE
+11107 1 - Darwin Project
+11106 1 - Talisman: Digital Edition
+11105 1 - Final Fantasy XIV
+11104 1 - ChronoBlade
