@@ -3681,30 +3681,31 @@
 11356 1 - MU Ignition
 11355 1 - Magic: The Gathering Arena
 11354 1 - RuneScape Classic
-11353 2 - Legacy of Discord, League of Angels 2
+
+11353 2 - Legacy of Discord, League of Angels II
 11352 1 - Entropia Universe
 11351 1 - The Maestros
 11350 уточнить
-11349 1 - Shot Online Golf: World Championship
+11349 1 - Shot Online
 11348 1 - Star Trek Online
 11347 1 - RuneScape
 11346 уточнить
 11345 уточнить
-11344 1 - Techwars Deathmatch
+11344 1 - TechWars
 11343 1 - Ship of Heroes
 11342 1 - Final Fantasy XIV
 11341 1 - Battlerite
 11340 2 - Guilty Gear Xrd Rev 2, Brave Frontier
-11339 1 - League of Angels 2
+11339 1 - League of Angels II
 11338 1 - MapleStory
 11337 1 - SMITE
 11336 1 - Villagers & Heroes
-11335 2 - Lineage 2: Revolution, Lineage
+11335 2 - Lineage 2 Revolution, Lineage
 11334 1 - Eudemons Online
 11333 1 - Battlerite Royale
 11332 1 - Trove
 11331 1 - DC Universe Online
-11330 1 - Pantheon
+11330 1 - Pantheon: Rise of the Fallen
 11329 1 - Bless Online
 11328 уточнить
 11327 1 - League of Legends
@@ -3715,7 +3716,7 @@
 11322 уточнить
 11321 1 - Bless Online
 11320 2 - Puzzle & Dragons, Yu Yu Hakusho
-11319 1 - DawnBreak
+11319 1 - Dawn Break: The Flaming Emperor
 11318 1 - Bless Online
 11317 1 - Magic Chronicle
 11316 1 - Returners
@@ -3742,7 +3743,7 @@
 11296 1 - TERA
 11295 1 - War Thunder
 11294 1 - DomiNations
-11293 1 - Elder Scrolls Online
+11293 1 - The Elder Scrolls Online
 11292 1 - Defiance 2050
 11291 1 - Defiance 2050
 11290 1 - Defiance 2050
@@ -3757,12 +3758,12 @@
 11281 1 - RWBY: Amity Arena
 11280 1 - Shroud of the Avatar
 11279 1 - Star Trek Online
-11278 1 - Masters of Eternity
+11278 1 - Master of Eternity
 11277 1 - Legends of Aria
 11276 1 - Neverwinter
 11275 1 - H1Z1
 11274 1 - Darwin Project
-11273 1 - League of Angels 2
+11273 1 - League of Angels II
 11272 уточнить
 11271 1 - Champions Online
 11270 1 - Darwin Project
@@ -3786,9 +3787,9 @@
 11253 1 - Fantasy Squad W
 11252 1 - NTales
 11251 1 - Magic: The Gathering Arena
-11250 1 - The Day Online
+11250 1 - THE DAY Online
 11249 1 - Final Fantasy XIV
-11248 1 - League of Angels 2
+11248 1 - League of Angels II
 11247 1 - MU Origin 2
 11246 1 - Conquer Online
 11245 1 - Fortnite
@@ -3813,7 +3814,7 @@
 11226 1 - Royal Quest
 11225 1 - MapleStory Blitz
 11224 1 - Battlerite
-11223 2 - Legacy of Discord, Assassin's Creed Origins
+11223 уточнить
 11222 уточнить
 11221 1 - Blazing Core
 11220 уточнить
@@ -3827,9 +3828,9 @@
 11212 1 - Kritika Online
 11211 1 - Lineage 2 Revolution
 11210 1 - TERA
-11209 2 - Fantasy War Tactics-R, Tower of God
+11209 2 - Fantasy War Tactics R, Tower of God
 11208 1 - Darwin Project
 11207 1 - Star Trek Online
 11206 уточнить
-11205 2 - The Alchemist Code, Fate/Stay Night
+11205 2 - The Alchemist Code, Fate/stay night
 11204 1 - Golf Star
