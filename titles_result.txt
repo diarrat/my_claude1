@@ -3956,7 +3956,7 @@
 11088 1 - Dragon Glory
 11087 1 - Otherland
 11086 1 - League of Angels – Paradise Land
-11085 2 - Paladins, Battlegrounds
+11085 1 - Paladins
 11084 1 - Spellsworn
 11083 1 - FeArea
 11082 1 - Gloria Victis
@@ -4091,7 +4091,7 @@
 10955 уточнить
 10954 уточнить
 
-10953 1 - Hearthstone: Kobolds and Catacombs
+10953 1 - Hearthstone
 10952 1 - Paladins
 10951 1 - Old School RuneScape
 10950 1 - SMITE
@@ -4184,7 +4184,7 @@
 10864 1 - Vainglory
 10863 1 - Destiny 2
 10862 уточнить
-10861 1 - Hearthstone Kobolds & Catacombs
+10861 1 - Hearthstone
 10860 1 - Revelation Online
 10859 1 - Beyond the Void
 10858 1 - Guild Wars 2
@@ -4405,7 +4405,7 @@
 10648 1 - ToyKart
 10647 1 - Onmyoji
 10646 1 - Villagers and Heroes: Starfall
-10645 2 - Fortnite, Fortnite Battle Royale
+10645 1 - Fortnite
 10644 1 - Flyff Legacy
 10643 1 - MU Legend
 10642 1 - Ragnarok Journey
@@ -4523,7 +4523,7 @@
 10532 1 - SMITE
 10531 1 - Crusaders of Light
 10530 1 - Dual Universe
-10529 1 - Path of Exile: The Fall of Oriath
+10529 1 - Path of Exile
 10528 1 - MU Legend
 10527 1 - Total War: ARENA
 10526 1 - Heroes Evolved
@@ -4535,7 +4535,7 @@
 10520 уточнить
 10519 1 - GWENT
 10518 1 - Mighty Party
-10517 1 - Path of Exile: The Fall of Oriath
+10517 1 - Path of Exile
 10516 1 - Wild Buster: Heroes of Titan
 10515 1 - Dauntless
 10514 1 - Life is Feudal: MMO
@@ -4593,7 +4593,7 @@
 10463 1 - Neverwinter
 10462 уточнить
 10461 1 - Pathfinder CCG
-10460 1 - Path of Exile: Fall of Oriath
+10460 1 - Path of Exile
 10459 1 - SMITE
 10458 1 - Star Trek Online
 10457 1 - SMITE
@@ -4800,7 +4800,7 @@
 10260 1 - Games of Glory
 10259 1 - Black Desert Online
 10258 1 - Star Trek Online
-10257 1 - Toukiden 2: Free Alliances Version
+10257 1 - Toukiden 2
 10256 1 - PLAYERUNKNOWN’S BATTLEGROUNDS
 10255 1 - Mirage: Arcane Warfare
 10254 1 - Albion Online
