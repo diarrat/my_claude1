@@ -4,7 +4,7 @@
 7895 1 - RuneScape
 8188 1 - RuneScape
 8500 3 - RuneScape, Old School RuneScape, Chronicle: RuneScape Legends
-11275 3 - H1Z1, PUBG, Fortnite (Ninja '18)
+11275 2 - H1Z1, PUBG
 11347 2 - RuneScape, Old School RuneScape
 11471 1 - Warframe
 11637 1 - Summoners War
