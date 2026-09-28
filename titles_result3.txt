@@ -15251,17 +15251,17 @@
 3243 0 -
 3095 0 -
 2961 0 -
-13224 1 - Old School RuneScape
-12958 1 - RuneScape
-12567 1 - RuneScape
+13224 2 - Old School RuneScape, RuneScape
+12958 3 - RuneScape, Old School RuneScape, RuneScape Mobile
+12567 2 - RuneScape, Old School RuneScape
 11637 1 - Summoners War
 11471 1 - Warframe
-11347 1 - RuneScape
-11275 1 - H1Z1
-8500 1 - RuneScape
+11347 2 - RuneScape, Old School RuneScape
+11275 2 - H1Z1, PlayerUnknown's Battlegrounds
+8500 3 - RuneScape, Old School RuneScape, Chronicle: RuneScape Legends
 8188 1 - RuneScape
 7895 1 - RuneScape
-6222 1 - RuneScape
-6217 1 - RuneScape
+6222 3 - RuneScape, Old School RuneScape, Chronicle: RuneScape Legends
+6217 2 - RuneScape, Chronicle: RuneScape Legends
 5713 1 - RuneScape
 14013 2 - TurtleWoW, World of Warcraft
