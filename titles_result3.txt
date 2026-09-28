@@ -1150,7 +1150,7 @@
 13650 1 - World of Warcraft
 13649 1 - Project Gorgon
 13648 1 - The Elder Scrolls Online
-13647 1 - Pokémon Go
+13647 1 - Pokemon Go
 13645 1 - Ashes of Creation
 13644 1 - Warframe
 13643 1 - Destiny 2
@@ -1387,7 +1387,7 @@
 13369 1 - Doomsday: Last Survivors
 13368 1 - Spellcraft
 13367 1 - EverQuest
-13366 1 - Eudemons
+13366 1 - Eudemons Online
 13365 1 - King of Avalon
 13363 1 - Black Desert Online
 13362 1 - Lords Mobile
@@ -1480,7 +1480,7 @@
 13272 1 - Fractured Online
 13271 1 - Phantasy Star Online 2 New Genesis
 13270 1 - Trove
-13269 1 - Eudemons
+13269 1 - Eudemons Online
 13268 1 - GRIT
 13267 1 - Mobile Royale
 13266 1 - Catalyst Black
@@ -2643,7 +2643,7 @@
 11963 1 - Langrisser Mobile
 11962 1 - Brave Frontier
 11961 1 - RuneScape
-11960 1 - Seal Online: Blades of Destiny
+11960 1 - Seal Online
 11958 1 - Hearthstone
 11957 1 - Fractured Online
 11956 1 - Bingo Pop
@@ -2651,7 +2651,7 @@
 11954 1 - Pirates of the Caribbean: Tides of War
 
 11953 1 - Warhammer: Chaos & Conquest
-11952 1 - Seal Online: Blades of Destiny
+11952 1 - Seal Online
 11951 1 - Twin Saga
 11950 1 - MU Legend
 11949 1 - Ship of Heroes
@@ -2691,7 +2691,7 @@
 11909 1 - Closers
 11908 1 - DomiNations
 11907 1 - Ring of Elysium
-11906 1 - Red Stone Online
+11906 1 - Red Stone
 11905 1 - Final Fantasy XI
 11904 1 - Gear.Club
 
@@ -3056,7 +3056,7 @@
 11497 1 - TERA
 11496 1 - Iron Throne
 11495 1 - Tango 5 Reloaded
-11494 1 - Tactical Monsters
+11494 1 - Tactical Monsters Rumble Arena
 11493 1 - Atlantica Online
 11492 1 - Boxing Star
 11491 1 - Magic: The Gathering
@@ -3195,7 +3195,7 @@
 11333 1 - Battlerite Royale
 11332 1 - Trove
 11331 1 - DC Universe Online
-11330 1 - Pantheon
+11330 1 - Pantheon: Rise of the Fallen
 11329 1 - Bless Online
 11327 1 - League of Legends
 11326 1 - DomiNations
@@ -3294,7 +3294,7 @@
 11216 1 - Crossout
 11215 1 - League of Angels II
 11213 1 - ChronoBlade
-11212 1 - Kritika Online
+11212 1 - Kritika
 11211 1 - Lineage 2 Revolution
 11210 1 - TERA
 11208 1 - Darwin Project
@@ -3306,7 +3306,7 @@
 11202 1 - Guild Wars 2
 11201 1 - Brave Frontier
 11200 1 - DC Unchained
-11199 1 - Black Desert
+11199 1 - Black Desert Online
 11197 1 - Shroud of the Avatar: Forsaken Virtues
 11195 1 - Battlerite
 11194 1 - Crossout
@@ -3355,14 +3355,14 @@
 11148 1 - Final Fantasy XIV
 11147 1 - Blade Reborn
 11146 1 - MU Online
-11145 1 - NTales: Child of Destiny
+11145 1 - NTales
 11144 1 - Dino War
 11143 1 - Hand of the Gods
 11142 1 - Neverwinter
 11141 1 - Defiance 2050
 11140 1 - DawnBreak: The Flaming Emperor
 11139 1 - Mabinogi
-11138 1 - NTales: Child of Destiny
+11138 1 - NTales
 11137 1 - Legacy of Discord
 11136 1 - Flyff
 11135 1 - Hand of the Gods
@@ -3434,8 +3434,8 @@
 11062 1 - Dragon Project
 11061 1 - Villagers & Heroes
 11060 1 - Vainglory
-11058 1 - Tactical Monsters
-11057 1 - Wild Buster
+11058 1 - Tactical Monsters Rumble Arena
+11057 1 - Wild Buster: Heroes of Titan
 11056 1 - EVE Online
 11055 1 - MU Legend
 11053 1 - Hand of the Gods
@@ -3464,7 +3464,7 @@
 11029 1 - Entropia Universe
 11028 1 - League of Angels II
 11027 1 - Hero Hunters
-11026 1 - Tactical Monsters
+11026 1 - Tactical Monsters Rumble Arena
 11025 1 - Insidia
 11024 1 - Ironsight
 11021 1 - Hearthstone
@@ -3477,7 +3477,7 @@
 11014 1 - Lord of Dice
 11013 1 - Paragon
 11012 1 - Cross Fire
-11011 1 - Rise of Ragnarok – Asunder
+11011 1 - Rise of Ragnarok
 11010 1 - DawnBreak: The Flaming Emperor
 11009 1 - Conqueror's Blade
 11008 1 - Onmyoji
@@ -3510,7 +3510,7 @@
 10979 1 - MU Ignition
 10974 1 - Gloria Victis
 10973 1 - SMITE
-10972 1 - Kritika Online
+10972 1 - Kritika
 10971 1 - Phantom Chaser
 10970 1 - Hero Hunters
 10969 1 - Zula
@@ -3588,7 +3588,7 @@
 10889 1 - Duelyst
 10888 1 - Path of Exile: War for the Atlas
 10887 1 - Dauntless
-10886 1 - Space Wars
+10886 1 - Space Wars: Interstellar Empires
 10885 1 - Escape from Tarkov
 10884 1 - Heroes Evolved
 10883 1 - Phantom of the Kill
@@ -3657,7 +3657,7 @@
 10817 1 - Ironsight
 10816 1 - Warframe
 10815 1 - Magic: The Gathering Arena
-10814 1 - Tactical Monsters
+10814 1 - Tactical Monsters Rumble Arena
 10813 1 - Tactical Monsters Rumble Arena
 10812 1 - Wild Buster: Heroes of Titan
 10811 1 - The Third Age
@@ -3757,7 +3757,7 @@
 10711 1 - Super Tactics: Real Time Battle
 10710 1 - The Alchemist Code
 10709 1 - Ashes of Creation
-10708 1 - 3on3 Freestyle Basketball
+10708 1 - 3on3 FreeStyle
 10707 1 - Hand of the Gods
 10706 1 - RuneScape
 10705 1 - GUNDAM Battle
@@ -3785,7 +3785,7 @@
 10682 1 - Fractured
 10681 1 - Ship of Heroes
 10680 1 - Ultima Online
-10679 1 - Kritika Online
+10679 1 - Kritika
 10677 1 - Brawlhalla
 10676 1 - Pocket Legends Adventures
 10675 1 - Hyper Universe
@@ -3804,7 +3804,7 @@
 10658 1 - Hand of the Gods
 10657 1 - Legends of Aria
 10656 1 - Neverwinter
-10655 1 - Kritika Online
+10655 1 - Kritika
 10654 1 - The Amazing Eternals
 
 10653 1 - Rings of Anarchy
@@ -3874,7 +3874,7 @@
 10586 1 - World of Tanks
 10585 1 - Travian: Legends
 10584 1 - Vainglory
-10583 1 - Fairy Tale: Hero’s Journey
+10583 1 - Fairy Tail: Hero’s Journey
 10582 1 - Warlords of Aternum
 10581 1 - Total War: ARENA
 10580 1 - Hyper Universe
@@ -3913,7 +3913,7 @@
 10545 1 - War Thunder
 10544 1 - Dragon Nest II
 10543 1 - The Amazing Eternals
-10542 1 - Wild Buster
+10542 1 - Wild Buster: Heroes of Titan
 10540 1 - Ship of Heroes
 10539 1 - Gigantic
 10538 1 - Fairy Tail: Hero’s Journey
@@ -3929,7 +3929,7 @@
 10528 1 - MU Legend
 10527 1 - Total War: ARENA
 10526 1 - Heroes Evolved
-10525 1 - SkySaga: Infinite Isles
+10525 1 - SkySaga
 10524 1 - Trove
 10523 1 - Hunters League
 10522 1 - Heroes Evolved
@@ -3945,7 +3945,7 @@
 10511 1 - MapleStory
 10510 1 - Hyper Universe
 10509 1 - Hades’ Star
-10508 1 - Kritika Online
+10508 1 - Kritika
 10507 1 - Unknown Heroes
 10506 1 - World of Tanks
 10505 1 - Travian: Legends
@@ -3981,7 +3981,7 @@
 10472 1 - Fortnite
 10471 1 - Guild Wars 2: Path of Fire
 10470 1 - LawBreakers
-10469 1 - FINAL FANTASY XIV Online
+10469 1 - Final Fantasy XIV
 10468 1 - Final Fantasy XIV
 10467 1 - Hearthstone: Knights of the Frozen Throne
 10466 1 - Faeria
@@ -4032,12 +4032,12 @@
 10420 1 - Pathfinder Adventures
 10419 1 - Wild Terra
 10418 1 - PWND
-10417 1 - Warhammer 40,000: Eternal Crusade
+10417 1 - Warhammer 40k: Eternal Crusade
 10416 1 - Marvel Heroes Omega
 10415 1 - RIFT
 10414 1 - Hand of the Gods
 10413 1 - Citadel: Forged with Fire
-10412 1 - Kritika Online
+10412 1 - Kritika
 10411 1 - ARK: Survival Evolved
 10410 1 - Dragon Nest
 10409 1 - Blitzkrieg 3
@@ -4049,7 +4049,7 @@
 
 10402 1 - Riders of Icarus
 10401 1 - Crash Force
-10400 1 - Black Desert
+10400 1 - Black Desert Online
 10399 1 - Steam Hammer
 10398 1 - Rokh
 10397 1 - Portal Knights
@@ -4091,7 +4091,7 @@
 10359 1 - Hover: Revolt of Gamers
 10358 1 - Hyper Universe
 10357 1 - Secret World Legends
-10356 1 - Kritika Online
+10356 1 - Kritika
 10355 1 - SMITE
 10354 1 - Villagers & Heroes
 
@@ -4115,7 +4115,7 @@
 10331 1 - Robocraft Infinity
 10329 1 - Win That War!
 10328 1 - GWENT
-10327 1 - Star Stable
+10327 1 - Star Stable Online
 10326 1 - Bless Online
 10325 1 - Shardbound
 10324 1 - Path of Exile: The Fall of Oriath
@@ -4141,12 +4141,12 @@
 10301 1 - Acaratus
 10300 1 - Divinity: Original Sin 2
 10299 1 - LawBreakers
-10298 1 - Kritika Online
+10298 1 - Kritika
 10297 1 - Paladins
 10296 1 - Hearthstone
 10295 1 - Albion Online
 10294 1 - Keystone
-10293 1 - Kritika Online
+10293 1 - Kritika
 10292 1 - Crossout
 10291 1 - Power Rangers: Legacy Wars
 10290 1 - Phantom of the Kill
@@ -4174,7 +4174,7 @@
 10266 1 - Transformers: Earth Wars
 10265 1 - Planet of Heroes
 10264 1 - Rokh
-10263 1 - Kritika Online
+10263 1 - Kritika
 10262 1 - Immortal Conquest
 10261 1 - Dragon Quest Heroes II
 10260 1 - Games of Glory
@@ -4315,7 +4315,7 @@
 10126 1 - Marvel Heroes 2016
 10125 1 - Survarium
 10124 1 - Dragon Awaken
-10123 1 - Warhammer 40,000: Eternal Crusade
+10123 1 - Warhammer 40k: Eternal Crusade
 10122 1 - Dragon Awaken
 10121 1 - Ship of Heroes
 10120 1 - GodWars
@@ -4337,7 +4337,7 @@
 10104 1 - Forge of Gods
 
 10103 1 - Dragon Nest
-10102 1 - Black Desert
+10102 1 - Black Desert Online
 10101 1 - Hearthstone
 10100 1 - Path of Exile
 10099 1 - Elsword
@@ -4406,7 +4406,7 @@
 10021 1 - Seven Guardians
 10020 1 - C9
 10019 1 - Heroes of the Storm
-10018 1 - Black Desert
+10018 1 - Black Desert Online
 10017 1 - Move or Die
 10016 1 - Guardians of Ember
 10015 1 - Escape from Tarkov
@@ -4527,8 +4527,8 @@
 9898 1 - The Exiled
 9897 1 - Planet of Heroes
 9896 1 - Dragon Ball Xenoverse 2
-9895 1 - Black Desert
-9894 1 - Eternal Crusade
+9895 1 - Black Desert Online
+9894 1 - Warhammer 40k: Eternal Crusade
 9893 1 - Forge of Gods
 9892 1 - Endless Space 2
 9891 1 - Slashy Hero
@@ -4580,7 +4580,7 @@
 9831 1 - Robocraft
 9830 1 - Speed Freeks
 9829 1 - Heroes Evolved
-9828 1 - Wild Terra Online
+9828 1 - Wild Terra
 9827 1 - Atlas Reactor
 9826 1 - Chaos Chronicle
 9825 1 - Rocket League
@@ -4588,7 +4588,7 @@
 9823 1 - First Assault
 9822 1 - Cloud Pirates
 9820 1 - GRAV
-9817 1 - Warhammer 40,000: Eternal Crusade
+9817 1 - Warhammer 40k: Eternal Crusade
 9816 1 - Card Monsters
 9815 1 - Linkrealms
 9814 1 - Splendor
@@ -4670,7 +4670,7 @@
 9731 1 - Planet of Heroes
 9730 1 - The Elder Scrolls Online
 9729 1 - Final Fantasy XIV
-9728 1 - Final Fantasy Mobius
+9728 1 - Mobius Final Fantasy
 9727 1 - World of Tanks
 9726 1 - Tokyo Ghoul: Dark War
 9725 1 - Winning Putt
@@ -4834,7 +4834,7 @@
 9565 1 - Under Night In-Birth Exe:Late
 9564 1 - Pokemon Go
 9563 1 - Berserk
-9561 1 - Warhammer 40,000: Eternal Crusade
+9561 1 - Warhammer 40k: Eternal Crusade
 9560 1 - Rocket League
 9559 1 - Das Tal
 9558 1 - Magerealm
@@ -4866,7 +4866,7 @@
 9531 1 - League of Angels
 9530 1 - Gloria Victis
 9529 1 - MU Origin
-9528 1 - Pokémon Go
+9528 1 - Pokemon Go
 9527 1 - League of Angels II
 9526 1 - Magerealm
 9525 1 - Elite Dangerous: Arena
@@ -4953,7 +4953,7 @@
 9440 1 - Goliath
 9439 1 - Master X Master
 9438 1 - Livelock
-9437 1 - Pantheon
+9437 1 - Pantheon: Rise of the Fallen
 9436 1 - Blade & Soul
 9435 1 - RuneScape
 9434 1 - Mordheim: City of the Damned
@@ -5049,7 +5049,7 @@
 9337 1 - Battleplans
 9336 1 - Soul Seeker: War of the Gods
 9335 1 - League of Legends
-9334 1 - Pokémon Go
+9334 1 - Pokemon Go
 9332 1 - Spellforce 3
 9331 1 - Rocket League
 9330 1 - ASTA
@@ -5071,7 +5071,7 @@
 9314 1 - Champions Online
 9313 1 - Final Fantasy XIV
 9312 1 - Battleborn
-9311 1 - Star Crusade
+9311 1 - Star Crusade: War for the Expanse
 9310 1 - Heroes of Incredible Tales
 9309 1 - Fractured Space
 9308 1 - HeroWarz
@@ -5202,7 +5202,7 @@
 9179 1 - League of Legends
 9178 1 - Trove
 9177 1 - Bless
-9176 1 - Erectus
+9176 1 - Erectus the Game
 9175 1 - SMITE
 9174 1 - Neverwinter
 9173 1 - Swordsman
@@ -5317,7 +5317,7 @@
 9060 1 - Legion of Heroes
 9059 1 - Forsaken World Mobile
 9058 1 - Albion Online
-9057 1 - Black Desert
+9057 1 - Black Desert Online
 9056 1 - RIFT
 9055 1 - Orcs Must Die! Unchained
 9054 1 - Blade & Soul
@@ -5592,7 +5592,7 @@
 8769 1 - Forsaken World
 8768 1 - Path of Exile
 8767 1 - Dragomon Hunter
-8765 1 - Black Desert
+8765 1 - Black Desert Online
 8764 1 - CrossFire 2.0
 8763 1 - Dying Light
 8762 1 - Gloria Victis
@@ -5723,7 +5723,7 @@
 8635 1 - Blood Bowl 2
 8634 1 - Armored Warfare
 8632 1 - Fantasy War Tactics
-8631 1 - Mordheim
+8631 1 - Mordheim: City of the Damned
 8630 1 - Battle Battalions
 8629 1 - Warhammer: Vermintide
 8628 1 - Winterfrost Legacy
@@ -5895,7 +5895,7 @@
 8446 1 - Devilian
 8445 1 - Preta
 8442 1 - Villagers & Heroes
-8441 1 - Hex
+8441 1 - HEX: Shards of Fate
 8440 1 - Elite Lord of Alliance
 8439 1 - Magerealm
 8438 1 - Orcs Must Die! Unchained
@@ -6000,7 +6000,7 @@
 8331 1 - Cabal 2
 8330 1 - Dying Light
 8329 1 - RuneScape
-8328 1 - Warhammer 40,000: Eternal Crusade
+8328 1 - Warhammer 40k: Eternal Crusade
 8327 1 - Conquer Online
 8326 1 - Drift Girls
 8325 1 - Chrono Wars
@@ -6021,7 +6021,7 @@
 8307 1 - Killing Floor 2
 8306 1 - Tom Clancy’s Endwar Online
 8305 1 - Archlord 2
-8304 1 - LEGO Minifigures
+8304 1 - LEGO Minifigures Online
 
 8303 1 - Warlocks vs. Shadows
 8302 1 - Gloria Victis
@@ -6252,7 +6252,7 @@
 8070 1 - Guild Wars 2
 8069 1 - Grand Chase Mobile
 8068 1 - Endless Legend
-8067 1 - Salem Online
+8067 1 - Salem
 8066 1 - HEX: Shards of Fate
 8065 1 - Call of Duty: Black Ops III
 8064 1 - MechWarrior Online
@@ -6339,7 +6339,7 @@
 7980 1 - Rocket League
 7979 1 - Van Helsing
 7978 1 - TERA
-7977 1 - LoA Fire Raiders
+7977 1 - League of Angels: Fire Raiders
 7975 1 - Fantasy War Tactics
 7974 1 - Call of Duty: Advanced Warfare
 7973 1 - Guild Wars 2
@@ -6463,7 +6463,7 @@
 7841 1 - Mayan Death Robots
 7840 1 - Umbra
 7839 1 - Shards of War
-7838 1 - Call of Duty: AW
+7838 1 - Call of Duty: Advanced Warfare
 7837 1 - Skyforge
 7836 1 - Dragon Atlas
 7835 1 - PlanetSide 2
@@ -6614,7 +6614,7 @@
 7685 1 - H-Hour: World’s Elite
 7684 1 - Destiny
 7683 1 - BlazBlue: Battle Cards
-7682 1 - Eternal Crusade
+7682 1 - Warhammer 40k: Eternal Crusade
 7681 1 - Umbra
 7680 1 - Victory Command
 7679 1 - Nords: Heroes of the North
@@ -6712,7 +6712,7 @@
 7586 1 - Vainglory
 7585 1 - WildStar
 7584 1 - Rustbucket Rumble
-7583 1 - Guns of Icarus
+7583 1 - Guns of Icarus Online
 7582 1 - WildStar
 7581 1 - Kung Fu Panda: Showdown of Legendary Legends
 7580 1 - Landmark
@@ -6756,7 +6756,7 @@
 7542 1 - Star Conflict
 7541 1 - The Crew
 7540 1 - Camelot Unchained
-7539 1 - Total War Battles: Kingdoms
+7539 1 - Total War Battles: Kingdom
 7538 1 - PlanetSide 2
 7537 1 - Game of Thrones Ascent
 7536 1 - Stronghold Crusader 2
@@ -6799,7 +6799,7 @@
 7497 1 - Forge of Empires
 7496 1 - WildStar
 7495 1 - War Dragons
-7494 1 - Ragnarok 2
+7494 1 - Ragnarok Online 2
 7493 1 - One Piece: Pirate Warriors 3
 7492 1 - Heroes & Generals
 7491 1 - Celestia – Broken Sky
@@ -6809,7 +6809,7 @@
 7485 1 - Elsword
 7484 1 - Stormfall: Age of War
 7483 1 - Defiance
-7482 1 - Krosmaster
+7482 1 - Krosmaster Arena
 7481 1 - WildStar
 7480 1 - Call of Duty: Advanced Warfare
 7479 1 - Grand Chase
@@ -6886,7 +6886,7 @@
 7407 1 - Camelot Unchained
 7406 1 - Dragon Ball Xenoverse
 7405 1 - Worlds of Magic
-7404 1 - Hearthstone: Heroes of Warcraft
+7404 1 - Hearthstone
 
 7403 1 - Devouring Stars
 7402 1 - Sentinel Heroes
@@ -7055,7 +7055,7 @@
 7218 1 - Global Strike
 7217 1 - World of Warships
 7216 1 - The Secret World
-7215 1 - Warhammer 40,000: Eternal Crusade
+7215 1 - Warhammer 40k: Eternal Crusade
 7214 1 - H1Z1
 7213 1 - Cross Fire
 7212 1 - Freestyle2
@@ -7080,7 +7080,7 @@
 7192 1 - Summoner’s Legion
 7191 1 - Tactics Conqueror’s War
 7189 1 - Siegelord
-7185 1 - Warlocks
+7185 1 - Warlocks vs. Shadows
 7184 1 - Infinite Crisis
 7183 1 - Orcs Must Die! Unchained
 7182 1 - Tree of Savior
@@ -7088,7 +7088,7 @@
 7180 1 - Taichi Panda
 7179 1 - Counter-Strike Nexon: Zombies
 7178 1 - Hearthstone
-7177 1 - Requiem: Rise of the Reaver
+7177 1 - Requiem
 7176 1 - Vainglory
 7173 1 - Crowfall
 7172 1 - Rise of Incarnates
@@ -7274,7 +7274,7 @@
 6983 1 - 3000AD Universal Combat CE
 6982 1 - SMITE
 6981 1 - Heroes of the Storm
-6980 1 - Warhammer 40,000: Eternal Crusade
+6980 1 - Warhammer 40k: Eternal Crusade
 6979 1 - Moon Hunters
 6978 1 - Globe Strike
 6977 1 - Skyforge
@@ -7332,7 +7332,7 @@
 6919 1 - Dreadnought
 6918 1 - Bloodline Champions
 6917 1 - Elsword
-6916 1 - Final Fantasy XIV: A Realm Reborn
+6916 1 - Final Fantasy XIV
 6914 1 - Dirty Bomb
 6913 1 - World of Warcraft
 6912 1 - Cabal 2
@@ -7398,7 +7398,7 @@
 6844 1 - Novus AEterno
 6843 1 - World of Warships
 6842 1 - Shards of War
-6841 1 - Final Fantasy XIV: A Realm Reborn
+6841 1 - Final Fantasy XIV
 6839 1 - Soul Seeker
 6838 1 - Supreme League of Patriots
 6837 1 - Elvenar
@@ -7512,7 +7512,7 @@
 6720 1 - The Crew
 6719 1 - Unsettled
 6718 1 - Star Conflict
-6717 1 - Final Fantasy XIV: A Realm Reborn
+6717 1 - Final Fantasy XIV
 6716 1 - Tree of Savior
 6714 1 - Zombies Monsters Robots
 6713 1 - Block N Load
@@ -7531,7 +7531,7 @@
 6700 1 - Magicka: Wizard Wars
 6699 1 - Warface
 6698 1 - Space Hulk: Ascension
-6697 1 - Call of Duty: AW
+6697 1 - Call of Duty: Advanced Warfare
 6696 1 - Dragon Atlas
 6694 1 - Heroes Charge
 6693 1 - Siegelord
@@ -7542,7 +7542,7 @@
 6686 1 - Nova Genesis
 6685 1 - Elsword
 6684 1 - Clockwork Empires
-6683 1 - Dark Blood Online
+6683 1 - Dark Blood
 6682 1 - Legend of Edda
 6681 1 - SMITE
 6680 1 - SMITE
@@ -7557,7 +7557,7 @@
 6671 1 - Company of Heroes 2
 6670 1 - Ironkill
 6669 1 - KingsRoad
-6668 1 - Warhammer 40,000: Eternal Crusade
+6668 1 - Warhammer 40k: Eternal Crusade
 6667 1 - World of Tanks
 6666 1 - Total War: Rome II
 6665 1 - Divinity: Original Sin
@@ -7615,7 +7615,7 @@
 6610 1 - HEX: Shards of Fate
 6609 1 - Skyforge
 6608 1 - Chaos Reborn
-6607 1 - Final Fantasy XIV: A Realm Reborn
+6607 1 - Final Fantasy XIV
 6606 1 - Heroes of Might & Magic III HD Edition
 6605 1 - Go!Go!Go!:Racer
 6604 1 - Final Fantasy XI
@@ -7651,7 +7651,7 @@
 6571 2 - Check-in, Knock-out
 6570 1 - Etherium
 6569 1 - Act of Aggression
-6568 1 - TERA Online
+6568 1 - TERA
 6567 1 - League of Legends
 6566 1 - Camelot Unchained
 6565 1 - Warface
@@ -7757,7 +7757,7 @@
 6455 1 - MU Classic
 6454 1 - DC Universe Online
 
-6453 1 - Entropia
+6453 1 - Entropia Universe
 6452 1 - Company of Heroes 2
 6451 1 - Guild Wars 2
 6450 1 - Stormthrone
@@ -7780,7 +7780,7 @@
 6432 1 - World War II D-Day
 6431 1 - Blackwake
 6430 1 - Ancestory
-6429 1 - Final Fantasy XIV: A Realm Reborn
+6429 1 - Final Fantasy XIV
 6428 1 - World of Warcraft
 6427 1 - SMITE
 6425 1 - Infinite Crisis
@@ -7841,7 +7841,7 @@
 6367 1 - The Lord of the Rings Online
 6366 1 - The Crew
 6365 1 - Counter-Strike Nexon: Zombies
-6364 1 - Final Fantasy XIV: A Realm Reborn
+6364 1 - Final Fantasy XIV
 6362 1 - TERA
 6361 1 - Neverwinter
 6360 1 - Echo of Souls
@@ -7912,7 +7912,7 @@
 6293 1 - King of Wushu
 6292 1 - Villagers & Heroes
 6291 1 - Neverwinter
-6290 1 - Ragnarok Valkyrie Uprising
+6290 1 - Ragnarok Online: Valkyrie Uprising
 6289 1 - GunZ 2: The Second Duel
 6288 1 - LEGO Minifigures Online
 6286 1 - Skara: The Blade Remains
@@ -7971,7 +7971,7 @@
 6230 1 - Galactic Civilizations III
 6229 1 - Camelot Unchained
 6228 1 - Planet Calypso
-6227 1 - Final Fantasy XIV: A Realm Reborn
+6227 1 - Final Fantasy XIV
 6226 1 - Life is Feudal
 6225 1 - Quantum Rush Champions
 6224 1 - LEGO Minifigures Online
@@ -7981,7 +7981,7 @@
 6219 1 - Clockwork Empires
 6215 1 - Project Cars
 6214 1 - SEVENCORE
-6213 1 - Legend of Edda: Global Edition
+6213 1 - Legend of Edda
 6212 1 - ArcheAge
 6211 1 - Worlds of Magic
 6210 1 - Final Fantasy XIV
@@ -8056,7 +8056,7 @@
 6136 1 - M&M Heroes Online
 6135 1 - The Crew
 6134 1 - Erebus2
-6133 1 - Eternal Crusade
+6133 1 - Warhammer 40k: Eternal Crusade
 6132 1 - Grepolis
 6131 1 - Project Blackout
 6130 1 - WWE Supercard
@@ -8079,7 +8079,7 @@
 6111 1 - EVE Online
 6110 1 - Das Tal
 6109 1 - Ascent: The Space Game
-6108 1 - Warlocks
+6108 1 - Warlocks vs. Shadows
 6107 1 - Armored Warfare
 6106 1 - World of Tanks
 6105 1 - Strife
@@ -8138,7 +8138,7 @@
 6049 1 - Erebus2
 6048 1 - Knights N Squires
 6047 1 - Project Blackout
-6046 1 - LEGO Minifigures
+6046 1 - LEGO Minifigures Online
 6045 1 - Albion Online
 6044 1 - Gauntlet
 6043 1 - World of Tanks
@@ -8253,7 +8253,7 @@
 5928 1 - Jagged Alliance: Flashback
 5927 1 - The Repopulation
 5926 1 - Robocraft
-5924 1 - ÆRENA
+5924 1 - Ærena: Clash of Champions
 5923 1 - Black Gold Online
 5922 1 - WildStar
 5921 1 - Armored Warfare
@@ -8277,7 +8277,7 @@
 5897 1 - Star Conflict
 5896 1 - Eudemons Online
 5895 1 - Archlord 2
-5894 1 - Final Fantasy XIV: A Realm Reborn
+5894 1 - Final Fantasy XIV
 5893 1 - Jewel Fight: HoL
 5892 1 - Heroes & Generals
 5891 1 - Camelot Unchained
@@ -8294,7 +8294,7 @@
 5879 1 - Ridge Racer Slipstream
 5878 1 - TERA
 5877 1 - Moon Hunters
-5876 1 - ÆRENA
+5876 1 - Ærena: Clash of Champions
 5875 1 - Star Trek Online
 5874 1 - Diablo III
 5873 1 - League of Legends
@@ -8368,7 +8368,7 @@
 5798 1 - Guild Wars 2
 5797 1 - SMITE
 5796 1 - WoT
-5795 1 - Onigiri
+5795 1 - Onigiri Online
 5794 1 - WoT
 5793 1 - Champions Online
 5792 1 - Path of Exile
@@ -8426,7 +8426,7 @@
 5736 1 - Final Fantasy XIV
 5735 1 - WH40K Eternal Crusade
 5734 1 - Shikihime Garden
-5733 1 - ÆRENA
+5733 1 - Ærena: Clash of Champions
 5732 1 - Skyforge
 5731 1 - Ilya Muromets
 5730 1 - Hazard Ops
@@ -8473,7 +8473,7 @@
 5689 1 - Sentinel Heroes
 5688 1 - Zombies Monsters Robots
 5687 1 - RuneScape
-5686 1 - Guns of Icarus
+5686 1 - Guns of Icarus Online
 5685 1 - League of Legends
 5683 1 - Archlord 2
 5682 1 - Warhammer 40k: Eternal Crusade
@@ -8518,7 +8518,7 @@
 5643 1 - The Lord of the Rings Online
 5642 1 - Orcs Must Die! Unchained
 5641 1 - War Thunder
-5640 1 - Final Fantasy XIV: A Realm Reborn
+5640 1 - Final Fantasy XIV
 5639 1 - Grand Chase
 5638 1 - ArcheAge
 5637 1 - The Mighty Quest For Epic Loot
@@ -8544,7 +8544,7 @@
 5617 1 - Transformers Universe
 5616 1 - Elsword
 5615 1 - Shadowbound
-5614 1 - Kritika: Chaos Unleashed
+5614 1 - Kritika
 5613 1 - Skyforge
 5612 1 - Quantum Rush
 5611 1 - Warhammer 40K Carnage
@@ -8566,7 +8566,7 @@
 5596 1 - ArcheAge
 5595 1 - SMITE
 5594 1 - Nosgoth
-5592 1 - Warhammer 40K: EC
+5592 1 - Warhammer 40k: Eternal Crusade
 5591 1 - Shadow Kings
 5590 1 - ArcheAge
 5589 1 - Heroes & Generals
@@ -8581,18 +8581,18 @@
 5580 1 - Epigenesis
 5579 1 - Warframe
 5578 1 - Divinity: Original Sin
-5577 1 - Alfheim Tales
+5577 1 - Alfheim Tales Online
 5576 1 - Fantasy Warlord
 5575 1 - C9
 5573 1 - Trials of Ascension
-5572 1 - Skara
+5572 1 - Skara: The Blade Remains
 5571 1 - Hearthstone
 5570 1 - Firefall
 5569 1 - Guild Wars 2
 5568 1 - Archlord 2
 5567 1 - The World 2
 5566 1 - Rampage Knights
-5565 1 - Final Fantasy XIV: A Realm Reborn
+5565 1 - Final Fantasy XIV
 5564 1 - Hazard Ops
 5563 1 - Shadowbound
 5562 1 - Planet Calypso
@@ -8624,7 +8624,7 @@
 5533 1 - Elsword
 5532 1 - KingsRoad
 5531 1 - League of Legends
-5530 1 - Swordsman Online
+5530 1 - Swordsman
 5529 1 - HEX: Shards of Fate
 5528 1 - Neverwinter
 5527 1 - Guild Wars 2
@@ -8633,7 +8633,7 @@
 5524 1 - Cabal Online
 5522 1 - Grand Theft Auto Online
 5521 1 - Zombies Monsters Robots
-5520 1 - City of Steam Arkadia
+5520 1 - City of Steam
 5519 1 - Astro Lords: Oort Cloud
 5518 1 - Shikihime Garden
 5517 1 - WildStar
@@ -8675,18 +8675,18 @@
 5481 1 - Tanki Online
 5480 1 - Quantum Rush Champions
 5479 1 - Wild Warfare
-5478 1 - ÆRENA
-5477 1 - Warhammer 40,000: Eternal Crusade
-5476 1 - Warhammer 40,000: Eternal Crusade
+5478 1 - Ærena: Clash of Champions
+5477 1 - Warhammer 40k: Eternal Crusade
+5476 1 - Warhammer 40k: Eternal Crusade
 5473 1 - Elsword
 5472 1 - Mabinogi
 5471 1 - WildStar
-5470 1 - Skara
+5470 1 - Skara: The Blade Remains
 5469 1 - Hero Civilization: A New Dawn
 5468 1 - Company of Heroes 2
 5467 1 - Guns n’ Zombies
 5466 1 - Tribal Wars 2
-5465 1 - Warhammer 40,000: Eternal Crusade
+5465 1 - Warhammer 40k: Eternal Crusade
 5464 1 - Wakfu
 5463 1 - Celtic Heroes
 5462 1 - Guild Wars 2
@@ -8728,7 +8728,7 @@
 5424 1 - La Tale
 5423 1 - Chrono Tales
 5422 1 - Mucho Party
-5421 1 - Eternal Crusade
+5421 1 - Warhammer 40k: Eternal Crusade
 5420 1 - Infinite Crisis
 5419 1 - WildStar
 5418 1 - Guild Wars 2
@@ -8747,10 +8747,10 @@
 
 5403 1 - MU Online
 5402 1 - World of Tanks Blitz
-5401 1 - Onigiri
+5401 1 - Onigiri Online
 5400 1 - Battlecry
 5399 1 - Rise of Incarnates
-5397 1 - Swordsman Online
+5397 1 - Swordsman
 5396 1 - Hazard Ops
 5395 1 - Skara: The Blade Remains
 5394 1 - Guns and Robots
@@ -8770,7 +8770,7 @@
 5379 1 - EVE
 5378 1 - A.V.A Online
 5377 1 - Mortal Online
-5376 1 - Final Fantasy XIV: A Realm Reborn
+5376 1 - Final Fantasy XIV
 5375 1 - World of Speed
 5374 1 - Archlord 2
 5373 1 - SMITE
@@ -8892,7 +8892,7 @@
 5246 1 - Tribal Wars 2
 5245 1 - Novus AEterno
 5244 1 - Dirty Bomb
-5242 1 - Fiesta
+5242 1 - Fiesta Online
 5241 1 - Arena of Fate
 5240 1 - F1 Race Stars
 5239 1 - Tanki Online
@@ -8926,7 +8926,7 @@
 5208 1 - Popup Dungeon
 5207 1 - ARGO Online
 5206 1 - Marvel Heroes
-5205 1 - Ragnarok 2
+5205 1 - Ragnarok Online 2
 5204 1 - EVE
 
 5202 1 - War Thunder
@@ -8955,7 +8955,7 @@
 5177 1 - Zombies Monsters Robots
 5176 1 - United Eleven
 5175 1 - Elsword
-5174 1 - City of Steam Arkadia
+5174 1 - City of Steam
 5173 1 - Astro Lords: Oort Cloud
 5172 1 - Darkfall Unholy Wars
 5171 1 - Battle for Gea
@@ -8988,7 +8988,7 @@
 5143 1 - Company of Heroes 2
 5142 1 - SNOW
 5141 1 - MU Classic
-5140 1 - Swordsman Online
+5140 1 - Swordsman
 5139 1 - Heroes & Generals
 5138 1 - Quantum Rush
 5137 1 - S.K.I.L.L – Special Forces 2
@@ -9007,7 +9007,7 @@
 5124 1 - Infinite Crisis
 5123 1 - Krosmaster Arena
 5121 1 - Planets³
-5120 1 - ÆRENA
+5120 1 - Ærena: Clash of Champions
 5119 1 - Realm Zero
 5118 1 - Dragon Nest
 5117 1 - War Thunder
@@ -9043,7 +9043,7 @@
 5085 1 - TERA
 5084 1 - Blast Zone
 5083 1 - Eldevin
-5082 1 - ARGO
+5082 1 - ARGO Online
 5081 1 - EVE: Valkyrie
 5080 1 - La Tale
 5079 1 - Transformers Universe
@@ -9074,9 +9074,9 @@
 5054 1 - Throw Trucks with your Mind
 
 5053 1 - Shikihime Garden
-5052 1 - Final Fantasy XIV: A Realm Reborn
+5052 1 - Final Fantasy XIV
 5051 1 - Lineage II
-5050 1 - City of Steam Arkadia
+5050 1 - City of Steam
 5049 1 - LEGO Minifigures Online
 5048 1 - Infinity Wars
 5047 1 - ArcheBlade
@@ -9093,7 +9093,7 @@
 5035 1 - Black Gold Online
 5034 1 - Boom Beach
 5033 1 - Project Chasers
-5032 1 - Final Fantasy XIV: A Realm Reborn
+5032 1 - Final Fantasy XIV
 5031 1 - League of Angels
 5030 1 - Tales Runner
 5029 1 - StarCraft II
@@ -9140,7 +9140,7 @@
 4985 1 - SMITE
 4984 1 - Epic Arena
 4983 1 - War Thunder
-4981 1 - Final Fantasy XIV: A Realm Reborn
+4981 1 - Final Fantasy XIV
 4980 1 - League of Angels
 4979 1 - Heroes & Generals
 4978 1 - League of Legends
@@ -9175,8 +9175,8 @@
 4950 1 - World of Darkness
 4949 1 - Sid Meier’s Civilization: Beyond Earth
 4948 1 - Quantum Rush
-4947 1 - Final Fantasy XIV: A Realm Reborn
-4945 1 - Final Fantasy XIV: A Realm Reborn
+4947 1 - Final Fantasy XIV
+4945 1 - Final Fantasy XIV
 4944 1 - WildStar
 4943 1 - Warframe
 4942 1 - PlanetSide 2
@@ -9222,7 +9222,7 @@
 4898 1 - Shikihime Garden
 4897 1 - Card Hunter
 4896 1 - Yulgang Online
-4895 1 - ARGO
+4895 1 - ARGO Online
 4893 1 - Albion Online
 4892 1 - Cross Fire
 4891 1 - Enemy Front
@@ -9238,7 +9238,7 @@
 4881 1 - Shining Empire
 4880 1 - Celtic Heroes
 4879 1 - Duelyst
-4877 1 - Final Fantasy XIV: A Realm Reborn
+4877 1 - Final Fantasy XIV
 4876 1 - Zombies Monsters Robots
 4875 1 - Guild Wars 2
 4873 1 - Age of Wonders III
@@ -9276,7 +9276,7 @@
 4839 1 - EVE
 4838 1 - The Dreamland Chronicles
 4837 1 - SMITE
-4836 1 - Black Gold
+4836 1 - Black Gold Online
 4835 1 - World of Warplanes
 4834 1 - CalcMMO
 4833 1 - War Thunder
@@ -9322,7 +9322,7 @@
 4792 1 - League of Angels
 4791 1 - Black Gold Online
 4790 1 - World of Tanks
-4788 1 - Final Fantasy XIV: A Realm Reborn
+4788 1 - Final Fantasy XIV
 4787 1 - War Thunder
 4786 1 - Herokon Online
 4785 1 - MapleStory
@@ -9387,7 +9387,7 @@
 4720 1 - PlanetSide 2
 4719 1 - Quantum Rush
 4718 1 - EVE
-4717 1 - ARGO
+4717 1 - ARGO Online
 4716 1 - SMITE
 4715 1 - Monster Madness Online
 4713 1 - Lost Saga
@@ -9405,7 +9405,7 @@
 4701 1 - The Forest Project
 4700 1 - Gauntlet
 4699 1 - Brave Tribe
-4698 1 - Hearthstone: Heroes of Warcraft
+4698 1 - Hearthstone
 4697 1 - ArcheAge
 4696 1 - Elsword
 4695 1 - Transformers Universe
@@ -9414,10 +9414,10 @@
 4691 1 - Age of Wonders III
 4690 1 - The Secret World
 4689 1 - League of Angels
-4688 1 - AdventureQuest World
+4688 1 - AdventureQuest Worlds
 4687 1 - Infinite Crisis
 4686 1 - Warlord Saga
-4685 1 - Final Fantasy XIV: A Realm Reborn
+4685 1 - Final Fantasy XIV
 4684 1 - RIFT
 4683 1 - Arcane Legends
 4682 1 - Age of Wushu
@@ -9471,7 +9471,7 @@
 4627 1 - The Aurora World
 4626 1 - EVE Online
 4625 1 - Tribal Wars 2
-4624 1 - Final Fantasy XIV: A Realm Reborn
+4624 1 - Final Fantasy XIV
 4623 1 - Battle Towers
 4622 1 - Race the Sun
 4621 1 - SMITE
@@ -9493,7 +9493,7 @@
 4604 1 - Dawngate
 
 4603 1 - Infinite Crisis
-4602 1 - City of Steam Arkadia
+4602 1 - City of Steam
 4601 1 - Duty of Sentinel
 4600 1 - Orbital Gear
 4599 1 - Naruto Saga
@@ -9518,7 +9518,7 @@
 4577 1 - Cloud Raiders
 4576 1 - Grand Chase
 4575 1 - EVE
-4573 1 - Skara
+4573 1 - Skara: The Blade Remains
 4572 1 - Project Zomboid
 4571 1 - Neverwinter
 4570 1 - Year 0
@@ -9560,9 +9560,9 @@
 4535 1 - ACR Drift
 4534 1 - World of the Living Dead: Resurrection
 4533 1 - Ridge Racer Slipstream
-4532 1 - Requiem: Rise of the Reaver
+4532 1 - Requiem
 4531 1 - Naruto Saga
-4530 1 - Ragnarok 2
+4530 1 - Ragnarok Online 2
 4529 1 - League of Angels
 4528 1 - Wargame Red Dragon
 4527 1 - Strife
@@ -9577,13 +9577,13 @@
 4517 1 - Stronghold Kingdoms
 4516 1 - Eldevin
 4515 1 - Line of Defense Tactics
-4514 1 - Final Fantasy XIV: A Realm Reborn
+4514 1 - Final Fantasy XIV
 4513 1 - Black Gold Online
-4512 1 - RuneScape 3
+4512 1 - RuneScape
 4511 1 - Therian Saga
 4510 1 - War Thunder
 4509 1 - Guild Wars 2
-4508 1 - GunZ 2
+4508 1 - GunZ 2: The Second Duel
 4507 1 - Holy Blade Online
 4505 1 - Camelot Unchained
 
@@ -9604,7 +9604,7 @@
 4487 1 - Arena of Heroes
 4486 1 - Mabinogi
 4484 1 - The West
-4482 1 - Requiem: Memento Mori
+4482 1 - Requiem
 4480 1 - League of Angels
 4479 1 - Aura Kingdom
 4478 1 - Insurgency
@@ -9612,7 +9612,7 @@
 4476 1 - Revolution Ace
 4475 1 - Cabal Online
 4474 1 - League of Angels
-4473 1 - GunZ 2
+4473 1 - GunZ 2: The Second Duel
 4472 1 - Combat Arms
 4471 1 - Elsword
 4470 1 - Age of Wushu
@@ -9724,7 +9724,7 @@
 4357 1 - Blade Hunter
 4356 1 - Soldiers Inc.
 4355 1 - Seven Seas Saga
-4354 1 - Final Fantasy XIV: A Realm Reborn
+4354 1 - Final Fantasy XIV
 
 4353 1 - Novus AEterno
 4352 1 - Skara: The Blade Remains
@@ -9769,7 +9769,7 @@
 4311 1 - Kings and Legends
 4310 1 - Anno Online
 4309 1 - Guild Wars 2
-4308 1 - Final Fantasy XIV: A Realm Reborn
+4308 1 - Final Fantasy XIV
 4307 1 - Trials of Ascension
 4306 1 - Yulgang 2
 4304 1 - Camelot Unchained
@@ -9827,7 +9827,7 @@
 4244 1 - The Repopulation
 4243 1 - Lucent Heart
 4242 1 - Clash of Clans
-4241 1 - Final Fantasy XIV: A Realm Reborn
+4241 1 - Final Fantasy XIV
 4240 1 - WildStar
 4239 1 - The Elder Scrolls Online
 4238 1 - Alfheim Tales Online
@@ -9863,7 +9863,7 @@
 4202 1 - Soldier Front 2
 4201 1 - Blade Hunter
 4200 1 - Elsword
-4198 1 - Final Fantasy XIV: A Realm Reborn
+4198 1 - Final Fantasy XIV
 4197 1 - Ring Runner: Flight of the Sages
 4195 1 - Demon Tribe
 4194 1 - Arena of Heroes
@@ -10007,12 +10007,12 @@
 4015 1 - Dragon’s Prophet
 4014 1 - America’s Army Proving Grounds
 4013 1 - Dragon’s Prophet
-4011 1 - Ragnarok 2: Legend of the Second
+4011 1 - Ragnarok Online 2
 4010 1 - Alteil Horizons
 4009 1 - MicroVolts
 4008 1 - Marvel Heroes
 4007 1 - Arena of Heroes
-4006 1 - Heva Clonia
+4006 1 - Heva Clonia Online
 4005 1 - Alteil Horizons
 4004 1 - RuneScape
 
@@ -10072,7 +10072,7 @@
 3941 1 - Age of Conan: Unchained
 3937 1 - Blacklight Retribution
 3936 1 - RuneScape
-3935 1 - Final Fantasy XIV: A Realm Reborn
+3935 1 - Final Fantasy XIV
 3934 1 - Neverwinter
 3933 1 - MicroVolts
 3932 1 - Path of Exile
@@ -10096,7 +10096,7 @@
 3912 1 - Onigiri Online
 3911 1 - Guild Wars 2
 3910 1 - Wartune
-3909 1 - Skara
+3909 1 - Skara: The Blade Remains
 3907 1 - Neverwinter
 3906 1 - Digimon Masters
 3905 1 - Pockie Pirates
@@ -10132,9 +10132,9 @@
 3871 1 - Silkroad
 3870 1 - Warface
 3869 1 - Guild Wars 2
-3867 1 - RuneScape 3
+3867 1 - RuneScape
 3866 1 - Drakensang Online
-3865 1 - RuneScape 3
+3865 1 - RuneScape
 3864 1 - Aura Kingdom
 3863 1 - Atlantica Online
 3862 1 - Guncraft
@@ -10196,7 +10196,7 @@
 
 3803 1 - Firefall
 3802 1 - F.E.A.R. Online
-3801 1 - Swordsman Online
+3801 1 - Swordsman
 3800 1 - MapleStory
 3799 1 - Vindictus
 3798 1 - Tribal Wars
@@ -10244,7 +10244,7 @@
 
 3753 1 - Elsword
 3752 1 - MU Online
-3751 1 - Ragnarok 2
+3751 1 - Ragnarok Online 2
 3750 1 - SMITE
 3749 1 - MapleStory
 3748 1 - Dragon Nest
@@ -10258,19 +10258,19 @@
 3739 1 - The West
 3738 1 - World of Tanks
 3737 1 - Firefall
-3736 1 - RuneScape 3
+3736 1 - RuneScape
 3735 1 - Mabinogi
 3734 1 - Arctic Combat
 3733 1 - Guild Wars 2
 3732 1 - World of Warplanes
 3731 1 - Guncraft
-3730 1 - Digimon Masters Online
+3730 1 - Digimon Masters
 3729 1 - Age of Wushu
 3728 1 - The Secret World
 3727 1 - Kingdom Conquest II
 3726 1 - PlanetSide 2
 3725 1 - Arena of Heroes
-3723 1 - Ragnarok 2: Legend of the Second
+3723 1 - Ragnarok Online 2
 3722 1 - MU Rebirth
 3721 1 - Soldier Front 2
 3720 1 - MicroVolts
@@ -10307,10 +10307,10 @@
 3689 1 - The West
 3688 1 - World of Tanks
 3687 1 - Star Trek Online
-3686 1 - Seal Online: Blades of Destiny
+3686 1 - Seal Online
 3685 1 - Silkroad Online
 3684 1 - Shaiya
-3683 1 - Black Desert
+3683 1 - Black Desert Online
 3682 1 - Age of Wushu
 3680 1 - Dota 2
 3678 1 - Conquer Online
@@ -10393,12 +10393,12 @@
 3594 1 - Infinite Crisis
 3593 1 - Conquer Online
 3592 1 - Renaissance Heroes
-3591 1 - Ragnarok 2: Legend of the Second
+3591 1 - Ragnarok Online 2
 3590 1 - Remnant Knights
 3589 1 - SMITE
 3588 1 - League of Legends
 3587 1 - Chrono Tales
-3586 1 - RuneScape 3
+3586 1 - RuneScape
 3585 1 - MicroVolts
 3584 1 - World of Tanks
 3583 1 - Elsword
@@ -10429,13 +10429,13 @@
 3555 1 - PlanetSide 2
 3554 1 - Elsword
 
-3553 1 - Ecol Tactics
+3553 1 - Ecol Tactics Online
 3552 1 - SMITE
 3551 1 - TERA
 3550 1 - Battle For Graxia
 3549 1 - Neverwinter
 3548 1 - The West
-3546 1 - Digimon Masters Online
+3546 1 - Digimon Masters
 3545 1 - City of Steam
 3544 1 - General War: Memories
 3542 1 - Infinite Crisis
@@ -10514,7 +10514,7 @@
 3466 1 - Navy Field 2
 3465 1 - Merc Elite
 3464 1 - Origins of Malu
-3463 1 - Ecol Tactics
+3463 1 - Ecol Tactics Online
 3462 1 - Kings and Legends
 3461 1 - Tata Blitz
 3460 1 - Infinite Crisis
@@ -10539,7 +10539,7 @@
 3441 1 - Soldier Front 2
 3440 1 - Eldevin
 3439 1 - Kings and Legends
-3438 1 - Ragnarok 2
+3438 1 - Ragnarok Online 2
 3437 1 - Chrono Tales
 3435 1 - Forge of Empires
 3434 1 - Silkroad
@@ -10556,7 +10556,7 @@
 3423 1 - Tactical Intervention
 3422 1 - Age of Wushu
 3420 1 - Everlight
-3419 1 - Digimon Masters Online
+3419 1 - Digimon Masters
 3418 1 - The Aurora World
 3417 1 - RaiderZ
 3416 1 - Dragon’s Prophet
@@ -10570,7 +10570,7 @@
 3408 1 - Age of Wushu
 3407 1 - The Aurora World
 3406 1 - Silkroad
-3405 1 - Ecol Tactics
+3405 1 - Ecol Tactics Online
 3404 1 - World of Tanks
 
 3403 1 - Neverwinter
@@ -10643,7 +10643,7 @@
 3335 1 - Forge of Empires
 3334 1 - World of Tanks
 3333 1 - Ragnarok Online
-3332 1 - Ecol Tactics
+3332 1 - Ecol Tactics Online
 3331 1 - Elsword
 3330 1 - Kings and Legends
 3328 1 - Chrono Tales
@@ -10679,7 +10679,7 @@
 3297 1 - MicroVolts
 3296 1 - PlanetSide 2
 3295 1 - Arctic Combat
-3294 1 - Ecol Tactics
+3294 1 - Ecol Tactics Online
 3293 1 - Luvinia Online
 3292 1 - DK Online
 3291 1 - Chrono Tales
@@ -10706,10 +10706,10 @@
 3269 1 - Warframe
 3268 1 - Knight Age
 3267 1 - Pockie Pirates
-3265 1 - Granado Espada Online
+3265 1 - Granado Espada
 3264 1 - TERA
 3263 1 - Neverwinter
-3262 1 - Requiem Online
+3262 1 - Requiem
 3261 1 - Archlord
 3260 1 - SMITE
 3259 1 - Silkroad Online
@@ -10731,7 +10731,7 @@
 3238 1 - Arctic Combat
 3237 1 - Grand Chase
 3236 1 - Fallen Earth
-3235 1 - Digimon Masters Online
+3235 1 - Digimon Masters
 3234 1 - Pirates of the Burning Sea
 3233 1 - Silkroad Online
 3232 1 - Knight Age
@@ -10771,7 +10771,7 @@
 3196 1 - Silkroad Online
 3195 1 - Arctic Combat
 3194 1 - League of Legends
-3193 1 - Eudemons
+3193 1 - Eudemons Online
 3192 1 - Final Fantasy Airborne Brigade
 3191 1 - Brawl Busters
 3189 1 - Wizardry Online
@@ -10806,7 +10806,7 @@
 3157 1 - DK Online
 3156 1 - Digimon Masters
 3155 1 - Wartune
-3154 1 - Fiesta
+3154 1 - Fiesta Online
 
 3153 1 - Silkroad
 3152 1 - Star Trek Online
@@ -10859,7 +10859,7 @@
 3103 1 - Dungeons & Dragons Online
 3102 1 - Knight Age
 3101 1 - Scarlet Legacy
-3100 1 - Digimon Masters Online
+3100 1 - Digimon Masters
 3099 1 - RaiderZ
 3098 1 - Combat Arms
 3097 1 - ROSE Online
@@ -10882,7 +10882,7 @@
 3079 1 - Guns and Robots
 3078 1 - C9
 3077 1 - Knight Age
-3076 1 - Darkfall Online
+3076 1 - Darkfall
 3073 1 - Hawken
 3072 1 - Pockie Pirates
 3071 1 - Planet Calypso
@@ -10899,7 +10899,7 @@
 3059 1 - Call of Gods
 3058 1 - MU:eX700
 3057 1 - Elsword
-3056 1 - Ragnarok Classic
+3056 1 - Ragnarok Online Classic
 3055 1 - Kartuga
 3054 1 - Knight Age
 
@@ -10936,7 +10936,7 @@
 3020 1 - PlanetSide 2
 3019 1 - Grepolis
 3018 1 - Wartune
-3017 1 - Knight Age Online
+3017 1 - Knight Age
 3016 1 - Rusty Hearts
 3015 1 - Grand Chase
 3014 1 - Cross Fire
@@ -11156,7 +11156,7 @@
 2784 1 - SMITE
 2783 1 - C9
 2782 1 - Guild Wars 2
-2781 1 - LEGO Minifigures
+2781 1 - LEGO Minifigures Online
 2780 1 - Ragnarok Online
 2779 1 - Tribal Wars
 2778 1 - Uncharted Waters Online
@@ -11246,7 +11246,7 @@
 2687 1 - Hellgate
 2686 1 - MicroVolts
 2685 1 - Sin Streets
-2684 1 - Ragnarok
+2684 1 - Ragnarok Online
 2683 1 - ROSE Online
 2682 1 - Conquer Online
 2681 1 - F1 Online: The Game
@@ -11278,7 +11278,7 @@
 2655 1 - Tribes Ascend
 2654 1 - Combat Arms
 
-2653 1 - Mythos Global
+2653 1 - Mythos
 2652 1 - Brawl Buster
 2651 1 - Lagoonia
 2650 1 - Spirit Tales
@@ -11311,7 +11311,7 @@
 2623 1 - Asda 2
 2622 1 - Archlord
 2621 1 - Runes of Magic
-2620 1 - Ether Saga Odyssey
+2620 1 - Ether Saga Online
 2619 1 - Tribes Ascend
 2618 1 - Ragnarok Online
 2617 1 - SMITE
@@ -11437,7 +11437,7 @@
 2495 1 - Legacy of the Dragons
 2494 1 - Spirit Tales
 2493 1 - Loadout
-2491 1 - Mythos Global
+2491 1 - Mythos
 2490 1 - Spirit Tales
 2489 1 - Drakensang Online
 2487 1 - RuneScape
@@ -11460,7 +11460,7 @@
 2469 1 - Spirit Tales
 2468 1 - Auto Club Revolution
 2467 1 - Star Trek Online
-2466 1 - Luvinia
+2466 1 - Luvinia Online
 2465 1 - MicroVolts
 2464 1 - RiotZone
 2463 1 - Forge of Empires
@@ -11474,7 +11474,7 @@
 
 2453 1 - CrimeCraft
 2452 1 - Lime Odyssey
-2451 1 - Mythos Global
+2451 1 - Mythos
 2450 1 - Vanguard
 2449 1 - Ragnarok Online
 2448 1 - Vindictus
@@ -11494,7 +11494,7 @@
 2434 1 - Spirit Tales
 2433 1 - Elsword
 2432 1 - RiotZone
-2431 1 - Ether Saga
+2431 1 - Ether Saga Online
 2430 1 - EverQuest
 2429 1 - Cross Fire
 2428 1 - Brawl Busters
@@ -11524,7 +11524,7 @@
 2404 1 - Scarlet Legacy
 
 2403 1 - Warface
-2402 1 - Eudemons
+2402 1 - Eudemons Online
 2401 1 - Firefall
 2400 1 - The Lord of the Rings Online
 2399 1 - Requiem
@@ -11542,7 +11542,7 @@
 2387 1 - Hellgate
 2386 1 - Mythos
 2385 1 - Spirit Tales
-2384 1 - Digimon Masters Online
+2384 1 - Digimon Masters
 2382 1 - Brick-Force
 2381 1 - Wakfu
 2380 1 - The Lord of the Rings Online
@@ -11560,7 +11560,7 @@
 2366 1 - Dungeons & Dragons Online
 2365 1 - Mythos
 2364 1 - MicroVolts
-2363 1 - Luvinia
+2363 1 - Luvinia Online
 2362 1 - Skylancer
 2361 1 - Shadow Company
 2359 1 - Divina
@@ -11618,7 +11618,7 @@
 2302 1 - Carte
 2301 1 - Perfect World International
 2300 1 - Star Trek Online
-2298 1 - Mythos Global
+2298 1 - Mythos
 2297 1 - Cross Fire
 2296 1 - Tribes Ascend
 2295 1 - Maestia
@@ -11630,7 +11630,7 @@
 2289 1 - Global Agenda
 2288 1 - Rusty Hearts
 2287 1 - MicroVolts
-2286 1 - Luvinia
+2286 1 - Luvinia Online
 2285 1 - Rosh Online
 2284 1 - Project Blackout
 2283 1 - Carte
@@ -11651,7 +11651,7 @@
 2266 1 - Allods Online
 2265 1 - Lime Odyssey
 2264 1 - Dungeons & Dragons Online
-2263 1 - Luvinia
+2263 1 - Luvinia Online
 2262 1 - Sudden Attack
 2261 1 - Silkroad-R
 2260 1 - Seven Souls Online
@@ -11674,7 +11674,7 @@
 2243 1 - Pockie Ninja
 2242 1 - DC Universe Online
 2241 1 - Tribes Ascend
-2240 1 - Mythos Global
+2240 1 - Mythos
 2239 1 - Project Blackout
 2238 1 - Bright Shadow
 2237 1 - Repulse
@@ -11693,7 +11693,7 @@
 2223 1 - Mabinogi
 2222 1 - Tales of Pirates II
 2221 1 - Rise of Immortals
-2220 1 - Eudemons
+2220 1 - Eudemons Online
 2219 1 - Scarlet Legacy
 2218 1 - Silkroad-R
 2217 1 - Silkroad-R
@@ -11704,9 +11704,9 @@
 2212 1 - DragonSoul
 2211 1 - WindSlayer 2
 2210 1 - Eudemons Online
-2209 1 - Fiesta
+2209 1 - Fiesta Online
 2208 1 - Mabinogi
-2207 1 - Ragnarok
+2207 1 - Ragnarok Online
 2206 1 - Priston Tale
 2205 1 - Star Supremacy
 2204 1 - Heroes in the Sky
@@ -11743,7 +11743,7 @@
 2172 1 - FreeStyle Street Basketball
 2171 1 - Ragnarok Online
 2170 1 - DC Universe Online
-2169 1 - Digimon Masters Online
+2169 1 - Digimon Masters
 2168 1 - Lucent Heart
 2167 1 - Drakensang Online
 2166 1 - The Lord of the Rings Online
@@ -11772,7 +11772,7 @@
 2144 1 - RODE
 2143 1 - Conquer Online
 2142 1 - SD Gundam Capsule Fighter Online
-2141 1 - Mythos Global
+2141 1 - Mythos
 2140 1 - War of the Immortals
 2139 1 - Dragon Nest
 2138 1 - Tribes Ascend
@@ -11791,7 +11791,7 @@
 2125 1 - Battlestar Galactica Online
 2124 1 - RuneScape
 2123 1 - Project Blackout
-2122 1 - Mythos Global
+2122 1 - Mythos
 2121 1 - Dragon Nest
 2120 1 - Rosh Online
 2119 1 - Battlefield Heroes
@@ -11801,11 +11801,11 @@
 2115 1 - Jagged Alliance Online
 2114 1 - Combat Arms
 2113 1 - Mission Against Terror
-2112 1 - Aika
+2112 1 - Aika Online
 2111 1 - Eligium
 2110 1 - Sudden Attack
 2109 1 - Cross Fire
-2108 1 - Luvinia
+2108 1 - Luvinia Online
 2107 1 - MapleStory
 2106 1 - Tales Runner
 2105 1 - Star Supremacy
@@ -11836,7 +11836,7 @@
 2078 1 - WindSlayer 2
 2077 1 - Pangya
 2076 1 - Dungeons & Dragons
-2075 1 - Aika
+2075 1 - Aika Online
 2074 1 - Darkeden
 2073 1 - Repulse
 2072 1 - LEGO Universe
@@ -11885,7 +11885,7 @@
 2028 1 - WindSlayer 2
 2027 1 - MapleStory
 2026 1 - Lucent Heart
-2025 1 - Digimon Masters Online
+2025 1 - Digimon Masters
 2024 1 - Golden Age
 2023 1 - Archlord
 2022 1 - Heroes of Neverwinter
@@ -11897,7 +11897,7 @@
 2016 1 - Atlantica Online
 2015 1 - Wizardry Online
 2014 1 - Sudden Attack
-2013 1 - Prius
+2013 1 - Prius Online
 2012 1 - Karma Online
 2011 1 - Requiem
 2010 1 - WarFlow
@@ -11982,8 +11982,8 @@
 1929 1 - Luvinia Online
 1928 1 - Star Trek Online
 1927 1 - Rusty Hearts
-1926 1 - Bounty Hounds
-1925 1 - Aika
+1926 1 - Bounty Hounds Online
+1925 1 - Aika Online
 1924 1 - Dragon Nest
 1923 1 - Tank Ace
 1922 1 - Hellgate
@@ -12019,7 +12019,7 @@
 1893 1 - 9Dragons
 1892 1 - Dragon Nest
 1891 1 - Drakensang Online
-1890 1 - Ether Saga Odyssey
+1890 1 - Ether Saga Online
 1889 1 - Golden Age
 1888 1 - Tank Ace
 1887 1 - Shin Megami Tensei: Imagine Online
@@ -12040,7 +12040,7 @@
 1872 1 - Scarlet Legacy
 1871 1 - League of Legends
 1870 1 - L.A.W.
-1869 1 - F1 Online
+1869 1 - F1 Online: The Game
 1868 1 - Immortal King
 1867 1 - MapleStory
 1866 1 - Troy Online
@@ -12053,7 +12053,7 @@
 1859 1 - End of Nations
 1858 1 - Forsaken World
 1857 1 - Eden Eternal
-1856 1 - Ether Saga
+1856 1 - Ether Saga Online
 1855 1 - Earth Eternal
 1854 1 - Aethereus
 
@@ -12063,7 +12063,7 @@
 1850 1 - Dungeons & Dragons
 1849 1 - Firefall
 1848 1 - Golden Age
-1846 1 - Voyage Century
+1846 1 - Voyage Century Online
 1845 1 - S4 League
 1844 1 - Spiral Knights
 1843 1 - Planet War
@@ -12085,7 +12085,7 @@
 1827 1 - Dota 2
 1826 1 - Tales of Fantasy
 1825 1 - Tiara Concerto
-1824 1 - Wonderland
+1824 1 - Wonderland Online
 1823 1 - Navy Force
 1822 1 - Dungeon Fighter Online
 1821 1 - Team Fortress 2
@@ -12107,7 +12107,7 @@
 1805 1 - Jade Dynasty
 1804 1 - MapleStory
 
-1803 1 - Eudemons
+1803 1 - Eudemons Online
 1802 1 - Dragon Saga
 1801 1 - CrimeCraft
 1800 1 - Angels Online
@@ -12152,7 +12152,7 @@
 1759 1 - CrimeCraft
 1758 1 - Mini Fighter
 1757 1 - Rusty Hearts
-1756 1 - Luvinia
+1756 1 - Luvinia Online
 1755 1 - Mission Against Terror
 1754 1 - Dream Drops
 
@@ -12187,13 +12187,13 @@
 1725 1 - Battlestar Galactica Online
 1724 1 - Battle of the Immortals
 1723 1 - World of Tanks
-1722 1 - Faxion
+1722 1 - Faxion Online
 1721 1 - Aida Arenas
 1720 1 - Deep Black Online
 1719 1 - ACE Online
 1718 1 - Team Fortress 2
 1717 1 - World of Ants
-1716 1 - Eudemons
+1716 1 - Eudemons Online
 1715 1 - Atlantica Online
 1714 1 - Rusty Hearts
 1713 1 - Hellgate
@@ -12240,7 +12240,7 @@
 1673 1 - MicroVolts
 1672 1 - APB Reloaded
 1671 1 - Knight Online
-1670 1 - Eudemons
+1670 1 - Eudemons Online
 1669 1 - Alganon
 1668 1 - The Lord of the Rings Online
 1667 1 - Blacklight Retribution
@@ -12325,10 +12325,10 @@
 1589 1 - Scarlet Legacy
 1588 1 - MicroVolts
 1587 1 - Mabinogi
-1586 1 - Ether Saga Odyssey
+1586 1 - Ether Saga Online
 1585 1 - Prius Online
 1584 1 - Atlantica Online
-1583 1 - GodsWar
+1583 1 - GodsWar Online
 1582 1 - Silkroad Online
 1581 1 - Mythos
 1580 1 - A Mystical Land
@@ -12342,7 +12342,7 @@
 1572 1 - Grand Chase
 1571 1 - Pockie Ninja
 1570 1 - Combat Arms
-1569 1 - Faxion
+1569 1 - Faxion Online
 1568 1 - ARGO Online
 1567 1 - Dragon Nest
 1566 1 - Mythos
@@ -12356,7 +12356,7 @@
 1558 1 - Land of Chaos Online
 1557 1 - Iris Online
 1556 1 - Need for Speed World
-1555 1 - Ether Saga Odyssey
+1555 1 - Ether Saga Online
 1554 1 - Kingdom Heroes
 
 1553 1 - King of Kings 3
@@ -12390,7 +12390,7 @@
 1524 1 - Eden Eternal
 1523 1 - Allods Online
 1522 1 - MLB Dugout Heroes
-1521 1 - ARGO
+1521 1 - ARGO Online
 1520 1 - C21
 1519 1 - MapleStory
 1518 1 - Dragon Saga
@@ -12411,11 +12411,11 @@
 
 1503 1 - Black Prophecy
 1502 1 - The Lord of the Rings Online
-1501 1 - Trickster
+1501 1 - Trickster Online
 1500 1 - Rappelz
 1499 1 - DragonSoul
 1498 1 - Mythos
-1497 1 - Ether Saga
+1497 1 - Ether Saga Online
 1496 1 - Mission Against Terror
 1495 1 - World of Tanks
 1494 1 - Dungeon Fighter Online
@@ -12509,7 +12509,7 @@
 1404 1 - Remnant Knights
 
 1403 1 - Perfect World International
-1402 1 - Aika
+1402 1 - Aika Online
 1401 1 - Lucent Heart
 1400 1 - Realm of the Titans
 1399 1 - Forsaken World
@@ -12611,7 +12611,7 @@
 1301 1 - Legend of Martial Arts
 1300 1 - Tibia
 1299 1 - MapleStory
-1298 1 - Phoenix Dynasty
+1298 1 - Phoenix Dynasty Online
 1297 1 - Heroes of the Sky
 1296 1 - Pangya
 1295 1 - Alliance of Valiant Arms
@@ -12632,7 +12632,7 @@
 1279 1 - Vindictus
 1278 1 - Genesis A.D
 1277 1 - Allods Online
-1276 1 - Aika
+1276 1 - Aika Online
 1275 1 - MapleStory
 1274 1 - CosmicBreak
 1273 1 - Flyff
@@ -12706,7 +12706,7 @@
 1202 1 - Forsaken World
 1201 1 - Genesis A.D
 1200 1 - Mission Against Terror
-1199 1 - GodsWar
+1199 1 - GodsWar Online
 1198 1 - Drift City
 1197 1 - The Lord of the Rings Online
 1196 1 - Bright Shadow
@@ -12721,7 +12721,7 @@
 1187 1 - Vindictus
 1186 1 - Pandora Saga
 1185 1 - Craft of Gods
-1184 1 - Allods
+1184 1 - Allods Online
 1182 1 - Legend of Martial Arts
 1181 1 - Land of Chaos Online
 1180 1 - A.V.A.
@@ -12742,7 +12742,7 @@
 1165 1 - Alliance of Valiant Arms
 1164 1 - Dungeon Fighter Online
 1163 1 - Counter Strike Online
-1162 1 - Ragnarok Onlines
+1162 1 - Ragnarok Online
 1160 1 - Atlantica Online
 1159 1 - Dynasty Warriors Online
 1158 1 - Lunia
@@ -12872,11 +12872,11 @@
 1032 1 - Grand Chase
 1031 1 - Fists of Fu
 1030 1 - Erebus: Travia Reborn
-1029 1 - AIKA Global
+1029 1 - Aika Online
 1028 1 - Captains of DarkTide
 1026 1 - Shaiya
 1025 1 - Star Trek Online
-1024 1 - Huxley
+1024 1 - Huxley: The Dystopia
 1023 1 - League of Legends
 1021 1 - A.V.A.
 1020 1 - Earth Eternal
@@ -12894,14 +12894,14 @@
 1008 1 - S4 League
 1007 1 - Allods Online
 1006 1 - The Bible Online
-1005 1 - GodsWar
+1005 1 - GodsWar Online
 1004 1 - 9Dragons
 
 1003 1 - World of Tanks
 1002 1 - Hello Kitty Online
 1001 1 - King of Kings 3
 1000 1 - Legend of Edda
-999 1 - Fiesta
+999 1 - Fiesta Online
 998 1 - Neverwinter
 997 1 - EverQuest II
 996 1 - Kabod Online
@@ -12916,7 +12916,7 @@
 985 1 - Iris Online
 984 1 - Trickster Online
 983 1 - Alliance of Valiant Arms
-982 1 - Prius
+982 1 - Prius Online
 981 1 - Soul of the Ultimate Nation
 980 1 - MapleStory
 979 1 - Dynasty Warriors Online
@@ -12957,7 +12957,7 @@
 944 1 - Land of Chaos Online
 942 1 - Moonlight Online
 941 1 - Dragon Nest
-939 1 - GodsWar
+939 1 - GodsWar Online
 938 1 - Tales of Fantasy
 937 1 - FreeStyle Street Basketball
 936 1 - Shot Online
@@ -12997,7 +12997,7 @@
 901 1 - Shot Online
 900 1 - Alliance of Valiant Arms
 899 1 - Allods Online
-897 1 - Fairy Story
+897 1 - Fairy Story Online
 896 1 - Wolf Team
 895 1 - Business Tycoon Online
 894 1 - Splash Fighters
@@ -13050,7 +13050,7 @@
 847 1 - Atlantica Online
 845 1 - Bright Shadow
 844 1 - Combat Arms
-843 1 - Magic World
+843 1 - Magic World Online
 842 1 - Pangya
 841 1 - Captains of DarkTide
 840 1 - Red Stone
@@ -13062,7 +13062,7 @@
 834 1 - Mytheon
 833 1 - Monato Esprit
 832 1 - King of Kings 3
-831 1 - Faxion
+831 1 - Faxion Online
 830 1 - Lords Online
 829 1 - Avalon Heroes
 828 1 - Free Realms
@@ -13093,7 +13093,7 @@
 803 1 - Beach Volleyball
 802 1 - Tales Runner
 801 1 - Zentia
-800 1 - Swordsman Online
+800 1 - Swordsman
 796 1 - Company of Heroes Online
 795 1 - Luvinia Online
 794 1 - Lords Online
@@ -13118,7 +13118,7 @@
 772 1 - Mabinogi
 771 1 - Runes of Magic
 770 1 - Pangya
-769 1 - Audition
+769 1 - Audition Online
 767 1 - Cronous
 766 1 - MicroVolts
 765 1 - FreeStyle
@@ -13137,7 +13137,7 @@
 753 1 - Heroes in the Sky
 752 1 - Turf Battles
 751 1 - Faunasphere
-750 1 - Aika
+750 1 - Aika Online
 749 1 - Dungeons & Dragons Online
 748 1 - Business Tycoon Online
 747 1 - Mytheon
@@ -13149,7 +13149,7 @@
 741 1 - Lords Online
 740 1 - Free Realms
 739 1 - Champions Online
-738 1 - Fiesta
+738 1 - Fiesta Online
 737 1 - Camon Hero
 736 1 - Soldier Front
 735 1 - Land of Chaos Online
@@ -13157,7 +13157,7 @@
 733 1 - Cross Fire
 732 1 - CrimeCraft
 731 1 - Tales Runner
-730 1 - Allods
+730 1 - Allods Online
 729 1 - Luna Online
 728 1 - Runes of Magic
 727 1 - Need for Speed World
@@ -13172,7 +13172,7 @@
 717 1 - Grand Chase
 716 1 - Wizard101
 715 1 - Fantasia
-714 1 - Aika
+714 1 - Aika Online
 713 1 - Forsakia – The Lost Clans
 712 1 - Tanadu
 711 1 - Faxion Online
@@ -13241,7 +13241,7 @@
 642 1 - Black Prophecy
 641 1 - Star Trek Online
 640 1 - Free Realms
-639 1 - Aika
+639 1 - Aika Online
 638 1 - Lords Online
 637 1 - Combat Arms
 635 1 - Pangya
@@ -13419,7 +13419,7 @@
 458 1 - Grand Chase
 457 1 - Runes of Magic
 455 1 - CrimeCraft
-454 1 - Aika
+454 1 - Aika Online
 
 453 1 - Battlestar Galactica
 452 1 - Tales of Fantasy
@@ -13440,16 +13440,16 @@
 435 1 - Kingdom Heroes
 433 1 - Age of Ocean
 432 1 - RuneScape
-431 1 - Allods
+431 1 - Allods Online
 430 1 - Faunasphere
 429 1 - Trickster Online
-428 1 - Fiesta
+428 1 - Fiesta Online
 427 1 - Forsaken World
 426 1 - Dragon Saga
 425 1 - Altis Gates
 424 1 - Pox Nora
 423 1 - Alganon
-422 1 - GodsWar
+422 1 - GodsWar Online
 421 1 - Camon Hero
 420 1 - Gilfor’s Tale
 419 1 - Earth Eternal
@@ -13504,7 +13504,7 @@
 369 1 - Allods Online
 368 1 - Camon Hero
 366 1 - Altis Gates
-365 1 - Aika
+365 1 - Aika Online
 364 1 - Red Stone
 363 1 - Tales of Fantasy
 362 1 - Mini Fighter
@@ -13524,7 +13524,7 @@
 346 1 - Lineage II
 345 1 - Hello Kitty Online
 344 1 - Cronous
-343 1 - Aika
+343 1 - Aika Online
 342 1 - Zodiac Online
 341 1 - League of Legends
 340 1 - Magic World Online
@@ -13548,7 +13548,7 @@
 322 1 - Mabinogi
 321 1 - Dungeon Fighter Online
 320 1 - LAST Online
-319 1 - Audition
+319 1 - Audition Online
 318 1 - Valkyrie Sky
 317 1 - Dragon Oath
 316 1 - KOS Secret Operations
@@ -13558,7 +13558,7 @@
 312 1 - Faunasphere
 311 1 - FreeStyle Street Basketball
 310 1 - Grand Chase
-309 1 - Aika
+309 1 - Aika Online
 308 1 - Dragon Oath
 307 1 - Battle of the Immortals
 305 1 - Bright Shadow
@@ -13578,7 +13578,7 @@
 292 1 - Dragon Sky
 291 1 - Sho Online
 290 1 - Cronous
-289 1 - Mini Fighter Online
+289 1 - Mini Fighter
 288 1 - Altis Gates
 287 1 - Shot Online
 286 1 - Grand Chase
@@ -13609,7 +13609,7 @@
 261 1 - Eudemons Online
 260 1 - Turf Battles
 259 1 - BattleForge
-258 1 - Audition
+258 1 - Audition Online
 257 1 - Mini Fighter
 256 1 - ROSE Online
 255 1 - K.O.S.
@@ -13656,7 +13656,7 @@
 214 1 - FreeStyle
 213 1 - Zodiac Online
 212 1 - Soul of the Ultimate Nation
-211 1 - Mini Fighter Online
+211 1 - Mini Fighter
 210 1 - Altis Gates
 209 1 - Heroes of Gaia
 208 1 - Dragon’s Call
@@ -13668,7 +13668,7 @@
 203 1 - NIDA Online
 201 1 - Aika Online
 200 1 - Dead Frontier
-199 1 - Voyage Century
+199 1 - Voyage Century Online
 198 1 - MapleStory 2
 197 1 - EpicDuel
 196 1 - Bounty Bay Online
@@ -13676,7 +13676,7 @@
 194 1 - Runes of Magic
 192 1 - WonderKing
 191 1 - Grand Fantasia
-190 1 - Eudemons
+190 1 - Eudemons Online
 189 1 - Karos Online
 188 1 - Mythos
 187 1 - The Seventh Dragon
@@ -13816,7 +13816,7 @@
 39 1 - Warrior Epic
 38 1 - Shaiya
 36 1 - Warrior Epic
-35 1 - Aika
+35 1 - Aika Online
 34 1 - Luna Online
 33 1 - EverQuest II
 32 1 - Florensia
@@ -13854,7 +13854,7 @@
 
 14957 2 - Diablo Immortal, Spawn
 14901 2 - Final Fantasy XIV, Final Fantasy XV
-14838 2 - ArcheAge, ArcheAge S
+14838 2 - ArcheAge, ArcheAge S: Strait of Freedom
 14829 2 - MapleStory, Blue Archive
 14767 2 - ROGW: Remains of Gods, Tower of God
 14739 2 - Squadron 42, GTA 6
@@ -14081,7 +14081,7 @@
 8467 2 - Victory Command, Battle Battalions
 8376 2 - EverQuest, EverQuest II
 8363 2 - 20XX, Mega Man
-8361 3 - Soldiers, Inc., Alien versus Predator
+8361 3 - Soldiers Inc., Inc., Alien versus Predator
 8311 2 - Atlas Reactor, Devilian
 8153 4 - RIFT, ArcheAge, Trove, Defiance
 7926 3 - Strike Vector Ex, Ace of Arenas, The Banner Saga 2
@@ -14138,7 +14138,7 @@
 5500 2 - Orcs Must Die! Unchained, Zombies Monsters Robots
 5475 2 - The Banner Saga, Dragons and Titans
 5456 2 - Divinity: Original Sin, Cow Simulator 2014
-5450 2 - Swordsman Online, Dizzel
+5450 2 - Swordsman, Dizzel
 5398 2 - F.E.A.R. Online, Brutal Doom II
 5385 2 - Blitz, World of Warships
 5354 2 - SPACECOM, The Witcher
@@ -14146,27 +14146,27 @@
 5254 2 - Duty of Sentinel, Sentinel Heroes
 5203 2 - Black Gold Online, Nosgoth
 5152 2 - Heroes of the Storm, SMITE
-5042 2 - Dead Island: Epidemic, Eclipse War
+5042 2 - Dead Island: Epidemic, Eclipse War Online
 4998 2 - Popup Dungeon, Ring Runner
 4982 2 - The Secret World, The Black Watchmen
 4874 2 - Original Blood, The Elder Scrolls Online
 4789 2 - EverQuest Next, Landmark
 4779 2 - Elsword, Grand Chase
-4740 2 - Skyforge, Allods
+4740 2 - Skyforge, Allods Online
 4730 2 - KingsRoad, Ballistic
 4729 2 - AdventureQuest, Battle Gems
 4706 2 - Ghost Recon Online, Ghost Recon Phantoms
 4693 2 - Path of Exile, Nosgoth
 4673 2 - World of Tanks, World of Warplanes
 4589 2 - Strife, The Mighty Quest For Epic Loot
-4489 3 - Pandora Saga, Shin Megami Tensei Imagine, Battlespace
+4489 3 - Pandora Saga, Shin Megami Tensei: Imagine Online, Battlespace
 4483 2 - Etherlords I, Etherlords II
 4450 2 - EverQuest Next, Landmark
 4448 2 - EverQuest Next, Landmark
 4402 2 - EverQuest Next, Landmark
 4342 2 - EverQuest Next, Landmark
 4297 2 - ESO, Final Fantasy XIV
-4271 2 - Pantheon, EverQuest
+4271 2 - Pantheon: Rise of the Fallen, EverQuest
 4227 2 - Fantasy Realm Online, UO
 4226 2 - Sudden Attack, Counter-Strike
 4203 2 - Perfect World, DC Universe Online
@@ -14182,10 +14182,10 @@
 4108 2 - EverQuest Next, Landmark
 4107 2 - Heroes of the Storm, Hearthstone
 4064 3 - EVE, Divine Souls, Alteil Horizons
-4057 3 - Naruto Saga, Runescape Old School, Life is Feudal
+4057 3 - Naruto Saga, Old School RuneScape, Life is Feudal
 4050 2 - Archlord 2, Mighty Quest
-4048 3 - Lord of the Rings, Champions, Dogs of War
-4027 3 - Dragon Nest EU, Tactical Intervention, Grepolis
+4048 3 - Lord of the Rings, Champions, Dogs of War Online
+4027 3 - Dragon Nest, Tactical Intervention, Grepolis
 3945 2 - RuneScape, Lost Saga
 3944 4 - Final Fantasy XIV, Guns of Icarus Online, SMITE, The Repopulation
 3942 3 - Guild Wars 2, Eon Altar, Smashmuck Champions
@@ -14194,14 +14194,14 @@
 3908 3 - Lost Saga, Guilty Gear, Minecraft
 3902 2 - EverQuest Next, Landmark
 3877 2 - World of Tanks, War Thunder
-3875 3 - C9, Defiance, Dogs of War
+3875 3 - C9, Defiance, Dogs of War Online
 3776 2 - Remnant Knights, Fullmetal Alchemist
 3673 2 - Qin’s Moon, PAL Online
 3652 2 - DC Universe Online, PlanetSide 2
 3573 2 - Aion, Lineage II
 3567 2 - Digimon Masters, Digimon Battle
 3561 2 - World of Tanks Blitz, World of Warships
-3541 2 - Black Gold, Wushu
+3541 2 - Black Gold Online, Wushu
 3479 2 - World of Tanks, World of Warplanes
 3394 2 - Prius Online, Arcane Saga
 3325 2 - Dofus, Wakfu
@@ -14209,7 +14209,7 @@
 3239 2 - Eden Eternal, Grand Fantasia
 3205 2 - Cross Fire, Project Blackout
 3171 2 - Silkroad Online, Knight Age
-3065 2 - Black Gold, Age of Wushu
+3065 2 - Black Gold Online, Age of Wushu
 3036 2 - Pockie Pirates, One Piece
 2955 2 - Dragon Saga, Ragnarok Online
 2916 2 - Hounds, Monarch
@@ -14258,11 +14258,11 @@
 14687 7 - Final Fantasy XIV, Final Fantasy XIV: Evercold, Final Fantasy VII Rebirth, Dragon Quest X, Final Fantasy X / X-2 HD Remaster, Dragon Quest XI, Kingdom Hearts Collection III
 14686 8 - Lineage Classic, Lineage Remastered, Lineage M, Lineage, AION 2, Cinder City, Project Bonfire, Throne and Liberty
 14684 9 - MapleStory, ARC Raiders, MapleStory Worlds, Dungeon Fighter Online, FC Online, Arad: Idle RPG, Dave the Diver, Azur Promilia, Temppal: Overgeared
-14672 4 - Crimson Desert, Black Desert, DokeV, Plan 8
+14672 4 - Crimson Desert, Black Desert Online, DokeV, Plan 8
 14661 4 - Diablo IV, Overwatch, World of Warcraft, Diablo
 14659 2 - Final Fantasy VII Rebirth, Final Fantasy XIV
 14654 3 - Stranger Than Heaven, Persona 4 Revival, Angry Birds
-14642 5 - ArcheAge, ArcheAge Chronicles, Project X7, ArcheAge S: Straits of Freedom, ArcheAge Returns
+14642 5 - ArcheAge, ArcheAge Chronicles, Project X7, ArcheAge S: Strait of Freedom, ArcheAge Returns
 14632 4 - Yoshi and the Mysterious Book, Star Fox, Pokémon Pokopia, Tomodachi Life: Living the Dream
 14631 5 - PlayerUnknown's Battlegrounds, No Law, Project ZETA, Age Twisters, TARAE: The Unbound
 14611 1 - Minecraft
@@ -14286,7 +14286,7 @@
 14368 3 - The Lord of the Rings game, Tomb Raider, James Bond
 14363 6 - Neverwinter, Star Trek Online, Champions Online, City of Heroes, DC Universe Online, World of Warcraft
 14324 4 - League of Legends MMO, World of Warcraft, Project Ghost, League of Legends
-14306 7 - Fantasy Westward Journey, Where Winds Meet, Identity V, Eggy Party, Sword of Justice, Marvel Rivals, Gang of Dragon
+14306 7 - Fantasy Westward Journey Online, Where Winds Meet, Identity V, Eggy Party, Sword of Justice, Marvel Rivals, Gang of Dragon
 14281 4 - Genshin Impact, Honkai: Star Rail, Zenless Zone Zero, Petit Planet
 14242 8 - Rainbow Six Siege, The Division 2, Assassin's Creed, Avatar: Frontiers of Pandora, The Crew Motorfest, For Honor, XDefiant, Assassin's Creed: Black Flag Resynced
 14237 10 - Tomodachi Life: Living the Dream, Pragmata, Crimson Desert, MLB The Show 26, Windrose, Pokémon Pokopia, Super Mario Galaxy + Super Mario Galaxy 2, Starfield, Saros, Mario Kart World
@@ -14294,11 +14294,11 @@
 14232 5 - Dungeons & Dragons (Giant Skull project), Star Wars Jedi: Fallen Order, Star Wars Jedi: Survivor, Exodus, Warlock: Dungeons & Dragons
 14187 10 - AION 2, Lineage Classic, Lineage, Guild Wars 2, Lineage II, Blade & Soul, Aion, Lineage M, Lineage 2M, Lineage W
 14185 2 - The Lord of the Rings MMO, New World
-14184 16 - Final Fantasy XIV, Dragon Quest X Online, Final Fantasy XIV: Evercold, Dragon Quest X Online Expansion 8.0, Final Fantasy VII Rebirth, Dragon Quest Smash/Grow, Dragon Quest I & II HD-2D Remake, Dragon Quest VII: Reimagined, Final Fantasy Tactics: The Ivalice Chronicles, Dissidia Duellum Final Fantasy, Dragon Quest Walk, Dragon Quest Tact, Octopath Traveler: Champions of the Continent, Final Fantasy VII Ever Crisis, Emberstoria, Magic: The Gathering
+14184 16 - Final Fantasy XIV, Dragon Quest X, Final Fantasy XIV: Evercold, Dragon Quest X Online Expansion 8.0, Final Fantasy VII Rebirth, Dragon Quest Smash/Grow, Dragon Quest I & II HD-2D Remake, Dragon Quest VII: Reimagined, Final Fantasy Tactics: The Ivalice Chronicles, Dissidia Duellum Final Fantasy, Dragon Quest Walk, Dragon Quest Tact, Octopath Traveler: Champions of the Continent, Final Fantasy VII Ever Crisis, Emberstoria, Magic: The Gathering
 14183 12 - ARC Raiders, MapleStory, MapleStory: Idle RPG, MapleStory Worlds, The Finals, Dungeon Fighter Online, Project T1, Durango World, Vindictus: Defying Fate, Dungeon&Fighter: ARAD, Dungeon&Fighter Classic, Overwatch
 14182 8 - Umamusume: Pretty Derby, Bus Rush Fever!, Granblue Fantasy: Relink – Endless Ragnarok, Granblue Fantasy, hololive Dreams, GARNET ARENA: Mages of Magicary, Project Awakening, Shadowverse: Worlds Beyond
 14171 14 - Resident Evil, Monster Hunter, Street Fighter, Devil May Cry, Resident Evil Requiem, Resident Evil 4, Resident Evil Village, Resident Evil 3, Resident Evil 2, Devil May Cry 5, Street Fighter 6, Monster Hunter Wilds, Pragmata, Onimusha: Way of the Sword
-14162 4 - Crimson Desert, Black Desert, DokeV, Plan 8
+14162 4 - Crimson Desert, Black Desert Online, DokeV, Plan 8
 14160 5 - Stardew Valley, Grounded, Hades, Fallout 4, Doom Eternal
 14158 6 - Angry Birds, Sonic Racing: CrossWorlds, Football Manager 26, Persona 5: The Phantom X, Sonic Rumble Party, Super Game
 14147 2 - Horizon Zero Dawn Remastered, Gran Turismo
@@ -14313,12 +14313,12 @@
 14038 15 - Crimson Desert, MLB The Show 26, Pokémon Pokopia, Resident Evil Requiem, Resident Evil 5, Resident Evil 4 (2023), Resident Evil Village, Resident Evil 4, WWE 2K26, Marathon, Monster Hunter Stories 3: Twisted Reflections, Pokémon Legends: Z-A, Monopoly Go, Mario Kart World, Minecraft
 13991 10 - Path of Exile 2, Monster Hunter Wilds, Kingdom Come: Deliverance 2, Cyberpunk 2077, Elden Ring, Skyrim, God of War Ragnarök, Ghost of Tsushima, Marvel's Spider-Man 2, The Last of Us Part II
 13952 1 - GTA 6
-13924 2 - Palworld, Pokémon
+13924 2 - Palworld, Pokemon
 13919 3 - EverQuest, Guild Wars 2, Old School RuneScape
 13876 1 - V Rising
 13861 2 - Resident Evil Requiem, Crimson Desert
 13859 1 - Pokémon Pokopia
-13849 13 - Resident Evil Requiem, Resident Evil Village, Resident Evil 7, Resident Evil Generation Pack, Dragon Quest VII: Reimagined, Mario Tennis Fever, God of War: Sons of Sparta, My Hero Academia: All's Justice, Helldivers 2, Diablo II: Resurrected, Monopoly Go, Royal Match, Pokémon Go
+13849 13 - Resident Evil Requiem, Resident Evil Village, Resident Evil 7, Resident Evil Generation Pack, Dragon Quest VII: Reimagined, Mario Tennis Fever, God of War: Sons of Sparta, My Hero Academia: All's Justice, Helldivers 2, Diablo II: Resurrected, Monopoly Go, Royal Match, Pokemon Go
 13830 5 - Ragnarok Online, Guild Wars 2, Old School RuneScape, MapleStory, EverQuest
 13820 5 - Ghost Recon, Tom Clancy, Assassin's Creed Nexus VR, Splinter Cell VR, The Division Heartland
 13808 6 - Lost Ark, Ultima Online, World of Warcraft, Guild Wars 2, Old School RuneScape, EverQuest
@@ -14365,9 +14365,9 @@
 13288 1 - Yeager
 13245 2 - Hades, Puzzles for Clef
 13225 3 - Call of Duty: Warzone, Valorant, Minecraft
-13209 2 - Black Desert, Call of Duty: Black Ops Cold War
+13209 2 - Black Desert Online, Call of Duty: Black Ops Cold War
 13201 2 - MU Online, C9
-13196 7 - League of Legends MMORPG, League of Legends, New World, Chronicles of Denzar, Lord of Poker, Scars of Honor, Star Trek Fleet Command
+13196 7 - League of Legends MMO, League of Legends, New World, Chronicles of Denzar, Lord of Poker, Scars of Honor, Star Trek Fleet Command
 13193 2 - MU Online, C9
 13182 2 - MU Online, C9
 13171 4 - MU Online, C9, Flyff, Rappelz
@@ -14390,7 +14390,7 @@
 13053 3 - SMITE, Rogue Company, Paladins
 13050 17 - Squad, The Messenger, Double Cross, Darksiders II Deathinitive Edition, Planet Alpha, Sword Legacy: Omen, Turmoil, Twitch Sings, Contra: Rogue Corps, Fortress M, Mobile Legends: Bang Bang, The King of Fighters ALLSTAR, Dauntless, RuneScape, Old School RuneScape, League of Legends, Teamfight Tactics
 13047 16 - Dog Duty, The Elder Scrolls Online, Nuclear Throne, Ruiner, Double Cross, Darksiders II Deathinitive Edition, Planet Alpha, Sword Legacy: Omen, Turmoil, Dauntless, RuneScape, Old School RuneScape, League of Legends, Teamfight Tactics, PUBG Mobile, The King of Fighters
-13046 7 - Plan 8, Counter-Strike, DokeV, Black Desert Online, Crimson Desert, Shadow Arena, Black Desert
+13046 6 - Plan 8, Counter-Strike, DokeV, Black Desert Online, Crimson Desert, Shadow Arena
 13039 4 - MU Online, C9, Flyff, Rappelz
 13031 3 - Flyff, Rappelz, MU Online
 13022 6 - My Little Farmies, My Free Farm, MyFreeZoo Mobile, My Free Zoo, Zoo 2: Animal Park, Wauies – The Pet Shop Game
@@ -14432,11 +14432,11 @@
 12379 5 - Steel Circus, Black Desert Online, Breach, Call of Duty, Final Fantasy XIV
 12332 3 - Closers, TERA, Breach
 12292 18 - World of Warcraft, EverQuest, Final Fantasy XI, UOSSMUD, GodWars, Merc, DikuMUD, ROM, Envy, Genesis MUD, Ethereal Mist, Shattered Realms, Final Fantasy Tactics, Final Fantasy V, Final Fantasy VI, Final Fantasy VII, Secret of Mana, Chrono Trigger
-12198 3 - New World, Total War: Three Kingdoms, AxE
+12198 3 - New World, Total War: Three Kingdoms, AxE: Alliance vs Empire
 12185 5 - Star Ocean: Anamnesis, Mobius Final Fantasy, Final Fantasy Brave Exvius, Star Ocean 2, Star Ocean 5
 12164 6 - Street Fighter V, BlazBlue: Centralfiction, Skullgirls, Street Fighter II, Melty Blood, Dragon Ball FighterZ
-12161 3 - Warlords Awakening, Seal Online: Blades of Destiny, R.O.H.A.N.: Blood Feud
-12059 23 - Final Fantasy XIV, Fallout 76, Fallout, Magic: The Gathering Arena, Magic: The Gathering, Bless Online, Call of Duty: Black Ops 4, Fortnite, Battlerite, Realm Royale, Ring of Elysium, Borderlands, Bless Unleashed, Black Desert, TERA, The Elder Scrolls Online, Guild Wars 2, World of Warcraft, Final Fantasy XI, SMITE, League of Legends, Final Fantasy XIV: Shadowbringers, Closers
+12161 3 - Warlords Awakening, Seal Online, R.O.H.A.N.: Blood Feud
+12059 23 - Final Fantasy XIV, Fallout 76, Fallout, Magic: The Gathering Arena, Magic: The Gathering, Bless Online, Call of Duty: Black Ops 4, Fortnite, Battlerite, Realm Royale, Ring of Elysium, Borderlands, Bless Unleashed, Black Desert Online, TERA, The Elder Scrolls Online, Guild Wars 2, World of Warcraft, Final Fantasy XI, SMITE, League of Legends, Final Fantasy XIV: Shadowbringers, Closers
 12033 4 - League of Angels III, Legacy of Discord, Era of Celestials, League of Angels II
 12017 14 - ArcheAge, Trove, RIFT, Defiance 2050, Ironsight, Atlas Reactor, Aura Kingdom, Fiesta Online, Echo of Soul – Phoenix, Last Chaos, Wolf Team, S4 League, Savage Hunt, Desert Operations
 12015 4 - Vainglory, Lineage II, Dead Trigger 2, Gear.Club
@@ -14462,7 +14462,7 @@
 11839 3 - League of Angels III, Era of Celestials, League of Angels
 11829 4 - RIFT, Defiance, Trove, ArcheAge
 11825 5 - Lineage 2 Revolution, Iron Throne, Phantomgate, Knights Chronicle, Fishing Strike
-11823 6 - Kingdom Hearts Union X [Cross], Final Fantasy Brave Exvius, Dissidia Final Fantasy Opera Omnia, Star Ocean: Anamnesis, Mobius Final Fantasy, Final Fantasy X
+11823 6 - Kingdom Hearts Union χ, Final Fantasy Brave Exvius, Dissidia Final Fantasy Opera Omnia, Star Ocean: Anamnesis, Mobius Final Fantasy, Final Fantasy X
 11822 10 - My Little Farmies, My Free Farm, Molehill Empire, My Free Farm 2, MyFreeZoo Mobile, My Free Zoo, My Sunny Resort, Zoo 2: Animal Park, The Stonies, Wauies – The Pet Shop Game
 11818 10 - Fiesta Online, Echo of Souls, Aura Kingdom, Twin Saga, Last Chaos, Savage Hunt, Dragon’s Prophet, Ironsight, Wolf Team, War2Glory
 11806 7 - DC Universe Online, Dungeons & Dragons Online, EverQuest, EverQuest II, H1Z1, The Lord of the Rings Online, PlanetSide 2
@@ -14496,14 +14496,14 @@
 11328 3 - SMITE, Paladins, Paladins Strike
 11322 8 - LawBreakers, PlayerUnknown's Battlegrounds, Fortnite, Radical Heights, Battlerite, Call of Duty, Trove, Warcraft III
 11306 3 - SMITE, Paladins, Paladins Strike
-11298 8 - A Robot Named Fight!, Saturday Morning RPG, Guns of Icarus, Monster Hunter, Yakuza 6, SMITE, Dragon Ball FighterZ, BlazBlue: Centralfiction
+11298 8 - A Robot Named Fight!, Saturday Morning RPG, Guns of Icarus Online, Monster Hunter, Yakuza 6, SMITE, Dragon Ball FighterZ, BlazBlue: Centralfiction
 11272 7 - Magic: The Gathering, Ethereal Mist, League of Legends, SMITE, Fortnite, Magic: The Gathering Arena, Paladins
 11264 5 - SMITE, Paladins, Overwatch, Diablo, Paladins Strike
 11257 6 - MU Online, MU Legend, MU Ignition, C9, Flyff, Rappelz
 11254 6 - MU Legend, MU Ignition, MU Online, C9, Flyff, Rappelz
 11243 2 - Magic: The Gathering Arena, Magic: The Gathering
 11240 4 - SMITE, Paladins, Paladins Strike, Vainglory
-11229 21 - World of Warcraft, Warcraft, Warhammer Online, Guild Wars 2, The Elder Scrolls Online, The Elder Scrolls V: Skyrim, WildStar, Star Wars: The Old Republic, Final Fantasy XIV, Final Fantasy XI, Final Fantasy XIV: A Realm Reborn, RIFT, World of Warcraft: Wrath of the Lich King, World of Warcraft: Cataclysm, World of Warcraft: Mists of Pandaria, World of Warcraft: Warlords of Draenor, World of Warcraft: Legion, World of Warcraft: The Burning Crusade, World of Warcraft: Battle for Azeroth, League of Legends, Warcraft III
+11229 20 - World of Warcraft, Warcraft, Warhammer Online, Guild Wars 2, The Elder Scrolls Online, The Elder Scrolls V: Skyrim, WildStar, Star Wars: The Old Republic, Final Fantasy XIV, Final Fantasy XI, RIFT, World of Warcraft: Wrath of the Lich King, World of Warcraft: Cataclysm, World of Warcraft: Mists of Pandaria, World of Warcraft: Warlords of Draenor, World of Warcraft: Legion, World of Warcraft: The Burning Crusade, World of Warcraft: Battle for Azeroth, League of Legends, Warcraft III
 11228 11 - Game Dev Tycoon, Pokemon Go, Magikarp Jump, World of Pixelmon Craft, Pixelmonster Go, Fortcraft, Fortnite, PlayerUnknown's Battlegrounds, Rules of Survival, Angry Purrs, Angry Birds
 11223 2 - Legacy of Discord, Assassin's Creed
 11222 6 - Family Farm Seaside, Survival Arena, Caesars Slots, Seekers Notes, Sweet Road, Toy Party
@@ -14557,7 +14557,7 @@
 10498 1 - Legacy of Discord
 10462 1 - Star Trek Timelines
 10444 3 - League of Legends, Dota 2, SMITE
-10374 6 - Final Fantasy XIV, Heroes of the Storm, Overwatch, SMITE, Black Desert, Final Fantasy 1
+10374 6 - Final Fantasy XIV, Heroes of the Storm, Overwatch, SMITE, Black Desert Online, Final Fantasy 1
 10368 3 - Tribal Wars, Grepolis, The West
 10330 16 - Assassin's Creed, Assassin's Creed Origins, Dishonored, Skyrim, Sea of Thieves, Cuphead, Kingdom Hearts, Dragon Ball FighterZ, Dragon Ball Z: Extreme Butoden, Street Fighter V, Tekken 7, Star Wars: Battlefront II, Wolfenstein II: The New Colossus, Star Wars: The Old Republic, Wolfenstein: The New Order, Castle Wolfenstein
 10322 3 - Magic: The Gathering, Magic: The Gathering RPG, Neverwinter
@@ -14570,12 +14570,12 @@
 10086 24 - Black Desert Online, Twin Saga, Otherland, Riders of Icarus, Dragon’s Prophet, Blade & Soul, Tree of Savior, Age of Wushu, The Secret World, Hide and Shriek, The Park, Life is Feudal, Conan Exiles, Camelot Unchained, Crowfall, Durango, ArcheAge, World of Warcraft, Star Citizen, Dual Universe, Dark and Light, ARK Park, Wurm Online, Life is Feudal: Your Own
 10077 3 - Overwatch, Dark Souls, Pokemon
 10074 14 - Super Dungeon Tactics, Nefarious, Skullgirls, Holy Potatoes! We're in Space?!, Holy Potatoes! A Weapon Shop?!, The Shrouded Isle, Moon Hunters, In The Shadows, Forsaken Castle, Super Metroid, Castlevania, Monster Boy and the Cursed Kingdom, Monster Boy, Haimrik
-10059 35 - Lineage Eternal, Lineage, Art of War: Red Tides, Clash Royale, MapleStory 2, MapleStory, Minecraft, Revelation Online, Blade & Soul, Battlerite, LawBreakers, Call of Duty, Overwatch, Paladins, Battleborn, SkySaga, GWENT, The Witcher, Dreadnought, World of Tanks, SMITE Tactics, SMITE, Dota, Duelyst, Final Fantasy Tactics, Cloud Pirates, Master X Master, WildStar, Aion, Hyper Universe, Smash Bros, Dark and Light, Dauntless, Dark Souls, Monster Hunter
-10051 10 - World of Warcraft: Legion, Blade & Soul, WildStar, The Elder Scrolls Online, Skyrim, Star Citizen, Crowfall, Camelot Unchained, Pantheon, League of Angels II
+10059 35 - Lineage Eternal, Lineage, Art of War: Red Tides, Clash Royale, MapleStory 2, MapleStory, Minecraft, Revelation Online, Blade & Soul, Battlerite, LawBreakers, Call of Duty, Overwatch, Paladins, Battleborn, SkySaga, GWENT, The Witcher, Dreadnought, World of Tanks, Hand of the Gods, SMITE, Dota, Duelyst, Final Fantasy Tactics, Cloud Pirates, Master X Master, WildStar, Aion, Hyper Universe, Smash Bros, Dark and Light, Dauntless, Dark Souls, Monster Hunter
+10051 10 - World of Warcraft: Legion, Blade & Soul, WildStar, The Elder Scrolls Online, Skyrim, Star Citizen, Crowfall, Camelot Unchained, Pantheon: Rise of the Fallen, League of Angels II
 10047 2 - The Legend of Zelda, Sengoku BASARA
 10046 4 - SMITE, Paladins, Overwatch, League of Legends
 10042 4 - Tree of Savior, Dota 2, League of Legends, H1Z1: King of the Hill
-10037 3 - SMITE, Paladins, SMITE Tactics
+10037 3 - SMITE, Paladins, Hand of the Gods
 10033 2 - Final Fantasy XV, Magic: The Gathering
 10025 4 - Agar.io, Flappy Bird, RuneScape, Achaea
 10012 4 - MU Online, Flyff, C9, Rappelz
@@ -14594,8 +14594,8 @@
 9748 2 - Obduction, Heavy Metal Machines
 9747 4 - Final Fantasy XV, Eternal, The Elder Scrolls Online, Smash+Grab
 9746 4 - Lords of New York, For Honor, Atlas Reactor, ArcheAge: Revelation
-9744 8 - Atlas Reactor, Trove, RIFT, ArcheAge, Dota 2, XCOM, RIFT: Starfall Prophecy, ArcheAge 3.0: Revelation
-9739 6 - Ghost Recon Phantoms, The Mighty Quest For Epic Loot, Might and Magic Duel of Champions, EndWar Online, Halo Online, Firefall
+9744 8 - Atlas Reactor, Trove, RIFT, ArcheAge, Dota 2, XCOM, RIFT: Starfall Prophecy, ArcheAge: Revelation
+9739 6 - Ghost Recon Phantoms, The Mighty Quest For Epic Loot, Might and Magic Duel of Champions, Tom Clancy’s Endwar Online, Halo Online, Firefall
 9660 4 - Monstermind, Surgeon Simulator, Worlds Adrift, Minecraft
 9657 1 - League of Legends
 9627 3 - Transformers, Fast & Furious: Legacy, Marvel Contest of Champions
@@ -14616,7 +14616,7 @@
 9223 2 - Final Fantasy XI, Final Fantasy XI Mobile
 9216 6 - ASTA, Elite Lord of Alliance, Rappelz, MU Online, Flyff, C9
 9213 6 - ASTA – The War of Tears and Winds, MU Online, Rappelz, C9, Flyff, Elite Lord of Alliance
-9197 9 - Necropolis, Warhammer 40,000: Eternal Crusade, Sword Art Online: Hollow Realization, Portal, Dark Souls, Dark Souls III, Gauntlet, Gears of War, Battlefield
+9197 9 - Necropolis, Warhammer 40k: Eternal Crusade, Sword Art Online: Hollow Realization, Portal, Dark Souls, Dark Souls III, Gauntlet, Gears of War, Battlefield
 9162 1 - Warframe
 9119 3 - League of Legends, Counter-Strike: Global Offensive, Dota 2
 9117 1 - Counter-Strike
@@ -14631,9 +14631,9 @@
 8883 9 - SpeedRunners, Diaries of a Spaceport Janitor, The Final Station, Road to Ballhalla, Lovely Planet Arcade, Lovely Planet, ClusterTruck, Marble Madness, Grand Theft Auto
 8878 7 - Atari Vault, Asteroids, Tempest, Rollercoaster Tycoon World, Rollercoaster Tycoon, Cities XL, Pridefest
 8862 11 - League of Legends, Dungeon Fighter Online, Cross Fire, World of Warcraft, Guild Wars 2, Blade & Soul, World of Tanks, Hearthstone, Demigods and Semi Devils, Fantasy Journey to the West 2, Call of Duty Online
-8860 21 - WildStar, Camelot Unchained, League of Legends, Infinite Crisis, Rise of Incarnates, Vainglory, SMITE, Descent, Wing Commander, Descent: Underground, Star Citizen, Dungeon Fighter Online, Dream of Mirror Online, Karos Returns, Cabal 2, Archlord 2, Lineage Eternal, Crowfall, Black Desert, Hero’s Song, Dark Age of Camelot
+8860 21 - WildStar, Camelot Unchained, League of Legends, Infinite Crisis, Rise of Incarnates, Vainglory, SMITE, Descent, Wing Commander, Descent: Underground, Star Citizen, Dungeon Fighter Online, Dream of Mirror Online, Karos Returns, Cabal 2, Archlord 2, Lineage Eternal, Crowfall, Black Desert Online, Hero’s Song, Dark Age of Camelot
 8859 5 - Dungeon of the Endless, Endless Space, Endless Legend, Endless Legend: Shifters, Endless Space 2
-8857 16 - Skyforge, World of Warcraft, Guild Wars 2, Guild Wars 2: Heart of Thorns, Star Wars: The Old Republic, Final Fantasy XIV, Blade & Soul, Black Desert, Phantasy Star Online 2, Phantasy Star, Hello Kitty Island, Final Fantasy XV, World of Warcraft: Legion, The Elder Scrolls Online, Warhammer Online, DC Universe Online
+8857 16 - Skyforge, World of Warcraft, Guild Wars 2, Guild Wars 2: Heart of Thorns, Star Wars: The Old Republic, Final Fantasy XIV, Blade & Soul, Black Desert Online, Phantasy Star Online 2, Phantasy Star, Hello Kitty Island, Final Fantasy XV, World of Warcraft: Legion, The Elder Scrolls Online, Warhammer Online, DC Universe Online
 8849 3 - League of Legends, Dota 2, SMITE
 8846 17 - League of Legends, Counter-Strike: Global Offensive, Team Fortress 2, Overwatch, Dirty Bomb, Brink, Quake Wars, For Honor, Mount & Blade, Chivalry, Gigantic, LawBreakers, Battlecry, Battleborn, Paragon, SMITE, Dota 2
 8843 18 - Age of Wushu, Elder Scrolls Online: Tamriel Unlimited, Elite: Dangerous, The Repopulation, Star Citizen, Camelot Unchained, Age of Wulin, Taichi Panda, Age of Wushu Dynasty, The Secret World, The Park, Tabletop Simulator, Heroes of the Storm, MasterXMaster, Star Wars Galaxies, World of Warcraft, Hearthstone, Final Fantasy XIV
@@ -14648,7 +14648,7 @@
 8573 14 - Guild Wars 2, Guild Wars 2: Heart of Thorns, Path of Exile, Diablo, Trove, Minecraft, Neverwinter, Dungeons & Dragons, RIFT, Vindictus, TERA, Skyforge, Wakfu, ArcheAge
 8558 6 - EverQuest, EverQuest II, PlanetSide 2, DC Universe Online, H1Z1, Landmark
 8548 9 - Robocraft, WWE Immortals, Mortal Kombat, League of Legends, Skyforge, Black Desert Online, Guild Wars 2, Castle Clash, RIFT
-8523 6 - Street Fighter V, Resident Evil Umbrella Corps, Street Fighter 3, Street Fighter 4, Naruto: Ultimate Ninja Storm 4, Dota 2
+8523 6 - Street Fighter V, Resident Evil Umbrella Corps, Street Fighter 3, Street Fighter 4, Naruto Shippuden: Ultimate Ninja Storm 4, Dota 2
 8517 1 - Tiny Mighty
 8508 7 - Digimon Story: Cyber Sleuth, Digimon, Phantom of the Kill, Chain Chronicle, Brave Frontier, Warframe, Sword Art Online: Lost Song
 8504 7 - Halo, Evolve, Mirror's Edge Catalyst, Mirror's Edge, Fallout, Warframe, Star Trek Timelines
@@ -14658,17 +14658,17 @@
 8476 12 - WildStar, TERA, Armored Warfare, Supernova, Victory Command, Battle Battalions, Dungeon Defenders II, World of Warships, Neverwinter, Neverwinter: Underdark, Castle Clash, Elite: Dangerous
 8475 1 - World of Tanks
 8443 12 - Devilian, Diablo, WildStar, League of Legends, Dragon Nest, Tales Runner, Kart Rider, Ace of Arenas, Archlord 2, Elite Lord of Alliance, SMITE, Dragomon Hunter
-8402 9 - Umbrella Corps, Tiny Mighty, DarkScape, RuneScape, Ace of Arenas, Blade: Sword of Elysian, World of Warships, World of Tanks, Ghost in the Shell Online
+8402 9 - Umbrella Corps, Tiny Mighty, DarkScape, RuneScape, Ace of Arenas, Blade: Sword of Elysian, World of Warships, World of Tanks, Ghost in the Shell: First Assault
 8397 16 - Wartune, League of Angels, Felspire, Nova Genesis, World of Warcraft, Dan Dan Tang, Castle Clash, Clash of Clans, Clash of Kings, Game of War: Fire Age, Invasion, Heroes Charge, Iron Force, The World 2, Stellacept Online, Phantasy Star Online
 8373 1 - Tokyo Ghoul
 8372 11 - Shogun: Total War, Total War: ROME II – Emperor Edition, Medieval II: Total War, Viking: Battle for Asgard, Total War: Warhammer, Total War: ARENA, Total War Battles: Kingdom, Empire: Total War, MEDIEVAL: Total War, Total War Attila, Total War: ROME
 8355 14 - Star Wars: Uprising, Dirty Bomb, Interstellar Marines, ArcheAge, War Rock, Heroes of the Storm, SMITE, Hearthstone, Hearthstone: The Grand Tournament, Blade & Soul, WildStar, Pokemon Go, Pokemon, Wii Fit
-8324 5 - Warhammer: Vermintide, Eon Altar, Final Fantasy XIV: A Realm Reborn, Orcs Must Die! Unchained, Homefront: The Revolution
-8312 7 - For Honor, Kill Strain, Castle Story, Master of Orion, XCOM 2, Civilization: BE Rising Tide, Blade: Sword of Elysion
+8324 5 - Warhammer: Vermintide, Eon Altar, Final Fantasy XIV, Orcs Must Die! Unchained, Homefront: The Revolution
+8312 7 - For Honor, Kill Strain, Castle Story, Master of Orion, XCOM 2, Civilization: Rising Tide, Blade: Sword of Elysion
 8301 7 - Broforce, Neverwinter, Final Fantasy XIV, Guild Wars 2, Call of Champions, Enter the Gungeon, The Repopulation
 8298 5 - Star Wars: Uprising, Sword Coast Legends, Dreadnought, ArcheAge, Atlas Reactor
 8189 3 - Guild Wars 2: Heart of Thorns, Guild Wars 2, Guild Wars
-8160 10 - StarCraft II: Legacy of the Void, StarCraft II, Hearthstone: Heroes of Warcraft, Hearthstone: The Grand Tournament, Heroes of the Storm, Diablo, Warcraft, Overwatch, World of Warcraft, World of Warcraft: Legion
+8160 10 - StarCraft II: Legacy of the Void, StarCraft II, Hearthstone, Hearthstone: The Grand Tournament, Heroes of the Storm, Diablo, Warcraft, Overwatch, World of Warcraft, World of Warcraft: Legion
 8099 2 - Grand Chase M, Grand Chase
 8095 1 - Colonial Conquest
 8084 2 - EverQuest Next, H1Z1
@@ -14677,19 +14677,19 @@
 8043 2 - Quake Live, Wolfenstein: The Old Blood
 8033 5 - Archlord 2, C9, MU Online, Flyff, Rappelz
 8013 6 - Archlord 2, C9, MU Online, Rappelz, Flyff, Age of Wulin
-7985 7 - Naruto Storm 4, Phantom of the Kill, Fire Emblem, Kritika, Dragon Blaze, Drift Girls, Crusaders Quest
+7985 7 - Naruto Shippuden: Ultimate Ninja Storm 4, Phantom of the Kill, Fire Emblem, Kritika, Dragon Blaze, Drift Girls, Crusaders Quest
 7976 3 - Wartune, Stormthrone, League of Angels
 7947 2 - MU Origin, Dragon lancer
 7945 2 - Global Agenda 2, SMITE
-7944 32 - Age of Wushu Dynasty, Age of Wushu, Taichi Panda, Siegefall, Clash of Clans, Torchlight Mobile, Torchlight, Master of Orion, Civilization: Rising Tide, Civilization, Dungeon Defenders II, Dungeon Defenders, Street Fighter V, Street Fighter, Naruto SUN Storm 4, Saint Seiya: Soldiers' Soul, Dragon Ball Xenoverse, Battleborn, Doom, Borderlands, Star Wars Battlefront, Strike Vector Ex, Star Fox, Star Fox 64, King of Wushu, SMITE, Ace of Arenas, Vainglory, Goliath, Don't Starve, Shroud of the Avatar, Life is Feudal
+7944 32 - Age of Wushu Dynasty, Age of Wushu, Taichi Panda, Siegefall, Clash of Clans, Torchlight Mobile, Torchlight, Master of Orion, Civilization: Rising Tide, Civilization, Dungeon Defenders II, Dungeon Defenders, Street Fighter V, Street Fighter, Naruto Shippuden: Ultimate Ninja Storm 4, Saint Seiya: Soldiers' Soul, Dragon Ball Xenoverse, Battleborn, Doom, Borderlands, Star Wars Battlefront, Strike Vector Ex, Star Fox, Star Fox 64, King of Wushu, SMITE, Ace of Arenas, Vainglory, Goliath, Don't Starve, Shroud of the Avatar, Life is Feudal
 7899 1 - RumbleTV
 7894 6 - King of Wushu, Age of Wushu Dynasty, Crossout, Goliath, Guild Wars 2: Heart of Thorns, Master of Orion
 7885 4 - Just Cause 3, Deus Ex: Mankind Divided, Final Fantasy, Hitman
-7883 4 - Dark Souls III, NARUTO SHIPPUDEN: Ultimate Ninja STORM 4, J-Stars Victory Vs +, One Piece: Pirate Warriors 3
+7883 4 - Dark Souls III, Naruto Shippuden: Ultimate Ninja Storm 4, J-Stars Victory Vs +, One Piece: Pirate Warriors 3
 7873 25 - Total War: Warhammer, Fable Legends, Shadow Realms, Evolve, Crossout, War Thunder, Ground Forces, King of Wushu, SMITE, Age of Wushu, Shroud of the Avatar, ARK: Survival Evolved, Battleborn, Borderlands, Star Wars Battlefront, Doom, Duke Nukem, Arkham Asylum, Gigantic, Sea of Thieves, Torchlight Mobile, Rainbow Six Siege, Battlecry, Goliath, Relics of Gods
 7871 2 - Dead Effect, Dead Effect 2
 7856 7 - Torchlight, Torchlight Mobile, Diablo, Diablo II, Mythos, Fate, Torchlight II
-7771 2 - RuneScape, RuneScape 3
+7771 1 - RuneScape
 7770 3 - Castle Clash, Clash of Lords 2, Deck Heroes
 7755 10 - The Banner Saga 2, Skyshine's Bedlam, Afro Samurai 2: Revenge of Kuma, Afro Samurai, Armikrog, Guild of Dungeoneering, Kyn, Earthworm Jim, The Neverhood, The Banner Saga
 7707 2 - Toy Defense, Farm Frenzy
@@ -14708,7 +14708,7 @@
 7276 3 - SMITE, Vainglory, Call of Duty
 7223 2 - StarCraft II, Hearthstone
 7196 6 - Overwatch, Dreadnought, Gigantic, Dragon Fin Soup, Guns of Icarus Online, Echo of Soul
-7190 6 - SMITE: Xbox One Edition, Forced 2, Life is Strange, Just Shapes and Beats, World of Tanks: Xbox One Edition, World of Tanks Generals
+7190 6 - SMITE: Xbox One Edition, FORCED 2: The Rush, Life is Strange, Just Shapes and Beats, World of Tanks: Xbox One Edition, World of Tanks Generals
 7188 7 - Moon Hunters, The Witcher III, RIFT, ArcheAge, Defiance, Starship Empire, Dreadnought
 7187 1 - Heroes of the Storm
 7186 4 - Dirty Bomb, Nosgoth, SMITE, Unreal Tournament
@@ -14746,7 +14746,7 @@
 6523 3 - Lovely Planet, Spoiler Alert, Not the Robots
 6518 4 - Trove, SMITE, Nosgoth, Blacklight Retribution
 6506 12 - Torchlight, Torchlight II, Perfect World International, War of the Immortals, Battle of the Immortals, Jade Dynasty, Forsaken World, Blacklight Retribution, Neverwinter, Star Trek Online, Swordsman, Champions Online
-6493 20 - Ar:piel Online, Azera Online, TERA, Aion, Closers Online, Civilization Online, Ghost in the Shell Online, Lineage Eternal, Lineage, Lost Ark, Mabinogi Duel, MapleStory 2, Master X Master, Peria Chronicles, Mabinogi, Pokemon, Sudden Attack 2, Sudden Attack, Taichi Panda, Tree of Savior
+6493 20 - Ar:piel Online, Azera Online, TERA, Aion, Closers, Civilization Online, Ghost in the Shell: First Assault, Lineage Eternal, Lineage, Lost Ark, Mabinogi Duel, MapleStory 2, Master X Master, Peria Chronicles, Mabinogi, Pokemon, Sudden Attack 2, Sudden Attack, Taichi Panda, Tree of Savior
 6479 2 - Knight’s Fable, League of Angels
 6434 4 - ArcheAge, Kingdom of the Winds, Lineage, Kritika
 6394 2 - World of Warcraft, Warlords of Draenor
@@ -14763,10 +14763,10 @@
 6176 7 - Dragon Ball Xenoverse, Dragon Ball Online, Brave Frontier, Killing Floor 2, Killing Floor, Valkyrie Profile, Mortal Kombat
 6167 6 - Killing Floor 2, Alien: Isolation, Alien: Colonial Marines, Brave Frontier, League of Legends, World of Warcraft
 6166 2 - RuneScape, Chronicle: RuneScape Legends
-6164 13 - MechWarrior Online, Transverse, Wing Commander Online, Star Citizen, Elite: Dangerous, Seldon Crisis, The Repopulation, Ascent: The Space Game, Moon Hunters, Warlocks, Dicetiny, Town of Salem, Untold Universe
+6164 13 - MechWarrior Online, Transverse, Wing Commander Online, Star Citizen, Elite: Dangerous, Seldon Crisis, The Repopulation, Ascent: The Space Game, Moon Hunters, Warlocks vs. Shadows, Dicetiny, Town of Salem, Untold Universe
 6163 13 - Lara Croft and the Temple of Osiris, Sleeping Dogs: Definitive Edition, Hitman: Sniper, Lara Croft and the Guardian of Light, Life is Strange, Remember Me, Final Fantasy Type-0 HD, Crisis Core: Final Fantasy VII, Kingdom Hearts, Brave Frontier, Firefly Online, XCOM, Shadowrun
 6150 1 - World of Tanks
-6129 8 - World of Warcraft, Guild Wars 2, Hellgate: London, Tabula Rasa, Shadowrun Returns, Wasteland 2, Fallout, Fallout 2
+6129 8 - World of Warcraft, Guild Wars 2, Hellgate, Tabula Rasa, Shadowrun Returns, Wasteland 2, Fallout, Fallout 2
 6059 2 - League of Legends, StarCraft II: Heart of the Swarm
 6055 1 - Skara: The Blade Remains
 6020 3 - World of Warcraft, StarCraft II, Hearthstone
@@ -14798,7 +14798,7 @@
 5442 2 - World of Tanks, World of Tanks: Xbox 360 Edition
 5407 2 - CineMagic, Bejeweled
 5404 1 - Star Trek
-5363 21 - Rising Generals, Civilization, Age of Empires, Armored Warfare, Black Gold Online, Swordsman Online, World of Speed, HEX: Shards of Fate, World of Warships, World of Tanks, World of Warplanes, WildStar, Rise of Incarnates, Skyforge, Borderlands: The Pre-Sequel, Borderlands, Civilization: Beyond Earth, Assassin's Creed Unity, Assassin's Creed, Tom Clancy's The Division, Black Desert
+5363 21 - Rising Generals, Civilization, Age of Empires, Armored Warfare, Black Gold Online, Swordsman, World of Speed, HEX: Shards of Fate, World of Warships, World of Tanks, World of Warplanes, WildStar, Rise of Incarnates, Skyforge, Borderlands: The Pre-Sequel, Borderlands, Civilization: Beyond Earth, Assassin's Creed Unity, Assassin's Creed, Tom Clancy's The Division, Black Desert Online
 5348 4 - EVE Online, DUST 514, EVE: Valkyrie, World of Darkness MMO
 5336 6 - Black Gold Online, Age of Wushu: Tempest of Strife, Age of Wushu, Heroes of Gaia, Puzzle Heroes Saga, Taichi Panda
 5317 2 - The Hunger Games, The Hobbit: Kingdoms of Middle-earth
@@ -14842,38 +14842,38 @@
 4582 1 - X-Men: Battle of the Atom
 4574 2 - RuneScape, Ace of Spades
 4520 2 - RuneScape, Ace of Spades
-4490 43 - Age of Wushu, Aika Online, Aion Online, Alfheim Tales Online, APB Reloaded, Atlantica Online, Chrono Tales, Conquer Online, DC Universe Online, Digimon Masters Online, Dofus, Elsword, EverQuest, EverQuest II, EverQuest Next, Final Fantasy XIV, Firefall, Grand Fantasia, Guns and Robots, Hawken, Heroes of the Realm, League of Angels, League of Legends, Lineage II, Lunaria Story, Mabinogi, MapleStory, MicroVolts, Naruto Spirit, Path of Exile, PlanetSide 2, RaiderZ, Ragnarok Online, ROSE Online, SMITE, TERA, The Secret World, The West, Unlimited Ninja, Uncharted Waters Online, Vindictus, World of Tanks, World of Warcraft
+4490 43 - Age of Wushu, Aika Online, Aion, Alfheim Tales Online, APB Reloaded, Atlantica Online, Chrono Tales, Conquer Online, DC Universe Online, Digimon Masters, Dofus, Elsword, EverQuest, EverQuest II, EverQuest Next, Final Fantasy XIV, Firefall, Grand Fantasia, Guns and Robots, Hawken, Heroes of the Realm, League of Angels, League of Legends, Lineage II, Lunaria Story, Mabinogi, MapleStory, MicroVolts, Naruto Spirit, Path of Exile, PlanetSide 2, RaiderZ, Ragnarok Online, ROSE Online, SMITE, TERA, The Secret World, The West, Unlimited Ninja, Uncharted Waters Online, Vindictus, World of Tanks, World of Warcraft
 4485 1 - Divinity: Original Sin
 4481 4 - Infinite Crisis, The Lord of the Rings Online, Dungeons & Dragons Online, Asheron's Call
 4457 4 - World of Tanks, World of Tanks: Xbox 360 Edition, World of Warplanes, World of Warships
 4430 1 - SMITE
 4426 2 - PlanetSide, EverQuest
 4408 2 - Diablo III, Hearthstone
-4386 3 - Age of Wushu, Black Gold Online, Voyage Century
+4386 3 - Age of Wushu, Black Gold Online, Voyage Century Online
 4375 1 - The Secret World
-4345 4 - Wizardry Online, Vanguard Online, Star Wars: Clone Wars Adventures, Free Realms
+4345 4 - Wizardry Online, Vanguard Saga of Heroes, Star Wars: Clone Wars Adventures, Free Realms
 4296 2 - Star Citizen, Hearthstone
 4295 10 - World of Warcraft, World of Warcraft: Cataclysm, Mists of Pandaria, Final Fantasy XI, Guild Wars 2, Final Fantasy XIV, Lightning Returns: FFXIII, Dota 2, Prime World, Heroes of the Storm
-4278 21 - Perfect World International, Eden Eternal, Elsword, Alliance of Valiant Arms, MapleStory, The Lord of the Rings Online, TERA, Star Wars: The Old Republic, EverQuest, Phantasy Star Online 2, ArcheAge, Blade & Soul, Yulang II, Warcraft, Novus AEterno, Camelot Unchained, Minecraft, Dark Age of Camelot, Hex, SMITE, Citadel of Sorcery
-4277 20 - World of Warcraft, TERA, Ultima Online, Ragnarok Online, RuneScape Classic, Graal Worlds, Saga of Ryzom, Star Wars Galaxies, ArcheAge, EverQuest Next, EverQuest Next Landmark, Black Desert, Life is Feudal, Peria Chronicles, Star Citizen, The Repopulation, Camelot Unchained, Albion Online, Mabinogi, WildStar
+4278 21 - Perfect World International, Eden Eternal, Elsword, Alliance of Valiant Arms, MapleStory, The Lord of the Rings Online, TERA, Star Wars: The Old Republic, EverQuest, Phantasy Star Online 2, ArcheAge, Blade & Soul, Yulang II, Warcraft, Novus AEterno, Camelot Unchained, Minecraft, Dark Age of Camelot, HEX: Shards of Fate, SMITE, Citadel of Sorcery
+4277 20 - World of Warcraft, TERA, Ultima Online, Ragnarok Online, RuneScape Classic, Graal Worlds, Saga of Ryzom, Star Wars Galaxies, ArcheAge, EverQuest Next, EverQuest Next Landmark, Black Desert Online, Life is Feudal, Peria Chronicles, Star Citizen, The Repopulation, Camelot Unchained, Albion Online, Mabinogi, WildStar
 4276 2 - World of Warcraft, League of Legends
 4251 3 - Shining Force Online, Shining Force, Shining Empire
 4233 3 - PlanetSide 2, EverQuest Next, EverQuest Next Landmark
 4223 4 - League of Legends, Dota 2, Club Penguin, RuneScape
 4210 1 - SMITE
-4208 6 - EverQuest Next Landmark, Hearthstone, Jade Dynasty, Jade Dynasty: Regenesis, Defiance, Ragnarok 2
+4208 6 - EverQuest Next Landmark, Hearthstone, Jade Dynasty, Jade Dynasty: Regenesis, Defiance, Ragnarok Online 2
 4199 6 - The Lord of the Rings Online, Star Wars: Attack Squadrons, Marvel Heroes, DayZ, Inferno Legend, Star Trek Online
 4188 5 - The Elder Scrolls Online, EVE Online, Camelot Unchained, Blade Hunter, Dynasty Warriors Online
 4185 8 - EVE Online, Battlestar Galactica Online, Entropy, ChronoBlade, Age of Wushu, Glitch, Inferno Legends, Diablo
 4179 9 - World of Warcraft, Second Life, Alfheim Tales Online, Dungeons & Golf, Rappelz, Flyff, Remnant Knights, Archlord, Archlord 2
 4173 13 - APB Reloaded, APB: Retribution, World of Warcraft, Black Gold Online, Warfare, War Thunder, War Thunder: Ground Forces, League of Legends, Dota 2, StarCraft, World of Tanks, Fat Princess, War of the Vikings
-4167 5 - Blacklight Retribution, RuneScape, Darkout, GunZ 2, Tactical Intervention
-4165 4 - Final Fantasy XIV: A Realm Reborn, Path of Exile, Pockie Defense, Tribal Wars 2
+4167 5 - Blacklight Retribution, RuneScape, Darkout, GunZ 2: The Second Duel, Tactical Intervention
+4165 4 - Final Fantasy XIV, Path of Exile, Pockie Defense, Tribal Wars 2
 4164 1 - League of Legends
 4150 4 - Eldevin, Panzar, C9, Guild Wars 2
 4147 4 - Trove, EVE Online, APB Reloaded, Shining Force Online
 4144 4 - League of Angels, Albion Online, League of Legends, ArcheAge
-4140 5 - EVE Online, Drakensang Online, Neverwinter, Neverwinter: Shadowmantle, Ragnarok 2
+4140 5 - EVE Online, Drakensang Online, Neverwinter, Neverwinter: Shadowmantle, Ragnarok Online 2
 4125 5 - The Lord of the Rings Online, Helm's Deep, Red Blood, Luvinia World, Yulgang Online
 4118 4 - Star Trek Online, World of Warplanes, Fiesta Online, Silkroad Online
 4109 5 - Trove, Fields of War, League of Angels, MapleStory 2, MapleStory
@@ -14885,9 +14885,9 @@
 4070 2 - Fiesta Online, King of Kings 3
 4055 5 - Guild Wars 2, City of Steam, The Secret World, Primal Carnage, Merc Elite
 4040 6 - Dofus, Wakfu, Slage, Krosmaster Arena, Watch Dogs, Killer Instinct (2013)
-4039 17 - Camelot Unchained, Conquer 2, DC Universe Online, Dragon Nest, Elsword, EverQuest, EverQuest II, Final Fantasy XIV: A Realm Reborn, Guild Wars 2, Kings and Legends, Marvel Heroes, MU Online, RIFT, The Settlers Online, SMITE, TERA, The Secret World
+4039 17 - Camelot Unchained, Conquer 2, DC Universe Online, Dragon Nest, Elsword, EverQuest, EverQuest II, Final Fantasy XIV, Guild Wars 2, Kings and Legends, Marvel Heroes, MU Online, RIFT, The Settlers Online, SMITE, TERA, The Secret World
 4038 9 - Mortal Kombat, League of Legends, Strider (2013), Strider, Strider 2, Monster Hunter Tri Ultimate, Monster Hunter, Monster Hunter Frontier, Monster Hunter Online
-4035 6 - The Secret World, RIFT, Warface, Universal Monsters, The Mummy Online, Solstice Arena
+4035 6 - The Secret World, RIFT, Warface, Universal Monsters Online, The Mummy Online, Solstice Arena
 4032 3 - WildStar, Dungeon Defenders II, The Walking Dead Chop Shop
 4031 11 - Thief (2014), Thief, Kingdom Hearts 1.5 HD Remix, Deus Ex: Human Revolution – Director's Cut, Lightning Returns: Final Fantasy, Dungeon Defenders II, Dungeon Defenders, StarCraft II, Portal, Portal 2, Hello Hero
 4017 10 - City of Titans, City of Heroes, World of Warcraft, Star Wars: The Old Republic, EverQuest II, EverQuest II: Tears of Veeshan, ArcheBlade, Destiny, Dragon Saga, Hungry Shark
@@ -14900,19 +14900,19 @@
 3948 12 - World of Warcraft, Perfect World International, Kingdoms of Camelot, Candy Crush Saga, Neverwinter, Arena of Heroes, Elemental Kingdoms, BombBuds, Wormz, Angry Birds, Plants v Zombies, The Null Society
 3940 1 - CasinoRPG
 3930 5 - World of Tanks, World of Warplanes, Merc Elite, Stronghold Crusader 2, Stronghold Crusader
-3916 3 - World of Tanks, World of Tanks: Xbox 360, World of Warplanes
+3916 3 - World of Tanks, World of Tanks: Xbox 360 Edition, World of Warplanes
 3896 1 - League of Legends
-3882 6 - Guild Wars 2, Lego Minifig MMO, Black Gold, Grand Theft Auto Online, GTA V, League of Legends
+3882 6 - Guild Wars 2, Lego Minifig MMO, Black Gold Online, Grand Theft Auto Online, GTA V, League of Legends
 3834 3 - Total Annihilation, Master of Orion, World of Warplanes
 3826 1 - World of Tanks
 3821 3 - World of Tanks, World of Warplanes, World of Tanks: Xbox 360 Edition
-3813 6 - PlanetSide, Guild Wars 2, The Secret World, Mists of Pandaria, Warhammer 40,000: Eternal Crusade, Defiance
+3813 6 - PlanetSide, Guild Wars 2, The Secret World, Mists of Pandaria, Warhammer 40k: Eternal Crusade, Defiance
 3780 1 - World of Tanks
 3765 1 - World of Tanks
 3724 4 - Uncharted Waters Online, District 187, Arcane Saga, Dice Venture
 3701 1 - SMITE
 3681 3 - Prime World, Warframe, Final Fantasy XIV
-3679 6 - Final Fantasy XIV, Black Desert, Dragon’s Prophet, Skara: The Blade Remains, Elsword, ArcheAge
+3679 6 - Final Fantasy XIV, Black Desert Online, Dragon’s Prophet, Skara: The Blade Remains, Elsword, ArcheAge
 3674 13 - New Pal, Qin’s Moon, Arcane Saga, Dice Venture, ChaChaCha, Pocket Pong Pong Pong, Arena of Heroes, World of Warships, Black Gold Online, Infinite Crisis, HEX: Shards of Fate, The Elder Scrolls Online, Command & Conquer
 3649 1 - SMITE
 3631 3 - World of Tanks, World of Warplanes, World of Warships
@@ -14926,23 +14926,23 @@
 3436 2 - Uncharted Waters Online, District 187: Sin Streets
 3421 1 - World of Tanks
 3345 1 - World of Tanks
-3329 3 - Ecol Tactics, Legend of Edda, RF Online
+3329 3 - Ecol Tactics Online, Legend of Edda, RF Online
 3326 7 - Dragon’s Prophet, EverQuest, DC Universe Online, EverQuest II, Free Realms, PlanetSide 2, Vanguard Saga of Heroes
 3276 2 - Uncharted Waters Online, District 187
 3248 4 - Arctic Combat, C9, MU Online, Archlord
-3245 5 - Requiem: Memento Mori, ROSE Online, Ragnarok Online, Maestia: Rise of Keledus, Dragon Saga
+3245 5 - Requiem, ROSE Online, Ragnarok Online, Maestia, Dragon Saga
 3244 1 - RiotZone
 3242 4 - World of Tanks, World of Warplanes, World of Warships, World of Tanks Generals
 3229 4 - Fiesta Online, Luvinia Online, Dark Blood, Call of Gods
 3200 5 - Farmerama, Pirate Storm, Dark Orbit, Drakensang Online, Battlestar Galactica Online
 3190 4 - Forge of Empires, Grepolis, Tribal Wars, The West
-3168 3 - Fiesta Online, Luvinia Online, Dark Blood Online
-3166 5 - Ragnarok Online, ROSE Online, Requiem: Memento Mori, Dragon Saga, Maestia: Rise of Keledus
+3168 3 - Fiesta Online, Luvinia Online, Dark Blood
+3166 5 - Ragnarok Online, ROSE Online, Requiem, Dragon Saga, Maestia
 3137 4 - Forge of Empires, Grepolis, Tribal Wars, The West
 3125 4 - Fiesta Online, Luvinia Online, Dark Blood, Call of Gods
 3122 3 - World of Tanks, World of Warplanes, World of Battleships
 3075 6 - AdventureQuest Worlds, EpicDuel, DragonFable, MechQuest, AdventureQuest, HeroSmash
-3074 5 - Ragnarok Online, ROSE Online, Requiem: Memento Mori, Dragon Saga, Maestia: Rise of Keledus
+3074 5 - Ragnarok Online, ROSE Online, Requiem, Dragon Saga, Maestia
 3051 10 - Bullet Run, DC Universe Online, EverQuest, EverQuest II, Free Realms, Pox Nora, Clone Wars Adventures, Vanguard, Legends of Norrath, Rocket Rescue
 3048 3 - Elsword, Grand Chase, Fighters Club
 2998 4 - DC Universe Online, EverQuest, EverQuest II, PlanetSide 2
@@ -14952,19 +14952,19 @@
 2945 7 - Arctic Combat, SEVENCORE, Dark Blood, Requiem, League of Legends, Forsaken World, Knight Age
 2929 10 - Vanguard, Elsword, District 187, Neverwinter, Hounds, Monarch, DK Online, Combat Arms, Knight Age, Sin Streets
 2924 3 - Heroes in the Sky, Scarlet Legacy, Asda 2
-2923 4 - Ragnarok Online, ROSE Online, Requiem, Maestia: Rise of Keledus
+2923 4 - Ragnarok Online, ROSE Online, Requiem, Maestia
 2914 3 - World of Warplanes, World of Tanks, World of Warships
-2905 10 - RF Online, Perfect World, Scarlet Legacy, Eden Eternal, Dark Blood Online, RaiderZ, ROSE Online, World of Tanks, Brawl Busters, Knight Age
+2905 10 - RF Online, Perfect World, Scarlet Legacy, Eden Eternal, Dark Blood, RaiderZ, ROSE Online, World of Tanks, Brawl Busters, Knight Age
 2877 3 - Dragon Saga, Requiem, ROSE Online
 2865 2 - MicroVolts, Brawl Busters
 2864 3 - Legend: Legacy of the Dragons, Juggernaut, Gunblade Saga
-2851 3 - Alliance of Valiant Arms, Soldier Front, GunZ
+2851 3 - Alliance of Valiant Arms, Soldier Front, GunZ: The Duel
 2817 12 - World of Tanks, Stronghold Kingdoms, War Inc, RuneScape, Pandora Saga, Super Monday Night Combat, Rappelz, Aika Online, Luvinia Online, Battlestar Galactica, Spark City, TERA
 2788 3 - Game of Thrones Seven Kingdoms, Battlestar Galactica Online, Drakensang Online
 2763 10 - Grand Fantasia, Dragon Saga, Flyff, Flyff Gold, Warren Story, Spirit Tales, World of Tanks, Carte, Vindictus, Web Koihime Musou
 2759 3 - Vindictus, Dungeon Fighter Online, Combat Arms
 2752 5 - Carte, Shot Online, Heroes in the Sky, 9Dragons, Scarlet Legacy
-2739 10 - TERA, SD Gundam Capsule Fighter, Shaiya Phoenix, Spirit Tales, Runes of Magic, Arctic Combat, Conquer Online, Blacklight Retribution, Vindictus, Divina
+2739 10 - TERA, SD Gundam Capsule Fighter Online, Shaiya Phoenix, Spirit Tales, Runes of Magic, Arctic Combat, Conquer Online, Blacklight Retribution, Vindictus, Divina
 2717 7 - Cross Fire, Metin 2, Grand Chase: Heroes, Project Blackout, Pangya, Trickster Online, Crossfire: Europe
 2707 20 - Core Blaze, TERA, C9, Dragon Nest, Perfect World, Age of Wushu, The Elder Scrolls Online, Guild Wars 2, Dark Age of Camelot, Final Fantasy 1, Kartuga, Runes of Magic, Brahma Online, SEVENCORE, Prius Online, Sin Streets, Sudden Attack, Otherland, Grimlands, Fallen Earth
 2706 5 - Brick-Force, World of Tanks, World of Warplanes, C9, Arctic Combat
@@ -14981,9 +14981,9 @@
 2342 5 - Dragons of Atlantis, Godfather: Five Families, Thirst of Night, Kingdoms of Camelot, Edgeworld
 2331 6 - Canaan Online, Castle of Heroes, Dragon Saga, Flyff, Rappelz, Terra Militaris
 2327 3 - Rosh Online, WindSlayer 2, Darkeden
-2319 6 - Perfect World International, Jade Dynasty, Rusty Hearts, Forsaken World, War of the Immortals, Ether Saga Odyssey
+2319 6 - Perfect World International, Jade Dynasty, Rusty Hearts, Forsaken World, War of the Immortals, Ether Saga Online
 2299 3 - Dragon Nest, Dungeon Fighter Online, Vindictus
-2276 9 - Battlestar Galactica Online, Seafight, Skyrama, Dark Orbit, Deepolis, Farmerama, Luna Online, Allods Online, Rappelz Online
+2276 9 - Battlestar Galactica Online, Seafight, Skyrama, Dark Orbit, Deepolis, Farmerama, Luna Online, Allods Online, Rappelz
 2249 7 - Battlefield Heroes, Need for Speed World, Battlefield Play4Free, BattleForge, Lord of Ultima, Dragon Age Legends, Command & Conquer: Tiberium Alliances
 2233 7 - Alliance of Valiant Arms, Soldier Front, Eden Eternal, Repulse, Shaiya, Wolf Team, Golden Age
 2203 5 - Grand Chase, Pangya, Project Blackout, Trickster Online, Crossfire: Europe
@@ -15000,7 +15000,7 @@
 1650 7 - Perfect World, Jade Dynasty, Battle of the Immortals, Heroes of Three Kingdoms, Forsaken World, Champions Online, Star Trek Online
 1537 4 - Langrisser Schwarz, Langrisser, Hero:108 Online, Lucent Heart
 1487 4 - RuneScape, War of Legends, Transformers, 8Realms
-1456 6 - Ruined, Universal Monsters, Drakensang Online, ToonRacer, Battlestar Galactica Online, Seafight
+1456 6 - Ruined, Universal Monsters Online, Drakensang Online, ToonRacer, Battlestar Galactica Online, Seafight
 1430 9 - Silkroad Online, Mir 2, Mir 3, Digimon Battle, Digimon, Silkroad Online 2, Deco Online, Darkeden, QuakeWars Online
 1337 6 - Jade Dynasty, Asda Story, Luna Online, ShowUp, Hot Dance Party, Lucent Heart
 1256 5 - Lunia, GunZ: The Duel, Soldier Front, Genesis A.D, Alliance of Valiant Arms
@@ -15009,8 +15009,8 @@
 1214 5 - Quake Live, Tiger Woods PGA Tour Online, FusionFall, Captains of DarkTide, Nanovor
 1206 3 - Pangya, Grand Chase, Trickster Online
 1143 7 - Perfect World (Perfect World International), Jade Dynasty, Ether Saga Online, Battle of the Immortals, Heroes of Three Kingdoms, Forsaken World, Torchlight
-1097 15 - Voyage Century Online, Florensia, Tales of Pirates II, Tales of Pirates, Pirates of the Caribbean Online, Uncharted Waters Online, Pirates of the Burning Sea, EverQuest 2: Extended, EverQuest II, Captains of DarkTide, Saga, Seafight, Dark Orbit, Deepolis, Puzzle Pirates
-1059 17 - Uncharted Waters Online, Voyage Century, CosmicBreak, Custom Robo, Exteel, GetAmped 2, GetAmped, Fantasy Earth Zero, Shin Megami Tensei: Imagine Online, Mabinogi, Dynasty Warriors Online, Dynasty Warriors, Pandora Saga, Emil Chronicle Online, Ragnarok Online, Hello Kitty Online, Yu Gi Oh Online
+1097 14 - Voyage Century Online, Florensia, Tales of Pirates II, Tales of Pirates, Pirates of the Caribbean Online, Uncharted Waters Online, Pirates of the Burning Sea, EverQuest II, Captains of DarkTide, Saga, Seafight, Dark Orbit, Deepolis, Puzzle Pirates
+1059 17 - Uncharted Waters Online, Voyage Century Online, CosmicBreak, Custom Robo, Exteel, GetAmped 2, GetAmped, Fantasy Earth Zero, Shin Megami Tensei: Imagine Online, Mabinogi, Dynasty Warriors Online, Dynasty Warriors, Pandora Saga, Emil Chronicle Online, Ragnarok Online, Hello Kitty Online, Yu Gi Oh Online
 1056 2 - Dragon Saga, Company of Heroes Online
 1043 2 - Dungeons & Dragons Online, Fiesta Online
 1027 11 - Fiesta Online, Wind Slayer, Project Powder, Secret of the Solstice, Divine Souls, Fists of Fu, Erebus: Travia Reborn, Mir 2, MapleStory, Ragnarok Online, Dungeons & Dragons Online
@@ -15019,7 +15019,7 @@
 950 14 - Runes of Magic, World of Warcraft, OGame, BiteFight, Ikariam, Gladiatus, Metin 2, Cabal Online, Gates of Andaron, 4Story, Air Rivals, ACE Online, NosTale, Star Trek
 943 7 - MapleStory, Combat Arms, Mabinogi, Dungeon Fighter Online, Vindictus, Dragon Nest, PopTag!
 923 3 - Ragnarok Online, Requiem, ROSE Online
-905 18 - Lunia, Dungeon Fighter Online, MapleStory, Dragon Saga, Mini Fighter Online, Street Fighter, Fists of Fu, Elsword, Hero:108 Online, FusionFall, Divine Souls, Zone 4: Fight District, Rumble Fighter, Lost Saga, Soul Master, Pikmin, Vindictus, Mabinogi
+905 18 - Lunia, Dungeon Fighter Online, MapleStory, Dragon Saga, Mini Fighter, Street Fighter, Fists of Fu, Elsword, Hero:108 Online, FusionFall, Divine Souls, Zone 4: Fight District, Rumble Fighter, Lost Saga, Soul Master, Pikmin, Vindictus, Mabinogi
 875 6 - War Rock, Sword 2, Knight Online, MKZ, Taikodom, Victory
 846 5 - Torchlight MMO, Torchlight, Diablo II, Mytheon, Battle of the Immortals
 799 11 - Star Trek Online, Champions Online, The Mummy, Star Trek, Gladiatus, BiteFight, Ikariam, Tanoth, OGame, Metin 2, Gates of Andaron
@@ -15037,7 +15037,7 @@
 695 5 - MapleStory, Combat Arms, Mabinogi, Dungeon Fighter Online, Vindictus
 691 7 - Zodiac Online, Magic World Online, Phoenix Dynasty Online, Wizard101, Digimon Battle, Wonderland Online, Atlantica Online
 662 15 - Star Wars: The Old Republic, World of Warcraft, The Lord of the Rings Online, Dungeons & Dragons Online, Warhammer Online, Age of Conan, Guild Wars, MapleStory, La Tale, WonderKing, Ghost Online, Wind Slayer, BattleForge, Battlefield Heroes, Lord of Ultima
-649 7 - MapleStory, Combat Arms, Dungeon Fighter Online, Mabinogi, Atlantica Online, WonderKing Online, GoonZu
+649 7 - MapleStory, Combat Arms, Dungeon Fighter Online, Mabinogi, Atlantica Online, WonderKing, GoonZu
 626 6 - Bots, Custom Robo, 9Dragons, 2Moons, Dance Online, The Chronicles of Spellborn
 610 10 - Dungeons & Dragons Online, Asheron's Call, The Lord of the Rings Online, LEGO Star Wars, LEGO Indiana Jones, LEGO Batman, The Lord of the Rings: War in the North, Mortal Kombat, Batman, F.E.A.R.
 558 5 - MapleStory, Mabinogi, Combat Arms, Dungeon Fighter Online, FarmVille
@@ -15063,9 +15063,9 @@
 123 7 - Vindictus, Dragon Saga, Dungeon Fighter Online, Gauntlet Legends, Golden Axe, Lunia, GhostX
 108 4 - MapleStory, Combat Arms, Mabinogi, Dungeon Fighter Online
 84 9 - World of Warcraft, Burning Crusade, Battlefield Heroes, BattleForge, Free Realms, RF Online, Archlord, The Chronicles of Spellborn, Age of Conan
-77 14 - RuneScape, FusionFall, zOMG!, Gaia Online, Neopets, AdventureQuest Worlds, AdventureQuest, MechQuest, Evony, FreeSky, Dark Orbit, Sherwood Dungeon, Tribal Wars, Club Penguin
-63 8 - Mini Fighter, Splash Fighters, Rumble Fighter, Sugar Rush, Sudden Attack, MaguMagu, Prius, Ys Online
-57 10 - MapleStory, Shin Megami Tensei: Imagine Online, Aika, Twelve Sky 2, Twelve Sky, Shaiya, Lineage II, Perfect World, 2029 Online, Archlord
+77 14 - RuneScape, FusionFall, zOMG!, Gaia Online, Neopets, AdventureQuest Worlds, AdventureQuest, MechQuest, Evony, Freesky Online, Dark Orbit, Sherwood Dungeon, Tribal Wars, Club Penguin
+63 8 - Mini Fighter, Splash Fighters, Rumble Fighter, Sugar Rush, Sudden Attack, MaguMagu, Prius Online, Ys Online
+57 10 - MapleStory, Shin Megami Tensei: Imagine Online, Aika Online, Twelve Sky 2, Twelve Sky, Shaiya, Lineage II, Perfect World, 2029 Online, Archlord
 56 10 - MapleStory, Grand Fantasia, Flyff, Mabinogi, Cloud Nine, Holic Online, Bright Shadow, Soul Master, Trickster Online, WonderKing
 55 16 - Vindictus, Fists of Fu, Lunia, Runes of Magic, World of Warcraft, The Lord of the Rings Online, League of Legends, Aeon of Strife, Warcraft III, Defense of the Ancients, MapleStory, Perfect World, Ragnarok Online, Gauntlet Legends, Legend of Edda, Silkroad Online
 49 7 - World of Warcraft, RuneScape, MapleStory, Scions of Fate, Knight Online, The Legend of Mir 3, Mir 2
