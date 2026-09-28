@@ -184,6 +184,7 @@ $sugMode = isset($_GET['sug']);
       <div class="t"><a href="<?=h($self)?>?i=<?=$s['i']?>" target="_blank" rel="noopener"><?=h($g)?></a> <span class="cnt">(<?=$s['n']?> статей)</span></div>
       <div class="meta">похожа на забаненные: <?=h(implode(', ',$s['banned']))?></div>
     </div>
+    <a class="nav" href="https://www.google.com/search?tbm=vid&amp;q=<?=h(rawurlencode($g))?>" target="_blank" rel="noopener" style="border:1px solid var(--line);border-radius:6px;padding:8px 12px;text-decoration:none;color:var(--ink)">▶ видео</a>
     <a class="nav" href="<?=h($self)?>?i=<?=$s['i']?>" target="_blank" rel="noopener" style="border:1px solid var(--line);border-radius:6px;padding:8px 12px;text-decoration:none;color:var(--ink)">👁 открыть</a>
     <form method="post">
       <input type="hidden" name="game" value="<?=h($g)?>">
