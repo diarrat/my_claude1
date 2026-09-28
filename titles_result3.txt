@@ -6187,7 +6187,7 @@
 8138 1 - Total War Battles: Kingdom
 8137 1 - Paladins
 8136 1 - Dota 2
-8135 1 - Fantasy XIV
+8135 1 - Final Fantasy XIV
 8134 1 - Dying Light
 8133 1 - Formula Fusion
 8132 1 - Lords Road
@@ -14709,7 +14709,7 @@
 7223 2 - StarCraft II, Hearthstone
 7196 6 - Overwatch, Dreadnought, Gigantic, Dragon Fin Soup, Guns of Icarus Online, Echo of Soul
 7190 6 - SMITE, FORCED 2: The Rush, Life is Strange, Just Shapes and Beats, World of Tanks, World of Tanks Generals
-7188 7 - Moon Hunters, The Witcher III, RIFT, ArcheAge, Defiance, Starship Empire, Dreadnought
+7188 7 - Moon Hunters, The Witcher 3, RIFT, ArcheAge, Defiance, Starship Empire, Dreadnought
 7187 1 - Heroes of the Storm
 7186 4 - Dirty Bomb, Nosgoth, SMITE, Unreal Tournament
 7175 16 - Castle Crashers, Game 4, Dragon Fin Soup, Guild Wars 2, World of Warships, World of Warcraft, World of Tanks Blitz, World of Tanks, Gigantic, Final Fantasy XIV, Triple Triad, Overwatch, Heroes of the Storm, Diablo III, SMITE, Street Fighter V

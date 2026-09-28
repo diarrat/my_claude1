@@ -99,6 +99,7 @@ SAME = {
     'World of Tanks: Xbox 360': 'World of Tanks: Xbox 360 Edition', 'ÆRENA': 'Ærena: Clash of Champions',
     'Kingdom Hearts Union X [Cross]': 'Kingdom Hearts Union χ', 'SMITE Tactics': 'Hand of the Gods',
     'Legend of Edda: Global Edition': 'Legend of Edda',
+    'Fantasy XIV': 'Final Fantasy XIV', 'The Witcher III': 'The Witcher 3',
 }
 
 # Короткие названия = конкретная игра; дополнения и издания = основная игра

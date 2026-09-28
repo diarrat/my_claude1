@@ -196,7 +196,6 @@ Fallout
 Fallout 2
 Fallout 4
 Fantasy Westward Journey Online
-Fantasy XIV
 Far Cry 3
 Far Cry 4
 Fate
@@ -429,7 +428,6 @@ The Surge 2
 The Walking Dead
 The Witcher
 The Witcher 3
-The Witcher III
 Thief
 This War of Mine
 Tiger Knight: Empire War
@@ -477,3 +475,8 @@ Wolfenstein II: The New Colossus
 XCOM 2
 Zula
 theHunter: Call of the Wild
+Dark Age of Camelot
+Mortal Kombat
+EverQuest
+Command & Conquer
+Heroes of Might and Magic Online
