@@ -29,6 +29,25 @@ ABBR = {'SWTOR': 'Star Wars: The Old Republic', 'LOTRO': 'The Lord of the Rings 
         'MegaTen': 'Shin Megami Tensei: Imagine Online'}
 
 
+# Не менять: по смыслу это отдельная игра / версия
+KEEP = {'Dungeons & Dragons (Giant Skull project)', 'Prince of Persia: The Sands of Time (remake)',
+        'Perfect World (Perfect World International)'}
+# Ручные исправления итогового названия (после проверки глазами)
+FIX = {'Dungeon & Dragons Online': 'Dungeons & Dragons Online', 'Dungeon and Dragons Online': 'Dungeons & Dragons Online',
+       'Dungeon&Fighter': 'Dungeon Fighter Online',
+       'Dungeon&Fighter Mobile': 'Dungeon&Fighter Mobile', 'Dungeon&Fighter mobile': 'Dungeon&Fighter Mobile',
+       'Senua (Senua\'s Saga)': "Senua's Saga",
+       'The Witcher 3 (Witcher 3)': 'The Witcher 3', 'The Witcher 3': 'The Witcher 3',
+       'Runeterra MMO (League of Legends MMO)': 'League of Legends MMO',
+       'Hand of the Gods: SMITE Tactics': 'Hand of the Gods', 'Hand of the Gods: Smite Tactics': 'Hand of the Gods',
+       'Dragonica': 'Dragon Saga', 'Dragonica (Dragonica: Cassiopeia)': 'Dragon Saga',
+       'RuneScape Classic': 'RuneScape Classic', 'Runescape Classic': 'RuneScape Classic',
+       'StarCraft': 'StarCraft', 'Starcraft': 'StarCraft', 'FarmVille': 'FarmVille', 'Farmville': 'FarmVille',
+       'XCOM 2': 'XCOM 2', 'XCom 2': 'XCOM 2',
+       'Dragon Ball Online': 'Dragon Ball Online', 'Dragonball Online': 'Dragon Ball Online',
+       'Dragon Ball Xenoverse 2': 'Dragon Ball Xenoverse 2', 'Dragonball Xenoverse 2': 'Dragon Ball Xenoverse 2'}
+
+
 def key(g):
     words = re.sub(r'[^a-z0-9а-яёχæ]+', ' ', g.lower().replace('&', ' and ')).split()
     return ''.join(ROMAN.get(w, w) for w in words if w not in ('the', 'and'))
@@ -52,6 +71,13 @@ for g, n in count.items():
     groups[key(step1[g])][step1[g]] += n
 canon = {k: max(c, key=lambda x: (c[x], x != x.upper(), x)) for k, c in groups.items()}
 rename = {g: canon[key(step1[g])] for g in count}
+for g in count:
+    if g in KEEP:
+        rename[g] = g
+    elif g in FIX:
+        rename[g] = FIX[g]
+    elif rename[g] in FIX:
+        rename[g] = FIX[rename[g]]
 
 out = []
 for l in lines:
