@@ -185,12 +185,24 @@ $sugMode = isset($_GET['sug']);
       <div class="meta">похожа на забаненные: <?=h(implode(', ',$s['banned']))?></div>
     </div>
     <a class="nav" href="https://www.google.com/search?tbm=vid&amp;q=<?=h(rawurlencode($g))?>" target="_blank" rel="noopener" style="border:1px solid var(--line);border-radius:6px;padding:8px 12px;text-decoration:none;color:var(--ink)">▶ видео</a>
-    <a class="nav" href="<?=h($self)?>?i=<?=$s['i']?>" target="_blank" rel="noopener" style="border:1px solid var(--line);border-radius:6px;padding:8px 12px;text-decoration:none;color:var(--ink)">👁 открыть</a>
+    <button type="button" class="nav sugtoggle" style="background:#fff;border:1px solid var(--line);border-radius:6px;padding:8px 12px;cursor:pointer;font-family:inherit;font-size:14px;color:var(--ink)">👁 открыть</button>
     <form method="post">
       <input type="hidden" name="game" value="<?=h($g)?>">
       <input type="hidden" name="act" value="ban">
       <button class="ban">🚫 забанить</button>
     </form>
+  </div>
+  <div class="suglist" style="display:none;margin:-6px 0 16px 32px">
+    <?php foreach($groups[$g] as $r): ?>
+    <div class="card">
+      <?php if($r['img']!==''): ?><img src="<?=h($r['img'])?>" loading="lazy" alt=""><?php else: ?><div class="noimg">нет пикчи</div><?php endif; ?>
+      <div class="cbody">
+        <div class="t"><a href="<?=h($r['link'])?>" target="_blank" rel="noopener"><?=h($r['title'])?></a></div>
+        <div class="meta"><?=h($r['date'])?><?= $r['author']!=='' ? ' · '.h($r['author']) : '' ?></div>
+        <?php if($r['excerpt']!==''): ?><div class="exc"><?=h($r['excerpt'])?></div><?php endif; ?>
+      </div>
+    </div>
+    <?php endforeach; ?>
   </div>
   <?php endforeach; ?>
 <?php elseif($cur===null): ?>
@@ -244,6 +256,13 @@ document.querySelectorAll('form[method="post"]').forEach(function(f){
     fetch(location.pathname, {method:'POST', body:new FormData(f), headers:{'X-Requested-With':'fetch'}})
       .then(function(){ location.href = location.pathname + location.search; })
       .catch(function(){ location.reload(); });
+  });
+});
+// предложка: «открыть» разворачивает/сворачивает статьи игры под плашкой
+document.querySelectorAll('.sugtoggle').forEach(function(b){
+  b.addEventListener('click', function(){
+    var l=b.closest('.card').nextElementSibling; var open=l.style.display==='none';
+    l.style.display=open?'block':'none'; b.textContent=open?'▲ свернуть':'👁 открыть';
   });
 });
 var copyBtn=document.getElementById('copyAll'); if(copyBtn) copyBtn.addEventListener('click', function(){
