@@ -151,6 +151,14 @@ $sugMode = isset($_GET['sug']);
   .t a:hover{color:var(--red)}
   .empty{padding:40px;text-align:center;color:var(--gray)}
   footer{max-width:1100px;margin:0 auto;padding:0 16px 40px;color:var(--gray);font-size:13px}
+  .suglist{height:0;overflow:hidden;margin-left:32px;transition:height .3s ease}
+  .suginner{padding:0 0 12px}
+  .sugitem{overflow:hidden;transition:height .35s ease,opacity .35s ease,margin .35s ease}
+  .sugitem.gone{opacity:0}
+  .undo{display:flex;align-items:center;gap:12px;background:#fff4f4;border:1px dashed var(--red);border-radius:6px;padding:8px 12px;margin-bottom:12px;color:var(--ink);font-size:14px;animation:undoIn .3s ease}
+  .undo button{background:#fff;border:1px solid var(--line);border-radius:6px;padding:4px 10px;cursor:pointer;font-family:inherit}
+  .undo button:hover{border-color:var(--red);color:var(--red)}
+  @keyframes undoIn{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:none}}
 </style>
 </head><body>
 <header>
@@ -179,6 +187,7 @@ $sugMode = isset($_GET['sug']);
   <h2 style="margin:4px 0 12px">💡 Похожие на забаненные (<?=count($sug)?>)</h2>
   <?php if(!$sug): ?><div class="empty">Нечего предложить.</div><?php endif; ?>
   <?php foreach($sug as $g=>$s): ?>
+  <div class="sugitem" data-game="<?=h($g)?>">
   <div class="card" style="align-items:center">
     <div class="cbody" style="flex:1">
       <div class="t"><a href="<?=h($self)?>?i=<?=$s['i']?>" target="_blank" rel="noopener"><?=h($g)?></a> <span class="cnt">(<?=$s['n']?> статей)</span></div>
@@ -186,13 +195,13 @@ $sugMode = isset($_GET['sug']);
     </div>
     <a class="nav" href="https://www.google.com/search?tbm=vid&amp;q=<?=h(rawurlencode($g))?>" target="_blank" rel="noopener" style="border:1px solid var(--line);border-radius:6px;padding:8px 12px;text-decoration:none;color:var(--ink)">▶ видео</a>
     <button type="button" class="nav sugtoggle" style="background:#fff;border:1px solid var(--line);border-radius:6px;padding:8px 12px;cursor:pointer;font-family:inherit;font-size:14px;color:var(--ink)">👁 открыть</button>
-    <form method="post">
+    <form method="post" class="sugban">
       <input type="hidden" name="game" value="<?=h($g)?>">
       <input type="hidden" name="act" value="ban">
       <button class="ban">🚫 забанить</button>
     </form>
   </div>
-  <div class="suglist" style="display:none;margin:-6px 0 16px 32px">
+  <div class="suglist"><div class="suginner">
     <?php foreach($groups[$g] as $r): ?>
     <div class="card">
       <?php if($r['img']!==''): ?><img src="<?=h($r['img'])?>" loading="lazy" alt=""><?php else: ?><div class="noimg">нет пикчи</div><?php endif; ?>
@@ -203,6 +212,7 @@ $sugMode = isset($_GET['sug']);
       </div>
     </div>
     <?php endforeach; ?>
+  </div></div>
   </div>
   <?php endforeach; ?>
 <?php elseif($cur===null): ?>
@@ -226,7 +236,7 @@ $sugMode = isset($_GET['sug']);
   Забанено групп: <?=count($banned)?>. Список в <code>banned.txt</code>.
   <?php if($banned): ?>
     <details><summary>показать забаненные</summary>
-      <?php foreach(array_keys($banned) as $b): ?>
+      <?php foreach(array_reverse(array_keys($banned)) as $b): ?>
         <div style="margin:4px 0">
           <form method="post" style="display:inline">
             <input type="hidden" name="game" value="<?=h($b)?>">
@@ -250,7 +260,7 @@ $sugMode = isset($_GET['sug']);
   j.addEventListener('change', go);
 })();
 // ban/unban через fetch — без нативной отправки формы (иначе Firefox ругается на http)
-document.querySelectorAll('form[method="post"]').forEach(function(f){
+document.querySelectorAll('form[method="post"]:not(.sugban)').forEach(function(f){
   f.addEventListener('submit', function(ev){
     ev.preventDefault();
     fetch(location.pathname, {method:'POST', body:new FormData(f), headers:{'X-Requested-With':'fetch'}})
@@ -258,11 +268,52 @@ document.querySelectorAll('form[method="post"]').forEach(function(f){
       .catch(function(){ location.reload(); });
   });
 });
-// предложка: «открыть» разворачивает/сворачивает статьи игры под плашкой
+// предложка: «открыть» плавно разворачивает/сворачивает статьи игры под плашкой
 document.querySelectorAll('.sugtoggle').forEach(function(b){
   b.addEventListener('click', function(){
-    var l=b.closest('.card').nextElementSibling; var open=l.style.display==='none';
-    l.style.display=open?'block':'none'; b.textContent=open?'▲ свернуть':'👁 открыть';
+    var l=b.closest('.card').nextElementSibling, open=!l.classList.contains('open');
+    l.classList.toggle('open', open);
+    if(open){ l.style.height=l.scrollHeight+'px';
+      l.addEventListener('transitionend', function te(){ if(l.classList.contains('open')) l.style.height='auto'; l.removeEventListener('transitionend',te); });
+    } else { l.style.height=l.scrollHeight+'px'; l.offsetHeight; l.style.height='0px'; }
+    b.textContent=open?'▲ свернуть':'👁 открыть';
+  });
+});
+// предложка: бан без перезагрузки — плитка плавно исчезает, на её месте плашка «Отменить»
+function post(game, act){
+  var fd=new FormData(); fd.append('game',game); fd.append('act',act);
+  return fetch(location.pathname, {method:'POST', body:fd, headers:{'X-Requested-With':'fetch'}});
+}
+function collapse(el, done){
+  el.style.height=el.offsetHeight+'px'; el.offsetHeight;
+  el.classList.add('gone'); el.style.height='0px'; el.style.marginBottom='0px';
+  setTimeout(done, 360);
+}
+function expand(el){
+  el.style.display=''; el.style.height='0px'; el.offsetHeight;
+  el.classList.remove('gone'); el.style.height=el.scrollHeight+'px'; el.style.marginBottom='';
+  setTimeout(function(){ el.style.height=''; }, 360);
+}
+var sugCnt=document.querySelector('a[href$="?sug=1"]');
+function bumpCount(d){ if(!sugCnt) return; sugCnt.textContent=sugCnt.textContent.replace(/\((\d+)\)/, function(m,n){ return '('+(+n+d)+')'; }); }
+document.querySelectorAll('form.sugban').forEach(function(f){
+  f.addEventListener('submit', function(ev){
+    ev.preventDefault();
+    var item=f.closest('.sugitem'), game=item.dataset.game, btn=f.querySelector('button');
+    btn.disabled=true;
+    post(game,'ban').then(function(){
+      collapse(item, function(){
+        item.style.display='none'; bumpCount(-1);
+        var u=document.createElement('div'); u.className='undo';
+        u.innerHTML='🚫 <b></b> забанена <button type="button">↶ Отменить</button>';
+        u.querySelector('b').textContent=game;
+        item.parentNode.insertBefore(u, item);
+        u.querySelector('button').addEventListener('click', function(){
+          this.disabled=true;
+          post(game,'unban').then(function(){ u.remove(); btn.disabled=false; bumpCount(1); expand(item); });
+        });
+      });
+    }).catch(function(){ btn.disabled=false; alert('Не удалось забанить — сервер не ответил'); });
   });
 });
 var copyBtn=document.getElementById('copyAll'); if(copyBtn) copyBtn.addEventListener('click', function(){
