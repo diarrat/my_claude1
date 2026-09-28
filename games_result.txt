@@ -169,3 +169,15 @@
 3701 1 - SMITE
 3724 4 - Uncharted Waters Online, District 187, Arcane Saga, Dice Venture
 3742 0 -
+3765 1 - World of Tanks
+3780 1 - World of Tanks
+3813 6 - Planetside, Guild Wars 2, The Secret World, Mists of Pandaria (Mist of Pandaria), Warhammer 40,000 Eternal Crusade, Defiance
+3821 3 - World of Tanks, World of Warplanes, World of Tanks: Xbox 360 Edition
+3826 1 - World of Tanks
+3834 3 - Total Annihilation, Master of Orion, World of Warplanes
+3868 0 -
+3882 6 - Guild Wars 2, Lego Minifig MMO, Black Gold, Grand Theft Auto Online (GTA Online), GTA V, League of Legends
+3896 1 - League of Legends
+3916 3 - World of Tanks, World of Tanks: Xbox 360, World of Warplanes
+3930 5 - World of Tanks, World of Warplanes, Merc Elite, Stronghold Crusader 2, Stronghold Crusader
+3940 1 - CasinoRPG
