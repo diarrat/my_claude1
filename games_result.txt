@@ -491,3 +491,516 @@
 8489 6 - DC Universe Online, Tanarus, H1Z1, EverQuest, EverQuest II, Dragon's Prophet
 8501 7 - Life is Strange, Hitman, Just Cause 3, Deus Ex: Mankind Divided, Deus Ex: Human Revolution, Rise of the Tomb Raider, Tomb Raider
 8504 7 - Halo, Evolve, Mirror's Edge Catalyst, Mirror's Edge, Fallout, Warframe, Star Trek Timelines
+8508 7 - Digimon Story: Cyber Sleuth, Digimon, Phantom of the Kill, Chain Chronicle, Brave Frontier, Warframe, Sword Art Online: Lost Song
+8517 1 - Tiny Mighty
+8523 6 - Street Fighter 5, Resident Evil Umbrella Corps, Street Fighter 3, Street Fighter 4, Naruto: Ultimate Ninja Storm 4, DotA 2
+8548 9 - Robocraft, WWE Immortals, Mortal Kombat (MK), League of Legends, Skyforge, Black Desert Online, Guild Wars 2, Castle Clash, Rift
+8558 6 - EverQuest, EverQuest II, PlanetSide 2, DC Universe Online, H1Z1, Landmark
+8573 14 - Guild Wars 2, Guild Wars 2: Heart of Thorns, Path of Exile, Diablo, Trove, Minecraft, Neverwinter, Dungeons & Dragons, Rift, Vindictus, TERA, Skyforge, Wakfu, ArcheAge
+8582 0 -
+8610 3 - World of Darkness, Vampire: The Masquerade, Werewolf: The Apocalypse
+8633 3 - Kanpani Girls, Kantai Collection (KanColle), Angelic Saga
+8640 14 - Overwatch, StarCraft, StarCraft II: Legacy of the Void, Nova: Covert Ops, Warcraft, Heroes of the Storm, SMITE, League of Legends, Hearthstone, Hearthstone: League of Explorers, Diablo 3, Diablo, World of Warcraft, World of Warcraft: Legion
+8736 5 - Star Trek Online, Neverwinter, Perfect World International, Forsaken World, Champions Online
+8749 1 - ELOA: Elite Lord of Alliance
+8750 4 - Phantom of the Kill, Fire Emblem, Downtown Showdown, Rune Story
+8782 1 - League of Legends
+8842 5 - Aigis, Lord of Valkyrie, Dragon Tactics, Osawari, Kanpani Girls
+8843 18 - Age of Wushu, Elder Scrolls Online: Tamriel Unlimited (ESO), Elite: Dangerous, The Repopulation, Star Citizen, Camelot Unchained, Age of Wulin, Taichi Panda, Age of Wushu Dynasty, The Secret World, The Park, Tabletop Simulator, Heroes of the Storm, MasterXMaster, Star Wars Galaxies, World of Warcraft, Hearthstone, FFXIV
+8846 17 - League of Legends, Counter Strike: Global Offensive, Team Fortress 2, Overwatch, Dirty Bomb, Brink, Quake Wars, For Honor, Mount & Blade, Chivalry, Gigantic, LawBreakers, Battlecry, Battleborn, Paragon, SMITE, DotA 2
+8849 3 - League of Legends, Dota 2, SMITE
+8857 16 - Skyforge, World of Warcraft (WoW), Guild Wars 2, Guild Wars 2: Heart of Thorns, Star Wars: The Old Republic (TOR), Final Fantasy XIV, Blade & Soul, Black Desert, Phantasy Star Online 2, Phantasy Star, Hello Kitty Island, Final Fantasy XV, World of Warcraft: Legion, The Elder Scrolls Online (TESO), Warhammer Online, DC Universe Online (DCUO)
+8859 5 - Dungeon of the Endless, Endless Space, Endless Legend, Endless Legend: Shifters, Endless Space 2
+8860 21 - WildStar, Camelot Unchained, League of Legends, Infinite Crisis, Rise of Incarnates, Vainglory, Smite, Descent, Wing Commander, Descent: Underground, Star Citizen, Dungeon Fighter Online, Dream of Mirror Online (DOMO), Karos Returns, Cabal II, Archlord II, Lineage: Eternal, Crowfall, Black Desert, Hero's Song, Dark Age of Camelot
+8862 11 - League of Legends, Dungeon & Fighter, Crossfire, World of Warcraft, Guild Wars 2, Blade & Soul, World of Tanks, Hearthstone, Demigods and Semi Devils, Fantasy Journey to the West 2, Call of Duty Online
+8878 7 - Atari Vault, Asteroids, Tempest, Rollercoaster Tycoon World, Rollercoaster Tycoon, Cities XL, Pridefest
+8883 9 - SpeedRunners, Diaries of a Spaceport Janitor, The Final Station, Road to Ballhalla, Lovely Planet Arcade, Lovely Planet, ClusterTruck, Marble Madness, Grand Theft Auto
+8897 6 - Tropico, Dungeons, Hegemony Rome, Crowntakers, Excubitor, Upwards, Lonely Robot
+8944 3 - Orcs Must Die!, Orcs Must Die! Unchained, Orcs Must Die! 2
+8950 1 - Fairy Tail
+8952 1 - League of Legends
+8965 9 - Just Shapes & Beats, Mortal Kombat, Default Dan, Super Mario, Combat Core, Power Stone, Custom Robo, Camelot Unchained, Dark Age of Camelot
+8978 3 - Attack on Titan, Fairy Tail, Tokyo Ghoul
+9013 1 - WildStar
+9090 4 - Knights Fall, Tiny Fall, Gigant Shock, Dragon Nest
+9117 1 - Counter-Strike
+9119 3 - League of Legends, CS:GO, DOTA 2
+9162 1 - Warframe
+9197 9 - Necropolis, Warhammer 40,000: Eternal Crusade, Sword Art Online: Hollow Realization, Portal, Dark Souls, Dark Souls III, Gauntlet, Gears of War, Battlefield
+9213 6 - ASTA – The War of Tears and Winds, MU Online, Rappelz, Continent of the Ninth Seal (C9), Flyff, ELOA
+9216 6 - ASTA, ELOA, Rappelz, MU Online, Flyff, C9
+9223 2 - Final Fantasy XI, Final Fantasy XI Mobile
+9229 4 - Medal Masters, Legion of Heroes, Fantasy War Tactics, Vindictus
+9287 1 - Counter-Strike: Global Offensive (CS:GO)
+9339 5 - The Park, Conan Exiles, Anarchy Online, Age of Conan, The Secret World
+9355 2 - Dynasty Warriors Mobile, Dynasty Warriors
+9402 4 - Civilization VI, Dragon Ball Xenoverse 2, Lawbreakers, Tekken 7
+9418 2 - SMITE, Paladins
+9424 1 - Counter-Strike: Global Offensive (CS:GO)
+9428 3 - Hearts of Iron IV, Stellaris, Europa Universalis IV
+9430 0 -
+9463 1 - Crowfall
+9472 6 - ASTA, ELOA, Rappelz, MU Online, Flyff, C9
+9473 7 - ASTA – The War of Tears and Winds, ELOA: Elite Lord of Alliance, Rappelz, MU Online, Flyff, Age of Wulin, Continent of the Ninth Seal (C9)
+9476 1 - Avatar
+9502 12 - Endless Legend, Endless Space, Dungeon of the Endless, Total War: WARHAMMER, Warhammer 40,000: Dawn of War III, Football Manager, Company of Heroes, Motorsport Manager, Endless Space 2, Alien: Isolation, Total War, Dawn of War
+9541 0 -
+9553 5 - RuneScape, Old School RuneScape, Chronicle: RuneScape Legends, RuneScape: Idle Adventures, Adventure Capitalist
+9627 3 - Transformers, Fast & Furious: Legacy, Marvel Contest of Champions
+9647 0 -
+9657 1 - League of Legends (LoL)
+9660 4 - Monstermind, Surgeon Simulator, Worlds Adrift, Minecraft
+9739 6 - Ghost Recon Phantoms, Mighty Quest for Epic Loot, Might and Magic Duel of Champions, EndWar Online, Halo Online, Firefall
+9744 8 - Atlas Reactor, Trove, RIFT, ArcheAge, DOTA 2, XCOM, RIFT: Starfall Prophecy, ArcheAge 3.0: Revelation
+9746 4 - Lords of New York, For Honor, Atlas Reactor, ArcheAge: Revelation
+9747 4 - Final Fantasy XV (FFXV), Eternal, Elder Scrolls Online, Smash+Grab
+9748 2 - Obduction, Heavy Metal Machines
+9777 1 - SMITE
+9813 0 -
+9818 0 -
+9819 0 -
+9821 0 -
+9833 0 -
+9835 0 -
+9836 0 -
+9837 0 -
+9839 14 - Hitman, Rise of the Tomb Raider, Deus Ex: Mankind Divided, Valentino Rossi (Valinto Rosso), Ride 2, Kingdom Hearts 2.8 HD, World of Final Fantasy, Final Fantasy XV, Kingdom Hearts Dream Drop Distance, Kingdom Hearts Birth by Sleep, Kingdom Hearts 3, Kingdom Hearts 2, Final Fantasy 8, Pokemon
+9840 1 - Space Strategy
+9843 14 - Yu-Gi-Oh, Street Fighter 5, Naruto Shippuden Ultimate Ninja Storm 4: Road to Boruto, Dragonball Xenoverse 2, Resident Evil 7, Outlast, PT Silent Hills, Resident Evil 4 (RE4), RWBY, Devil May Cry, Dynasty Warriors, Star Wars: The Old Republic, Star Wars: The Old Republic – Knights of the Eternal Throne, Knights of the Fallen Empire
+9845 4 - Rise of the Tomb Raider, Rise of the Tomb Raider: Blood Ties (Blood Tides), Resident Evil 7, Rick and Morty: Virtual Rick-ality
+9850 4 - John Wick Chronicles, Kitty in the Box VR, Kitty in the Box, Resident Evil 7
+9852 0 -
+9861 2 - Overwatch, Warframe
+9871 0 -
+9880 1 - League of Legends
+9901 1 - League of Legends
+9933 3 - Total War: ARENA, Total War, World of Tanks
+10005 3 - MU Online, Flyff, Rappelz
+10007 2 - Left 4 Dead, Evolve
+10012 4 - MU Online, Flyff, C9, Rappelz
+10025 4 - Agar.io, Flappy Bird, RuneScape, Achaea
+10033 2 - Final Fantasy XV, Magic: the Gathering
+10037 3 - SMITE, Paladins, SMITE Tactics
+10042 4 - Tree of Savior, Dota 2, League of Legends, H1Z1: King of the Hill
+10046 4 - Smite, Paladins, Overwatch, League of Legends
+10047 2 - The Legend of Zelda (Zelda), Sengoku BASARA
+10051 10 - World of Warcraft: Legion (Legion), Blade & Soul, WildStar, Elder Scrolls Online, Skyrim, Star Citizen, Crowfall, Camelot Unchained, Pantheon, League of Angels II
+10059 35 - Lineage Eternal, Lineage, Art of War: Red Tides, Clash Royale, MapleStory 2, MapleStory, Minecraft, Revelation Online, Blade & Soul, Battlerite, LawBreakers, Call of Duty, Overwatch, Paladins, Battleborn, Skysaga, GWENT, The Witcher, Dreadnought, World of Tanks, SMITE Tactics, SMITE, Dota, Duelyst, Final Fantasy Tactics, Cloud Pirates, Master X Master, WildStar, Aion, Hyper Universe, Smash Bros, Dark and Light, Dauntless, Dark Souls, Monster Hunter
+10074 14 - Super Dungeon Tactics, Nefarious, Skullgirls, Holy Potatoes! We're in Space?!, Holy Potatoes! A Weapon Shop?!, The Shrouded Isle, Moon Hunters, In The Shadows, Forsaken Castle, Super Metroid, Castlevania, Monster Boy and the Cursed Kingdom, Monster Boy, Haimrik
+10077 3 - Overwatch, Dark Souls, Pokemon
+10078 0 -
+10086 24 - Black Desert Online, Twin Saga, Otherland, Riders of Icarus, Dragon's Prophet, Blade & Soul, Tree of Savior, Age of Wushu, The Secret World, Hide & Shriek, The Park, Life is Feudal, Conan Exiles, Camelot Unchained, Crowfall, Durango, ArcheAge, World of Warcraft (WoW), Star Citizen, Dual Universe, Dark & Light, ARK Park, Wurm Online, Life is Feudal: Your Own
+10239 4 - Rappelz, MU Online, Flyff, C9
+10271 5 - Street Fighter, Tekken, League of Legends (LoL), Smite, Paladins
+10272 1 - League of Legends
+10307 6 - Neverwinter, Star Trek Online, Champions Online, Perfect World International (PWI), Swordsman, Forsaken World
+10313 1 - League of Legends
+10318 2 - SMITE, SMITE Adventure: The Trials of King Hercules
+10322 3 - Magic: The Gathering, Magic: The Gathering RPG, Neverwinter
+10330 16 - Assassin's Creed, Assassin's Creed Origins, Dishonored, Skyrim, Sea of Thieves, Cuphead, Kingdom Hearts, Dragon Ball FighterZ, Dragon Ball Z: Extreme Butoden, Street Fighter V, Tekken 7, Star Wars: Battlefront II, Wolfenstein II: The New Colossus, Star Wars: The Old Republic, Wolfenstein: The New Order, Castle Wolfenstein
+10368 3 - Tribal Wars, Grepolis, The West
+10374 6 - Final Fantasy XIV, Heroes of the Storm, Overwatch, SMITE, Black Desert, Final Fantasy 1
+10444 3 - League of Legends, DOTA 2, SMITE
+10462 1 - Star Trek Timelines
+10498 1 - Legacy of Discord
+10503 2 - SMITE, SMITE: Corrupted Arena
+10520 1 - League of Legends
+10541 1 - SMITE
+10557 24 - Hand of the Gods, Street Fighter, Magic: the Gathering, Tunnels and Trolls, TERA, Wolfenstein II: The New Colossus, Wolfenstein, Castle Wolfenstein, Wolfenstein: The New Order, Dragon Ball FighterZ, Street Fighter V, BlazBlue Cross Tag, Ship of Heroes, City of Heroes, Dauntless, Monster Hunter World, Space Engineers, Minecraft, Trove, Dual Universe, Blade & Soul, Guild Wars 2, Guild Wars 2: Heart of Thorns, Guild Wars 2: Path of Fire
+10560 6 - Dungeons and Dragons, StarCraft, Paladins, League of Legends, SMITE, Heroes of the Storm
+10588 2 - SMITE, Paladins
+10601 4 - Vainglory, Power Rangers: Legacy Wars, World of Tanks Blitz, Critical Ops
+10663 1 - World of Tanks
+10666 11 - League of Legends, Hearthstone, Counter Strike: Global Offensive, Playerunknown's Battlegrounds, Overwatch, Heroes of the Storm, StarCraft II, Dota 2, Gwent, The Elder Scrolls: Legends, World of Tanks
+10674 5 - SMITE, Paladins, World of Warcraft, Vampire Savior (Vampire Saviour), DOTA 2
+10697 4 - SMITE, Paladins, Hand of the Gods (HOTG), Magic: The Gathering (MTG)
+10719 3 - SMITE, Paladins, Hand of the Gods
+10743 6 - C9, Rappelz, Flyff, MU Online, Shot Online, MU Origin
+10756 4 - SMITE, Paladins, Hand of the Gods (SMITE Tactics), Magic: The Gathering (MTG)
+10784 3 - SMITE, Elder Scrolls, Borderlands
+10792 4 - PUBG (Playerunknown's Battlegrounds), Paladins, League of Legends, Counter-Strike
+10828 3 - SMITE, Hand of the Gods, Paladins
+10862 2 - SMITE, Paladins
+10878 3 - Paladins, SMITE, Star Wars: Battlefront II (Battlefront)
+10897 13 - Paladins, Overwatch, SMITE, League of Legends, NBA 2K, Destiny 2, Middle-earth: Shadow of War (Shadow of War), Need for Speed Payback, Call of Duty: WWII, Star Wars: Battlefront II, Destiny 2: Curse of Osiris, Destiny, Destiny: The Taken King
+10903 4 - SMITE, Paladins, Hand of the Gods, Breath of Fire II
+10929 4 - SMITE, Paladins, Hand of the Gods, League of Legends
+10945 5 - SMITE, Paladins, Hand of the Gods (SMITE Tactics), League of Legends, Dota 2
+10954 4 - SMITE, Paladins, Hand of the Gods, Paladins Battlegrounds
+10955 3 - SMITE, Paladins, Paladins Battlegrounds
+10956 2 - SMITE, Paladins
+10967 8 - Hand of the Gods (SMITE Tactics), Paladins, SMITE, Bot Smashers, Paladins Strike, Magic: The Gathering Arena (MTG: Arena), Halo, Call of Duty (CoD)
+10977 10 - BlazBlue: Cross Tag Battle (BlazBlue CrossTag), Tekken, Street Fighter V, Tekken 7, Under Night In-Birth (UnderNight), Street Fighter V: Arcade Edition, Dragon Ball FighterZ, Marvel vs. Capcom: Infinite, Killer Instinct, SMITE
+10989 1 - SMITE
+11004 3 - SMITE, Paladins, Hand of the Gods
+11006 5 - The War of Genesis, Gunship Battle: Total Warfare, Gunship Battle, Project BLESS Mobile, BLESS Online
+11022 2 - SMITE, Paladins
+11039 3 - SMITE, Paladins, World of Warcraft
+11059 2 - Romance of the Three Kingdoms: The Legend of Cao Cao (RTK: The Legend of Cao Cao), Romance of the Three Kingdoms (RTK)
+11064 0 -
+11065 3 - SMITE, Paladins, Paladins Battlegrounds
+11071 0 -
+11078 1 - Ashes of Creation
+11080 4 - Hand of the Gods, Paladins, Paladins Battlegrounds, SMITE
+11093 0 -
+11103 2 - Mortal Kombat II (Mortal Kombat 2), Onechanbara: Bikini Zombie Slayers
+11130 2 - SMITE, Paladins (Paladins: Realm Restored)
+11158 5 - Vainglory, Counter-Strike: Global Offensive, Dota 2, Hearthstone, StarCraft II
+11159 1 - Entropia Universe
+11168 2 - PlayerUnknown's Battlegrounds Mobile (PUBG Mobile), PlayerUnknown's Battlegrounds (PUBG)
+11182 4 - SMITE, Paladins, EarthBound, Dark Souls
+11198 3 - SMITE, Paladins, Hand of the Gods (HOTG)
+11206 16 - Guild Wars 2, SMITE, Paladins, Final Fantasy XIV, Pokemon Go, Final Fantasy XIV GO, Mega Man: Date My Robot Master, Moon Hunters, Boyfriend Dungeon, Dungeon Boyfriend, War Thunder, Silent Thunder, Path of Exile Royale, Path of Exile, World of Warships, Conan Exiles
+11217 1 - Fiesta Online
+11220 2 - SMITE, Paladins
+11222 6 - Family Farm Seaside, Survival Arena, Caesars Slots, Seekers Notes, Sweet Road, Toy Party
+11223 2 - Legacy of Discord, Assassin's Creed
+11228 11 - Game Dev Tycoon, Pokemon Go, Magikarp Jump, World of Pixelmon Craft, Pixelmonster Go, Fortcraft, Fortnite, PlayerUnknown's Battlegrounds (PUBG), Rules of Survival, Angry Purrs, Angry Birds
+11229 21 - World of Warcraft, Warcraft, Warhammer Online, Guild Wars 2, Elder Scrolls Online (ESO), The Elder Scrolls V: Skyrim (Skyrim), WildStar, Star Wars: The Old Republic (SWTOR), Final Fantasy XIV, Final Fantasy XI, Final Fantasy XIV: A Realm Reborn (ARR), RIFT, World of Warcraft: Wrath of the Lich King, World of Warcraft: Cataclysm, World of Warcraft: Mists of Pandaria, World of Warcraft: Warlords of Draenor, World of Warcraft: Legion, World of Warcraft: The Burning Crusade, World of Warcraft: Battle for Azeroth, League of Legends, Warcraft III (Warcraft 3)
+11240 4 - SMITE, Paladins, Paladins Strike, Vainglory
+11243 2 - Magic: The Gathering Arena (MTG Arena), Magic: The Gathering
+11254 6 - MU Legend, MU Ignition, MU Online, C9, Flyff, Rappelz
+11257 6 - MU Online, MU Legend, MU Ignition, C9, Flyff, Rappelz
+11264 5 - SMITE, Paladins, Overwatch, Diablo, Paladins Strike
+11272 7 - Magic: The Gathering, Ethereal Mist, League of Legends, SMITE, Fortnite, Magic: The Gathering Arena (MTG Arena), Paladins
+11298 8 - A Robot Named Fight!, Saturday Morning RPG, Guns of Icarus, Monster Hunter, Yakuza 6, SMITE, Dragon Ball FighterZ, BlazBlue: Centralfiction
+11306 3 - SMITE, Paladins, Paladins Strike
+11322 8 - LawBreakers, PlayerUnknown's Battlegrounds (PUBG), Fortnite (Fortnite Battle Royale), Radical Heights, Battlerite, Call of Duty, Trove, Warcraft III (Warcraft 3)
+11328 3 - SMITE, Paladins, Paladins Strike
+11345 5 - Bless Online, Vainglory, Paladins Strike, PUBG Mobile, Hearthstone
+11346 1 - Fiesta Online
+11350 1 - Attack on Titan: Assault
+11360 0 -
+11380 2 - SMITE, Paladins
+11404 5 - Realm Royale, Paladins, Fallout 76, Fortnite, Magic: The Gathering (MTG)
+11406 0 -
+11412 30 - Super Smash Bros. Ultimate (Smash Ultimate), Mavericks: Proving Grounds, PlanetSide 2, Final Fantasy XIV (FFXIV), Monster Hunter, Realm Royale, PlayerUnknown's Battlegrounds, Fortnite, Call of Duty: Black Ops 4 (Blackout), Battlefield V, Paladins, Rapture Rejects, Destiny 2, Destiny 2: Forsaken, Street Fighter V, Command & Conquer: Rivals, Elder Scrolls Online (ESO), Elder Scrolls Online: Murkmire, Elder Scrolls Online: Morrowind, Elder Scrolls Online: Summerset, Elder Scrolls Online: Wolfhunter, The Elder Scrolls: Legends, Fallout Shelter, Fallout 76, Fallout 4, Kingdom Hearts III (Kingdom Hearts 3), Wolfenstein, Rage 2, The Division 2, The Division
+11416 2 - Black Desert Online (BDO), Black Desert Mobile
+11441 5 - SMITE, League of Legends, Overwatch, Paladins, Magic: The Gathering Arena
+11443 0 -
+11451 4 - Magic: The Gathering Arena (MTG Arena), Guild Wars 2, Final Fantasy XV, Warframe
+11478 4 - Paladins, SMITE, Realm Royale, EarthBound
+11484 1 - PlayerUnknown's Battlegrounds (PUBG)
+11502 1 - SMITE
+11508 1 - Fractured
+11556 3 - SMITE, Paladins, Realm Royale
+11603 3 - SMITE, Paladins, Realm Royale
+11607 1 - RuneScape
+11617 3 - SMITE, Paladins, Realm Royale
+11618 2 - MU Online, Shot Online
+11624 5 - Rappelz, MU Online, Flyff (Fly For Fun), C9 (Continent of the Ninth Seal), MU Legend
+11632 3 - SMITE, Marvel vs. Capcom 3 (MVC3), Guild Wars 2
+11655 0 -
+11674 8 - H1Z1, EverQuest, H1Z1: Battle Royale, PlanetSide 2, DC Universe Online, The Lord of the Rings Online, Dungeons & Dragons Online, Z1 Battle Royale
+11709 9 - EyeWire, FoldIt, Phylo, Wiley Wizard, Minecraft, Q*bert, PAC-MAN, The 8 Cell, Eye in the Sky: Defender
+11756 0 -
+11757 4 - Cookie Jam, Cookie Jam Blast, Panda Pop, Genies & Gems
+11769 3 - SMITE, Paladins, Destiny
+11783 4 - Space Girl Across the Universe, Jigsaw Puzzle Amigos, Fire Gun, Dungeon Simulator
+11799 5 - RIFT, ArcheAge, Trove, Defiance 2050, Atlas Reactor
+11804 1 - SMITE
+11806 7 - DC Universe Online (DCUO), Dungeons & Dragons Online, EverQuest, EverQuest 2, H1Z1, Lord of the Rings Online, PlanetSide 2
+11818 10 - Fiesta Online, Echo of Souls, Aura Kingdom, Twin Saga, Last Chaos, Savage Hunt, Dragon's Prophet, Ironsight, Wolf Team, War2Glory
+11822 10 - My Little Farmies, My Free Farm, Molehill Empire, My Free Farm 2, MyFreeZoo Mobile, My Free Zoo, My Sunny Resort, Zoo 2: Animal Park, The Stonies, Wauies – The Pet Shop Game
+11823 6 - Kingdom Hearts Union X [Cross], Final Fantasy Brave Exvius, Dissidia Final Fantasy Opera Omnia, Star Ocean: Anamnesis, Mobius Final Fantasy, Final Fantasy X (FFX)
+11825 5 - Lineage 2: Revolution, Iron Throne, Phantomgate, Knights Chronicle, Fishing Strike
+11829 4 - RIFT, Defiance, Trove, ArcheAge
+11839 3 - League of Angels III, Era of Celestials, League of Angels
+11845 6 - Darwin Project, Paladins Strike, Overload, Tactical Monsters Rumble Arena, SCP: Secret Laboratory, SCUM
+11856 7 - MU Legend, MU Online, C9, Flyff, Rappelz, Shot Online, MU Origin
+11869 5 - Rappelz, MU Online, Flyff (Fly For Fun), C9 (Continent of the Ninth Seal), MU Legend
+11881 2 - World of Tanks: Mercenaries, World of Tanks
+11884 16 - Diablo, Warcraft III, Diablo Immortal, Diablo III: Eternal Collection, Diablo III, Diablo III: Reaper of Souls, Diablo III: Rise of the Necromancer, Warcraft III: Reforged, World of Warcraft, World of Warcraft: Battle for Azeroth, WoW Classic, Overwatch, Hearthstone, Hearthstone: Rastakhan's Rumble, Heroes of the Storm, StarCraft II
+11897 3 - EverQuest, PlanetSide, H1Z1
+11921 3 - SMITE, Paladins, Realm Royale
+11922 5 - Hearthstone, CS:GO, SMITE, Paladins, Paladins Strike
+11923 2 - SMITE, Paladins
+11939 2 - SMITE, Paladins
+11959 4 - Last Chaos, Regnum Online, Taern, Wickie Online
+11968 6 - Magic: The Gathering (Magic), SMITE, Final Fantasy IV: Free Enterprise, Final Fantasy XIV, Warlord's Awakening, Yakuza
+11972 4 - World of Tanks: Mercenaries, World of Tanks, World of Warships: Legends, World of Warships
+11973 0 -
+11974 4 - Dissidia Final Fantasy Opera Omnia, Star Ocean: Anamnesis, Dissidia Final Fantasy, Star Ocean 2
+11979 11 - My Little Farmies, My Free Zoo, My Little Farmies Mobile, MyFreeZoo Mobile, My Sunny Resort, Wauies – The Pet Shop Game, Zoo 2: Animal Park, My Free Farm 2, Horse Farm, Molehill Empire, My Free Farm
+11984 4 - Fortnite, CS:GO, League of Legends, Final Fantasy XIV
+11989 5 - Neverwinter, Star Trek Online, Champions Online, Perfect World International (PWI), Forsaken World
+11997 5 - MU Legend, MU Online, C9, Flyff, Rappelz
+12005 5 - MU Legend, MU Online, C9, Flyff, Rappelz
+12015 4 - Vainglory, Lineage 2, Dead Trigger 2, Gear.Club (Gear-Club)
+12017 14 - ArcheAge, Trove, RIFT, Defiance 2050, Ironsight, Atlas Reactor, Aura Kingdom, Fiesta Online, Echo of Soul – Phoenix, Last Chaos, Wolf Team, S4 League, Savage Hunt, Desert Operations
+12033 4 - League of Angels 3, Legacy of Discord, Era of Celestials, League of Angels 2
+12059 23 - Final Fantasy XIV, Fallout 76, Fallout, Magic: The Gathering Arena, Magic: The Gathering (MTG), Bless Online, Call of Duty: Black Ops 4 (Blackout), Fortnite, Battlerite, Realm Royale, Ring of Elysium, Borderlands, Bless Unleashed, Black Desert, TERA, Elder Scrolls Online (ESO), Guild Wars 2, World of Warcraft, Final Fantasy XI, SMITE, League of Legends, Final Fantasy XIV: Shadowbringers, Closers
+12113 0 -
+12152 0 -
+12161 3 - Warlords Awakening, Seal Online: Blades of Destiny, R.O.H.A.N.: Blood Feud
+12164 6 - Street Fighter V, BlazBlue: Central Fiction, Skullgirls, Street Fighter II, Melty Blood, Dragon Ball FighterZ (DBFZ)
+12185 5 - Star Ocean: Anamnesis, Mobius Final Fantasy, Final Fantasy Brave Exvius, Star Ocean 2, Star Ocean 5
+12198 3 - New World, Total War: Three Kingdoms, AxE (Alliance vs. Empire)
+12249 0 -
+12286 0 -
+12292 18 - World of Warcraft, EverQuest, Final Fantasy XI, UOSSMUD (The Unofficial Squaresoft MUD), GodWars, Merc, DikuMUD, ROM, Envy, Genesis MUD, Ethereal Mist, Shattered Realms, Final Fantasy Tactics, Final Fantasy V, Final Fantasy VI, Final Fantasy VII, Secret of Mana, Chrono Trigger
+12297 0 -
+12300 0 -
+12332 3 - Closers, TERA, Breach
+12364 0 -
+12379 5 - Steel Circus, Black Desert Online, Breach, Call of Duty, Final Fantasy XIV
+12398 0 -
+12417 5 - MU Online, MU Legend, C9, Flyff, Rappelz
+12421 2 - Magic: The Gathering, Dungeons & Dragons
+12424 5 - MU Legend, MU Online, C9, Flyff, Rappelz
+12429 6 - Echo of Soul, Trove, ArcheAge, Fiesta Online, Last Chaos, Aura Kingdom
+12454 5 - Hearthstone, Overwatch, StarCraft II, World of Warcraft, Warcraft
+12470 3 - Super Smash Bros., NBA 2K19, NHL 19 (NHL19)
+12478 2 - Wizardry: Proving Grounds of the Mad Overlord, Dungeons & Dragons (DnD)
+12479 0 -
+12485 0 -
+12499 14 - SMITE, Path of Exile, StarCraft II, World of Tanks, TERA, Closers, League of Legends, Call of Duty: Black Ops 4, Paladins, Whispering Willows, Stealth Bastard Deluxe, The Little Acre, Majesty, Majesty 2
+12510 4 - BanG Dream!, Cardfight!! Vanguard, Future Card Buddyfight, Weiss Schwarz
+12516 10 - World of Warcraft, Final Fantasy XIV, Final Fantasy XI, Path of Exile (PoE), Final Fantasy X, SMITE, League of Legends, Heroes Evolved, Warframe, TERA
+12530 1 - Path of Exile
+12536 0 -
+12544 0 -
+12545 1 - Legend of the Five Rings
+12574 0 -
+12581 1 - MU
+12584 0 -
+12589 0 -
+12590 0 -
+12594 7 - Elder Scrolls Online, Elder Scrolls Online: Elsweyr, Elder Scrolls Online: Dragonhold, Commander Keen, The Elder Scrolls: Legends, The Elder Scrolls: Legends – Moons of Elsweyr, The Elder Scrolls: Blades
+12601 1 - Valkyria Anatomia – The Origin
+12602 17 - Final Fantasy VII Remake, Final Fantasy VII (FF7), Yakuza, Collection of Mana, The Final Fantasy Legend, Secret of Mana (Seiken Densetsu 2), Trials of Mana (Seiken Densetsu 3), Dragon Quest XI: Echoes of an Elusive Age, Dragon Quest III (DQIII), Phantasy Star Online 2 (PSO2), Phantasy Star Online (PSO), Final Fantasy XIV, Final Fantasy XIV: Shadowbringers, Dragon Quest Builders 2, Super Mario Maker 2, Dragon Quest II (Dragon Quest 2), Dragon Ball Z: Kakarot (Dragon Ball Z: Kakkarot)
+12609 1 - Battletoads
+12620 0 -
+12634 0 -
+12657 2 - Tetris, Tetris Royale
+12658 0 -
+12675 0 -
+12684 0 -
+12689 0 -
+12691 2 - The Lord of the Rings MMO (Amazon/Leyou), New World
+12692 0 -
+12714 11 - Final Fantasy XIV, Black Desert Online, Star Wars: The Old Republic (SWTOR), Elsword Online (Elsword), RuneScape, Old School RuneScape, UOSSMUD, Wakfu, Neverwinter Online (Neverwinter), Dungeons & Dragons Online (DDO), Dungeons & Dragons
+12727 5 - MU Legend, MU Online, Rappelz, Flyff, Continent of the Ninth Seal (C9)
+12728 0 -
+12730 5 - MU Legend, MU Online, C9, Flyff, Rappelz
+12732 8 - World of Warcraft, Final Fantasy XIV, Black Desert Online, ArcheAge, Closers, TERA, Warframe, Elder Scrolls Online
+12756 3 - EyeMine, Minecraft, RuneScape
+12763 0 -
+12768 0 -
+12795 1 - Apex Legends
+12832 94 - Risk of Rain 2, Eastward, Freedom Finger, Roki, Torchlight II, Skater XL, Youropa, SUPERHOT, Dungeon Defenders: Awakened, The Touryst, Skellboy, Earthnight, Hotline Miami Collection, Ori and the Blind Forest, Blasphemous, Close to the Sun, Cat Quest II, Spiritfarer, Trine 4, Creature in the Well, One Finger Death Punch 2, Best Friend Forever, Phogs, What the Golf?, Kine, Hypercharge: Unboxed, Northgard, Sparklite, Munchkin: Quacked Quest, Borderlands 3, Blair Witch, Human Fall Flat, Age of Empires: Definitive Edition, Gears Pop!, NBA 2K20, Ghost Recon Breakpoint, PlayerUnknown's Battlegrounds, Wasteland 3, Empire of Sin, Vigor, Destiny 2: Shadowkeep, Metro Exodus – The Two Colonies, Metro Exodus, Gears 5, The Surge 2, Kingdom Come: Deliverance, Ape Out, The Bard's Tale IV (Bard's Tale 4), Stellaris: Console Edition, Devil May Cry 5, Cyberpunk 2077, Watch Dogs: Legion, Gylt, Doom Eternal, The Elder Scrolls Online, Comanche, DCL – The Game, Need for Speed Heat, Kerbal Space Program 2, Little Nightmares II, Predator: Hunting Grounds, Monster Hunter World: Iceborne, The Cycle, Life is Strange 2, Humankind, Everspace 2, The Witcher 3 (Witcher 3), FIFA 20, Disintegration, Darksiders Genesis, Destiny 2, Remothered: Broken Porcelain, Magic: The Gathering Arena, Erica, Anno 1800, Port Royale 4, Iron Harvest, Call of Duty: Modern Warfare, Death Stranding, Knights of Honor II: Sovereign, One Punch Man: A Hero Nobody Knows, One Piece: Pirate Warriors 4, Final Fantasy VIII Remastered, Dark Envoy, The Legend of Heroes: Trails of Cold Steel III, Dragon Ball Z: Kakarot, Marvel's Avengers, Killsquad, Colossus of the Unseen, Planet Zoo, Control, Mortal Kombat 11, Bee Simulator, Oninaki
+12833 16 - One Piece: Pirate Warriors 4 (One Pirate Musou 4), One Punch Man: A Hero Nobody Knows, ArcheAge, ArcheAge: Unchained, Yakuza Remastered Collection, Yakuza 3, Yakuza 4, Yakuza 5, Yakuza, Orcs Must Die 3, Orcs Must Die! Unchained, Orcs Must Die, Orcs Must Die 2, Destiny 2, Destiny 2: Shadowkeep, Dragon Ball Z: Kakarot
+12881 1 - Dark Knight
+12887 8 - My Free Farm 2, Horse Farm, My Free Zoo Mobile, My Little Farmies Mobile, My Little Farmies, My Free Zoo, My Sunny Resort, Wauies – The Pet Shop Game
+12890 8 - Fortnite, SMITE, Realm Royale, Paladins, League of Legends, Rogue Company, Dauntless, Spacelords (Raiders of the Broken Planet)
+12907 1 - Crash Fever
+12911 1 - Fortnite
+12949 4 - Diablo II (Diablo 2), Ultima Online, EverQuest, World of Warcraft
+12950 0 -
+12977 3 - Brawl Stars, Clash Royale, Hearthstone
+12978 0 -
+13020 7 - Trove, Defiance 2050, Ironsight, Fiesta Online, Aura Kingdom, Last Chaos, Shaiya
+13022 6 - My Little Farmies, My Free Farm, MyFreeZoo Mobile, My Free Zoo, Zoo 2: Animal Park, Wauies – The Pet Shop Game
+13031 3 - Flyff, Rappelz, MU Online
+13039 4 - MU Online, C9, Flyff, Rappelz
+13046 7 - Plan 8, Counter-Strike, DokeV, Black Desert Online (BDO), Crimson Desert, Shadow Arena, Black Desert
+13047 16 - Dog Duty, The Elder Scrolls Online, Nuclear Throne, Ruiner, Double Cross, Darksiders II Deathinitive Edition, Planet Alpha, Sword Legacy: Omen, Turmoil, Dauntless, RuneScape, Old School RuneScape (Old RuneScape), League of Legends, Teamfight Tactics, PUBG Mobile, The King of Fighters (King of Fighters)
+13050 17 - Squad, The Messenger, Double Cross, Darksiders II Deathinitive Edition, Planet Alpha, Sword Legacy: Omen, Turmoil, Twitch Sings, Contra: Rogue Corps, Fortress M, Mobile Legends: Bang Bang, The King of Fighters All Star, Dauntless, RuneScape, Old School RuneScape (Old RuneScape), League of Legends, Teamfight Tactics
+13053 3 - SMITE, Rogue Company, Paladins
+13057 22 - Warhammer: Vermintide 2, Prison Architect, Tom Clancy's Rainbow Six Siege, Street Fighter V, Rayman Legends, Double Cross, Darksiders II Deathinitive Edition, Planet Alpha, Sword Legacy: Omen, Turmoil, Rocket League, Rage 2, PUBG Mobile, Contra: Rogue Corps, Fortress M, The King of Fighters All Star, Twitch Sings, Dauntless, RuneScape, Old School RuneScape (Old RuneScape), League of Legends, Teamfight Tactics
+13064 21 - Goat of Duty, Miscreated, The Crew 2, Imperator: Rome, Jotun, Hue, Hover, Sherlock Holmes: The Devil's Daughter, ToeJam & Earl: Back in the Groove!, Ski Lifts Go Wrong, League of Legends, Teamfight Tactics, Path of Exile, Dauntless, Minion Masters, Mobile Legends: Bang Bang, Warframe, Magic: The Gathering Arena, Twitch Sings, RuneScape, Old School RuneScape (Old RuneScape)
+13071 4 - MU Online, C9, Flyff, Rappelz
+13076 31 - Sundered: Eldritch Edition, A Normal Lost Phone, Anarcute, Splasher, Kingdom: New Lands, Dandara, Enter the Gungeon, Ape Out, Witcheye, Heave Ho, Gato Roboto, Contra: Rogue Corps, Fortress M, Path of Exile, RuneScape, League of Legends, Teamfight Tactics, Mobile Legends: Bang Bang, Black Desert Mobile, Raid: Shadow Legends, World of Tanks, Borderlands 3, Rocket League, Apex Legends, Fallout 76, Warframe, Dauntless, Magic: The Gathering Arena, Minion Masters, Rage 2, Twitch Sings
+13086 30 - Dead by Daylight, Half-Life, Half-Life: Alyx, The Bridge, A Normal Lost Phone, Anarcute, Splasher, Kingdom: New Lands, Dandara, Enter the Gungeon, Ape Out, Witcheye, Heave Ho, Gato Roboto, Rainbow Six Siege, Ring of Elysium, Apex Legends, Fortress M, Borderlands 3, Mobile Legends: Bang Bang, Dauntless, Warframe, Raid: Shadow Legends, Path of Exile, RuneScape, League of Legends, Teamfight Tactics, Black Desert Mobile, World of Tanks, Rocket League
+13118 6 - Space Thunder, World of Tanks, Dying Light, Unturned, SMITE, Warframe
+13119 0 -
+13122 6 - AION, NosTale, Metin 2, OGame, SoulWorker, TERA
+13125 7 - Wartune, League of Angels (LOA), The Third Age, Crystal Saga, Crystal Saga 2, Survivor Legacy (Survival Legacy), Dragon Awaken
+13139 20 - Polyball, Meadow, XCOM 2, Project Winter, For The King, Earthlock, Yono and the Celestial Elephants, Kathy Rain, Turok, Etherborn, Lightmatter, Destiny 2, Ring of Elysium, Teamfight Tactics, Apex Legends, Fallout 76, RuneScape, League of Legends, Rainbow Six Siege, DOOM Eternal
+13141 4 - MU Online, C9, Flyff, Rappelz
+13142 4 - MU Online, C9, Flyff, Rappelz
+13146 14 - Polyball, Secret Neighbor, Amnesia: The Dark Descent, Crashlands, Fractured Minds, Avicii Invector, Pankapu, Urban Trial Playground, The Little Acre, Snake Pass, Destiny 2, Fallout 76, RuneScape, Dauntless
+13148 13 - Showdown Bandit, The Golf Club, Death Coming, Fractured Minds, Avicii Invector, Pankapu, Urban Trial Playground, The Little Acre, Snake Pass, Rainbow Six Siege (Rainbow 6 Siege), Borderlands 3, Legends of Runeterra, Dauntless
+13151 15 - Stellaris, Conan Exiles, Fallout 76, Grand Theft Auto V Premium Edition, Fractured Minds, Avicii Invector, Pankapu, Urban Trial Playground, The Little Acre, Snake Pass, GTA Online, Warframe, RuneScape, Old School RuneScape, Dauntless
+13158 16 - Darkest Dungeon, Cultist Simulator, Genesis Alpha One, PixArk, Borderlands: The Handsome Collection, Fractured Minds, Avicii Invector, Pankapu, Urban Trial Playground, The Little Acre, Snake Pass, Legends of Runeterra, Minion Masters, Destiny 2, DOOM Eternal, Warframe
+13167 5 - Dungeons & Dragons (D&D), Destiny 2, The Last of Us Part II, Drinking Quest, Newfoundland Jam
+13171 4 - MU Online, C9 (Continent of the Ninth), Flyff, Rappelz
+13182 2 - MU Online, C9 (Continent of the Ninth Seal)
+13193 2 - MU Online, C9
+13196 7 - League of Legends MMORPG, League of Legends (LoL), New World, Chronicles of Denzar, Lord of Poker, Scars of Honor, Star Trek Fleet Command
+13201 2 - MU Online, C9
+13209 2 - Black Desert, Call of Duty: Black Ops Cold War (COD: Black Ops Cold War)
+13216 0 -
+13225 3 - Call of Duty: Warzone, Valorant, Minecraft
+13245 2 - Hades, Puzzles for Clef
+13288 1 - Yeager
+13390 2 - The Lord of the Rings MMO (Amazon Games), New World
+13415 15 - MapleStory, MapleStory 2, MapleStory Adventures, Dungeon Fighter Online (DFO), AdventureQuest, AdventureQuest Worlds (AQWorlds), AdventureQuest Worlds: Infinity, Realm of the Mad God (ROTMG), Bit Heroes, La Tale, Shakes & Fidget, Tibia, Ultima, Therian Saga, Chronicles of Denzar
+13442 18 - Prince of Persia: The Sands of Time (remake), Assassin's Creed, Far Cry, Rainbow Six, The Division, Ghost Recon, Splinter Cell, Skull and Bones, For Honor, Brawlhalla, Anno, Might & Magic, Rayman, Prince of Persia, Beyond Good & Evil, Just Dance, Uno, Hungry Shark
+13454 5 - Boggle, Pictionary, LEGO Party!, New World, Lost Ark
+13455 0 -
+13458 4 - Payday, Payday 3, Payday 2, Project Baxter (Dungeons & Dragons)
+13459 1 - Manor Lords
+13460 0 -
+13465 23 - Call of Duty: Black Ops 7, Call of Duty, Metroid Prime 4: Beyond, Battlefield 6, NBA 2K26, Fortnite, Roblox, Madden NFL 26, EA Sports FC 26, Pokémon Legends: Z-A, Minecraft, Donkey Kong Bananza, Ghost of Yotei, EA Sports College Football 26, Grand Theft Auto 5, Sonic Racing: CrossWorlds, Forza Horizon 5, Red Dead Redemption 2, Flight Simulator 2024, Kingdom Come: Deliverance 2, Kirby Air Riders (Kirby Air Raiders), Super Mario Galaxy + Super Mario Galaxy 2, Marvel's Spider-Man 2
+13472 4 - Grounded 2, Perfect Dark, Everwild, Fable
+13473 0 -
+13474 9 - Arc Raiders, Call of Duty, Battlefield, Call of Duty: Black Ops 7, Battlefield 6, Pokémon Legends: Z-A, Clair Obscur: Expedition 33, Fallout, Fallout 76
+13475 4 - World of Warcraft, Overwatch, Hearthstone, Diablo
+13483 3 - Terraria, Dead Cells, Palworld
+13484 0 -
+13485 13 - Resident Evil, Street Fighter, Monster Hunter, Resident Evil Requiem, Resident Evil 4, Resident Evil Village, Resident Evil Survival Unit, Street Fighter 6, Devil May Cry, Devil May Cry 5, Monster Hunter Rise, Monster Hunter Rise: Sunbreak, Monster Hunter Wilds
+13492 3 - Star Trek Online, Neverwinter, Champions Online
+13496 1 - Marvel Rivals
+13523 3 - Hearthstone, World of Warcraft, Diablo
+13524 3 - Mario Kart World, Donkey Kong Bananza, Pokémon Legends: Z-A
+13525 10 - Fortnite, Wuthering Waves, Honkai: Star Rail, Rocket League, Genshin Impact, EA Sports FC 26, Zenless Zone Zero, Grand Theft Auto 5, Dead by Daylight, Infinity Nikki
+13543 3 - Final Fantasy, Final Fantasy XIV, Final Fantasy XIV: Dawntrail
+13545 0 -
+13546 0 -
+13556 2 - EverQuest, Project 1999
+13560 0 -
+13563 9 - PUBG: Battlegrounds (PUBG), PUBG Mobile, Battlegrounds Mobile India (BGMI), Inzoi, Mimesis, Subnautica 2, Palworld Mobile, Dinkum Together, No Law
+13564 0 -
+13571 2 - Clash Royale, Squad Busters
+13582 1 - Genie 3
+13584 5 - Marvel Rivals, UNO, UNO Wonder, Phase 10, Skip-Bo
+13593 16 - ARC Raiders, MapleStory, MapleStory: Idle RPG, The Finals, Mabinogi Mobile, Dungeon&Fighter, Dungeon&Fighter Mobile, EA Sports FC (FC), Vindictus: Defying Fate, NAKWON: Last Paradise, Woochi the Wayfarer, Dungeon&Fighter: ARAD, Project OVERKILL, Azur Promilia, Project DX (Durango), Project RX
+13602 3 - EverQuest, World of Warcraft, Ultima Online
+13603 7 - Assassin's Creed, Avatar: Frontiers of Pandora (Avatar), The Division, Rainbow Six Siege, Avatar: Frontiers of Pandora – From The Ashes, Far Cry, Rainbow Six
+13604 2 - Angry Birds, Sonic Rumble
+13614 4 - Marvel Rivals, Where Winds Meet, Fantasy Westward Journey Online, Identity V
+13615 4 - Kingdom Come: Deliverance, Dead Island, Tomb Raider, Kingdom Come: Deliverance 2
+13616 0 -
+13617 14 - Citron, Eden, Kenji-NX, MelonNX, Pine, Pomelo, Ryubing, Ryujinx, Skyline, Sudachi, Sumi, Suyu, Yuza, Yuzu
+13619 0 -
+13646 0 -
+13654 3 - Ultima Online, EverQuest, MapleStory
+13664 2 - Call of Duty: Mobile, Assassin's Creed
+13666 0 -
+13675 0 -
+13694 11 - Battlefield 6, EA Sports FC 25, EA Sports FC 26, Skate, Marvel Rivals, Delta Force, Deadlock, R.E.P.O., Peak, Last War: Survival, Whiteout Survival
+13699 3 - Forza Horizon, King of Meat, New World: Aeternum
+13700 0 -
+13743 0 -
+13744 1 - Fortnite
+13745 0 -
+13746 0 -
+13747 7 - Forza Horizon, FIFA, EA Sports FC (EA FC), Grand Theft Auto, Counter-Strike 2, Team Fortress 2, Dota 2
+13748 1 - Among Us
+13759 0 -
+13764 3 - Roblox, Fortnite, Call of Duty
+13766 0 -
+13768 0 -
+13774 15 - Roblox, Minecraft, Steal a Brainrot, Grow a Garden, Fortnite, GTA V, Call of Duty, Monster Hunter Wilds, Assassin's Creed Shadows, Borderlands 4, Alan Wake 2, Hogwarts Legacy, Gang Beasts, Among Us, Totally Accurate Battle Simulator
+13798 2 - The Finals, Arc Raiders
+13808 6 - Lost Ark, Ultima Online, World of Warcraft, Guild Wars 2, Old School RuneScape (OSRS), EverQuest
+13820 5 - Ghost Recon, Tom Clancy, Assassin's Creed Nexus VR, Splinter Cell VR, The Division Heartland
+13830 5 - Ragnarok Online, Guild Wars 2, Old School RuneScape, MapleStory, EverQuest
+13849 13 - Resident Evil Requiem, Resident Evil Village, Resident Evil 7, Resident Evil Generation Pack, Dragon Quest VII: Reimagined (Dragon Quest 7: Reimagined), Mario Tennis Fever, God of War: Sons of Sparta, My Hero Academia: All's Justice, Helldivers 2, Diablo II: Resurrected (Diablo 2: Resurrected), Monopoly Go, Royal Match, Pokémon Go
+13851 0 -
+13859 1 - Pokémon Pokopia
+13861 2 - Resident Evil Requiem, Crimson Desert
+13876 1 - V Rising
+13919 3 - EverQuest, Guild Wars 2, Old School RuneScape
+13924 2 - Palworld, Pokémon
+13952 1 - GTA 6
+13982 0 -
+13991 10 - Path of Exile 2, Monster Hunter Wilds, Kingdom Come: Deliverance 2, Cyberpunk 2077, Elden Ring, Skyrim, God of War Ragnarök, Ghost of Tsushima, Marvel's Spider-Man 2, The Last of Us Part 2
+14021 0 -
+14038 15 - Crimson Desert, MLB The Show 26, Pokémon Pokopia, Resident Evil Requiem, Resident Evil 5, Resident Evil 4 (2023), Resident Evil Village, Resident Evil 4, WWE 2K26, Marathon, Monster Hunter Stories 3: Twisted Reflections, Pokémon Legends: Z-A, Monopoly Go, Mario Kart World, Minecraft
+14049 4 - Minecraft, The Elder Scrolls, Sea of Thieves, Call of Duty
+14054 0 -
+14060 0 -
+14080 3 - Payday, Notoriety: A Payday Experience, Roblox
+14084 0 -
+14085 1 - EVE Online
+14087 7 - PUBG, PUBG: Battlegrounds, Battlegrounds Mobile India, PAYDAY, inZOI, Subnautica 2, PUBG: Battlegrounds Arcade
+14101 3 - Old School RuneScape, Guild Wars 2, Final Fantasy XIV (FFXIV)
+14120 1 - EVE Online
+14121 0 -
+14124 6 - Genshin Impact, Zenless Zone Zero, Wuthering Waves, Animula Nook, Petit Planet, Eggy Party
+14133 0 -
+14136 2 - Destiny 2, Marathon
+14147 2 - Horizon Zero Dawn Remastered, Gran Turismo
+14158 6 - Angry Birds, Sonic Racing: CrossWorlds, Football Manager 26, Persona 5: The Phantom X, Sonic Rumble Party, Super Game
+14160 5 - Stardew Valley, Grounded, Hades, Fallout 4, Doom Eternal
+14162 4 - Crimson Desert, Black Desert, DokeV, Plan 8
+14167 0 -
+14171 14 - Resident Evil, Monster Hunter, Street Fighter, Devil May Cry, Resident Evil Requiem, Resident Evil 4, Resident Evil Village, Resident Evil 3, Resident Evil 2, Devil May Cry 5, Street Fighter 6, Monster Hunter Wilds, PRAGMATA, Onimusha: Way of the Sword
+14182 8 - Umamusume: Pretty Derby, Bus Rush Fever!, Granblue Fantasy: Relink – Endless Ragnarok, Granblue Fantasy, hololive Dreams, GARNET ARENA: Mages of Magicary, Project Awakening, Shadowverse: Worlds Beyond
+14183 12 - ARC Raiders, MapleStory, MapleStory: Idle RPG, MapleStory Worlds, The Finals, Dungeon&Fighter (Dungeon Fighter Online), Project T1 (Overgeared), Durango World, Vindictus: Defying Fate, Dungeon&Fighter: ARAD, Dungeon&Fighter Classic, Overwatch
+14184 16 - Final Fantasy XIV, Dragon Quest X Online, Final Fantasy XIV: Evercold, Dragon Quest X Online Expansion 8.0, Final Fantasy VII Rebirth, Dragon Quest Smash/Grow, Dragon Quest I & II HD-2D Remake, Dragon Quest VII Reimagined, Final Fantasy Tactics: The Ivalice Chronicles, Dissidia Duellum Final Fantasy, Dragon Quest Walk, Dragon Quest Tact, Octopath Traveler: Champions of the Continent, Final Fantasy VII Ever Crisis, Emberstoria, Magic: The Gathering
+14185 2 - The Lord of the Rings MMO (Amazon), New World
+14187 10 - Aion 2, Lineage Classic, Lineage, Guild Wars 2, Lineage 2, Blade & Soul, Aion, Lineage M, Lineage 2M, Lineage W
+14219 0 -
+14232 5 - Dungeons & Dragons (Giant Skull project), Star Wars Jedi: Fallen Order, Star Wars Jedi: Survivor, Exodus, Warlock: Dungeons & Dragons
+14234 10 - Kingdom Come: Deliverance, Tomb Raider, The Lord of the Rings, Dead Island, Darksiders, Remnant, Kingdom Come: Deliverance 2, Dead Island 2, Echoes of the End, Reanimal
+14237 10 - Tomodachi Life: Living the Dream, Pragmata, Crimson Desert, MLB The Show 26, Windrose, Pokémon Pokopia, Super Mario Galaxy + Super Mario Galaxy 2, Starfield, Saros, Mario Kart World
+14240 0 -
+14242 8 - Rainbow Six Siege, The Division 2, Assassin's Creed, Avatar: Frontiers of Pandora, The Crew Motorfest, For Honor, XDefiant, Assassin's Creed Black Flag Resynced
+14277 0 -
+14281 4 - Genshin Impact, Honkai: Star Rail, Zenless Zone Zero, Petit Planet
+14292 0 -
+14306 7 - Fantasy Westward Journey, Where Winds Meet, Identity V, Eggy Party, Sword of Justice, Marvel Rivals, Gang of Dragon
+14324 4 - League of Legends MMO (Riot Games MMO), World of Warcraft, Project Ghost, League of Legends
+14333 0 -
+14363 6 - Neverwinter, Star Trek Online, Champions Online, City of Heroes, DC Universe Online, World of Warcraft
+14368 3 - The Lord of the Rings game (Amazon), Tomb Raider, James Bond
+14375 0 -
+14394 3 - Halo, Fallout, The Elder Scrolls
+14396 0 -
+14404 2 - Fortnite, Unreal Editor for Fortnite (UEFN)
+14413 3 - Battlefield 6, Monster Hunter Wilds, Clair Obscur: Expedition 33
+14415 0 -
+14425 0 -
+14434 0 -
+14438 0 -
+14451 1 - Rainbow Six
+14452 0 -
+14453 0 -
+14479 2 - Senua (Senua's Saga), State of Decay 3
+14480 4 - The Outer Worlds, Pentiment, The Elder Scrolls Online, Fallout 76
+14508 0 -
+14509 7 - Resident Evil Requiem, Resident Evil, Forza Horizon 6, Crimson Desert, Slay the Spire 2, Subnautica 2, Meccha Chameleon
+14514 1 - Elder Scrolls Online (ESO)
+14527 6 - Nexus: The Kingdom of the Winds, Lineage, ArcheAge, Open MMORPG, Dungeons & Dragons, NetHack
+14529 0 -
+14532 0 -
+14534 0 -
+14539 1 - Horizon Worlds
+14542 10 - UFC 6, Meccha Chameleon, 007 First Light, Star Fox (2026), Lego Batman: Legacy of the Dark Knight, Tomodachi Life: Living the Dream, Forza Horizon 6, MLB The Show 26, Minecraft, NBA 2K26
+14548 4 - BLiNX: The Time Sweeper, Conker: Live and Reloaded, Crimson Skies: High Road to Revenge, Fuzion Frenzy
+14554 7 - Invincible: Guarding the Globe, Assassin's Creed Shadows, Rainbow Six Siege, Rainbow Six Siege X (Siege X), The Division 2, The Crew Motorfest, Assassin's Creed: Black Flag Resynced
+14558 0 -
+14568 0 -
+14575 1 - Marvel Tōkon: Fighting Souls
+14579 7 - Pragmata, Resident Evil, Resident Evil Requiem, Resident Evil 4, Resident Evil 2, Devil May Cry 5, Street Fighter 6
+14588 1 - Marathon
+14590 8 - Subnautica 2, PUBG, Subnautica, Subnautica: Below Zero, No Law, Project Zeta, Age Twisters, Tarae: The Unbound
+14595 0 -
+14611 1 - Minecraft
+14613 0 -
+14631 5 - PUBG, NO LAW, Project ZETA, Age Twisters, TARAE: The Unbound
+14632 4 - Yoshi and the Mysterious Book, Star Fox, Pokémon Pokopia, Tomodachi Life: Living the Dream
+14642 5 - ArcheAge, ArcheAge Chronicles (ArcheAge 2), Project X7, ArcheAge S: Straits of Freedom, ArcheAge Returns
+14644 0 -
+14654 3 - Stranger Than Heaven, Persona 4 Revival, Angry Birds
+14656 0 -
+14659 2 - Final Fantasy VII Rebirth (Final Fantasy 7 Rebirth), Final Fantasy XIV (Final Fantasy 14)
+14661 4 - Diablo IV (Diablo 4), Overwatch, World of Warcraft, Diablo
+14672 4 - Crimson Desert, Black Desert, DokeV, Plan 8
+14684 9 - MapleStory, Arc Raiders, MapleStory Worlds, Dungeon & Fighter, FC Online, Arad: Idle RPG, Dave the Diver, Azur Promilia, Temppal: Overgeared
+14686 8 - Lineage Classic, Lineage Remastered, Lineage M, Lineage, AION 2, Cinder City, Project Bonfire, Throne and Liberty
+14687 7 - Final Fantasy XIV, Final Fantasy XIV: Evercold, Final Fantasy VII Rebirth, Dragon Quest X, Final Fantasy X / X-2 HD Remaster, Dragon Quest XI, Kingdom Hearts Collection III
+14698 3 - Baldur's Gate 3, Concord, Roblox
+14719 1 - Grand Theft Auto 6
+14724 6 - PUBG: DED.NET, NO LAW, TARAE: The Unbound, Age Twisters, Project ZETA, PUBG
+14727 13 - Cyberpunk 2077, Alan Wake 2, Call of Duty: Black Ops 7, EA Sports F1 25, Apex Legends, Arc Raiders, Gears of War: E-Day, Control Resonant, 007 First Light, Painkiller RTX, Painkiller, Morrowind RTX, The Elder Scrolls III: Morrowind (Morrowind)
+14734 0 -
+14768 5 - World of Warcraft, World of Warcraft Classic, World of Warcraft: Midnight, Overwatch, Hearthstone
+14788 2 - World of Warcraft: Midnight, World of Warcraft
+14803 2 - Runeterra MMO (League of Legends MMO), World of Warcraft
+14818 4 - World of Warcraft, Hearthstone, Diablo, Overwatch
+14826 2 - Star Stable Online, Star Stable Horses
+14923 5 - New World, New World: Nighthaven, Star Wars: Knights of the Old Republic II, Fallout: New Vegas, Planescape: Torment
