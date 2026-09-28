@@ -181,3 +181,107 @@
 3916 3 - World of Tanks, World of Tanks: Xbox 360, World of Warplanes
 3930 5 - World of Tanks, World of Warplanes, Merc Elite, Stronghold Crusader 2, Stronghold Crusader
 3940 1 - CasinoRPG
+3948 12 - World of Warcraft, Perfect World International (PWI), Kingdoms of Camelot, Candy Crush Saga, Neverwinter, Arena of Heroes, Elemental Kingdoms, BombBuds, Wormz, Angry Birds, Plants v Zombies, The Null Society
+3949 5 - Panzer General Online, Panzer General, The Mighty Quest for Epic Loot (The Epic Quest for Mighty Loot), Tom Clancy's EndWar Online, EndWar
+3964 5 - Warframe, PlanetSide 2, Silent Hunter Online, FIFA Online, Project NT
+3979 1 - World of Tanks
+3990 1 - World of Warplanes
+3993 0 -
+3995 5 - League of Legends, World of WarCraft, Diablo III, DOTA 2, Guild Wars 2
+4012 4 - Guild Wars 2, Warface, League of Legends, Space Engineers
+4017 10 - City of Titans, City of Heroes, World of Warcraft, Star Wars: The Old Republic (SWTOR), EverQuest II, EverQuest II: Tears of Veeshan, Archeblade, Destiny, Dragonica (Dragonica: Cassiopeia), Hungry Shark
+4031 11 - Thief (2014), Thief, Kingdom Hearts 1.5 HD Remix, Deus Ex: Human Revolution – Director's Cut, Lightning Returns: Final Fantasy (LIGHTING RETURNS: Final Fantasy XII), Dungeon Defenders II, Dungeon Defenders, Starcraft II, Portal, Portal 2, Hello Hero
+4032 3 - WildStar, Dungeon Defenders II, The Walking Dead Chop Shop
+4035 6 - The Secret World, Rift, Warface, Universal Monsters, The Mummy Online, Solstice Arena
+4038 9 - Mortal Kombat, League of Legends, Strider (2013), Strider, Strider 2, Monster Hunter Tri Ultimate, Monster Hunter, Monster Hunter Frontier, Monster Hunter Online
+4039 17 - Camelot Unchained, Conquer 2, DC Universe Online (DCUO), Dragon Nest, Elsword, EverQuest, EverQuest II, Final Fantasy XIV: A Realm Reborn (FFXIV:ARR), Guild Wars 2, Kings and Legends, Marvel Heroes, MU Online, Rift, The Settlers Online, SMITE, TERA, The Secret World
+4040 6 - Dofus, Wakfu, Slage, Krosmaster: Arena, Watch Dogs, Killer Instinct (2013)
+4055 5 - Guild Wars 2, City of Steam (City of Steam: Arcadia), The Secret World, Primal Carnage, Merc Elite
+4070 2 - Fiesta Online, King of Kings III (King of Kings)
+4081 5 - Star Trek Online (STO), Command and Conquer (C&C), Hawken, World of Tanks, Marvel Heroes
+4088 5 - Rift, Planetside 2, DC Universe Online (DCUO), Star Trek Online (STO), Guns and Robots
+4093 0 -
+4094 6 - City of Heroes, City of Titans, Lego Minifigures Online, Guild Wars 2, Warhammer Online, League of Legends
+4101 5 - Rift, Rift: Storm Legion (Storm Legion), The Secret World, World of Warcraft (WoW), Eon Altar
+4104 4 - Star Trek Online (STO), Microvolts, Planetside 2, Warframe
+4109 5 - Trove, Fields of War, League of Angels, Maplestory 2, Maplestory
+4118 4 - Star Trek Online, World of Warplanes, Fiesta Online, Silkroad Online
+4125 5 - The Lord of the Rings Online (LOTRO), Helm's Deep, Red Blood, Luvinia World, Yulgang Online
+4140 5 - EVE Online (EVE), Drakensang Online, Neverwinter, Neverwinter: Shadowmantle, Ragnarok 2
+4144 4 - League of Angels, Albion Online, League of Legends, ArcheAge
+4147 4 - Trove, EVE Online (EVE), APB Reloaded, Shining Force Online
+4150 4 - Eldevin, Panzar, C9, Guild Wars 2
+4164 1 - League of Legends
+4165 4 - Final Fantasy XIV: A Realm Reborn, Path of Exile, Pockie Defense, Tribal Wars 2
+4167 5 - Blacklight: Retribution, RuneScape, Darkout, GunZ 2, Tactical Intervention
+4173 13 - APB Reloaded, APB: Retribution, World of Warcraft (Warcraft), Black Gold Online, Warfare, War Thunder, War Thunder: Ground Forces, League of Legends, DOTA 2, Starcraft, World of Tanks, Fat Princess, War of the Vikings
+4179 9 - World of Warcraft (WoW), Second Life, Alfheim Tales Online, Dungeons & Golf, Rappelz, Flyff, Remnant Knights, Archlord, Archlord 2
+4185 8 - EVE Online (EVE), Battlestar Galactica Online, Entropy, ChronoBlade, Age of Wushu, Glitch, Inferno Legends, Diablo
+4188 5 - Elder Scrolls Online (ESO), EVE Online (EVE), Camelot Unchained, Blade Hunter, Dynasty Warriors Online (DWO)
+4199 6 - The Lord of the Rings Online (LOTRO), Star Wars: Attack Squadrons, Marvel Heroes, DayZ, Inferno Legend, Star Trek Online (STO)
+4208 6 - EverQuest Next Landmark (EQN Landmark), Hearthstone, Jade Dynasty, Jade Dynasty Regenesis, Defiance, Ragnarok 2
+4210 1 - SMITE
+4223 4 - League of Legends, Dota 2, Club Penguin, Runescape
+4233 3 - Planetside 2 (PS2), EverQuest Next (EQN), EverQuest Next Landmark (EQNL)
+4251 3 - Shining Force Online, Shining Force, Shining Empire
+4253 0 -
+4276 2 - World of Warcraft, League of Legends
+4277 20 - World of Warcraft, TERA: Rising (TERA), Ultima Online, Ragnarok Online, Runescape Classic, Graal Worlds, Saga of Ryzom, Star Wars Galaxies, ArcheAge, EverQuest Next, EverQuest Next Landmark (Landmark), Black Desert, Life is Feudal, Peria Chronicles, Star Citizen, The Repopulation, Camelot Unchained, Albion Online, Mabinogi, WildStar
+4278 21 - Perfect World International, Eden Eternal, Elsword, Alliance of Valiant Arms, Maplestory, Lord of the Rings Online, TERA, Star Wars: The Old Republic, EverQuest, Phantasy Star Online 2, ArcheAge, Blade & Soul, Yulang II, Warcraft, Novus AEterno, Camelot Unchained, Minecraft, Dark Age of Camelot, Hex, SMITE, Citadel of Sorcery
+4285 0 -
+4295 10 - World of Warcraft, World of Warcraft: Cataclysm, Mists of Pandaria, Final Fantasy XI, Guild Wars 2, Final Fantasy XIV, Lightning Returns: FFXIII, DOTA 2, Prime World, Heroes of the Storm
+4296 2 - Star Citizen, Hearthstone
+4305 0 -
+4345 4 - Wizardry Online, Vanguard Online, Star Wars: Clone Wars Adventures, Free Realms
+4375 1 - The Secret World
+4386 3 - Age of Wushu, Black Gold Online, Voyage Century
+4408 2 - Diablo III, Hearthstone
+4426 2 - PlanetSide, EverQuest
+4430 1 - SMITE
+4457 4 - World of Tanks, World of Tanks: Xbox 360 Edition, World of Warplanes, World of Warships
+4481 4 - Infinite Crisis, The Lord of the Rings Online, Dungeons & Dragons Online, Asheron's Call
+4485 1 - Divinity: Original Sin
+4490 43 - Age of Wushu, AIKA Online, Aion Online, Alfheim Tales Online, APB Reloaded, Atlantica Online, Chrono Tales, Conquer Online, DC Universe Online, Digimon Masters Online, DOFUS, Elsword, EverQuest, EverQuest II, EverQuest Next, Final Fantasy XIV, Firefall, Grand Fantasia, Guns and Robots, HAWKEN, Heroes of the Realm, League of Angels, League of Legends, Lineage II, Lunaria Story, Mabinogi, MapleStory, MicroVolts, Naruto Spirit, Path of Exile, PlanetSide 2, RaiderZ, Ragnarok Online, ROSE Online, SMITE, TERA, The Secret World, The West, Unlimited Ninja, Uncharted Waters Online, Vindictus, World of Tanks, World of Warcraft
+4504 0 -
+4506 0 -
+4520 2 - RuneScape, Ace of Spades
+4574 2 - RuneScape, Ace of Spades
+4582 1 - X-Men: Battle of the Atom
+4592 1 - The Banner Saga
+4605 1 - Dota 2
+4629 1 - World of Tanks
+4643 0 -
+4645 6 - Castle Age, Underworld Empire, Dragons of Atlantis, Fast & Furious 6: The Game, The Hobbit: Kingdoms of Middle-earth, Kingdoms of Camelot: Battle for the North
+4654 0 -
+4655 0 -
+4663 7 - Shards, Ultima Online, Elder Scrolls, Dark Age of Camelot, Warhammer Online, NASCAR, Madden
+4672 1 - DOFUS
+4714 0 -
+4728 1 - Dota 2
+4739 8 - Archlord II, Age of Wulin, C9: Continent of the Ninth Seal, MU Online, MU Rebirth, Flyff, Terra Militaris, Rappelz
+4752 5 - Armored Warfare, Skyforge, Evolution, World of Speed, Jungle Heat
+4830 1 - AdventureQuest Worlds
+4832 2 - World of Tanks: Crayfish, World of Tanks
+4842 1 - AdventureQuest Worlds (AQW)
+4856 2 - Happy Tribes, Dragon Nest (Dragon Nest Europe)
+4869 1 - Original Blood
+4878 7 - DC Universe Online, Dragon's Prophet, EverQuest, EverQuest II, PlanetSide 2, Landmark, EverQuest Next
+4894 0 -
+4900 2 - Star Trek Timelines, Game of Thrones Ascent
+4908 4 - Kingdoms of Camelot: Battle for the North, The Hobbit: Kingdoms of Middle-earth, Fast & Furious 6: The Game, Dragons of Atlantis: Heirs of the Dragon
+4909 3 - Mu Online, C9, Archlord 2
+4910 1 - Marvel's X-Men: Battle of the Atom
+4929 2 - War Thunder, War Thunder: Ground Forces (Ground Forces)
+4946 3 - Grepolis, The West, Forge of Empires
+5003 8 - Orcs Must Die! Unchained, Guild Wars 2, Nosgoth, Magicka: Wizard Wars, Infinite Crisis, Dawngate, Duel of Champions, Project Cyber
+5022 0 -
+5028 1 - WildStar
+5096 1 - Doom 3 BFG
+5105 0 -
+5109 1 - World of Tanks
+5122 0 -
+5156 0 -
+5178 3 - Greed Corp, Gatling Gears, Halo: Spartan Assault
+5181 8 - WildStar (Wildstar Online), Ultima Online, Shards Online, EverQuest, World of Warcraft (WoW), Minecraft, Skyrim, Children of Athena
+5221 4 - World of Tanks, World of Tanks: Xbox 360 Edition, World of Tanks Blitz, World of Warplanes
+5223 1 - League of Legends
