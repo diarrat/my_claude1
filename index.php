@@ -72,6 +72,26 @@ function group_alive($games,$banned){
 }
 
 // активные (небаненные) группы для навигации
+// похожие игры (одна серия / одно начало названия) ставим рядом — на место первой из них.
+// Ключ серии: первые два значимых слова; если есть игра из одного значимого слова (Diablo) —
+// всё, что с него начинается (Diablo IV, Diablo Immortal), идёт в её серию. Мультистатьи не двигаем.
+function series_of($k, $single){
+  if($k[0]==='#') return $k;
+  $w=sig_words($k);
+  if(!$w) return $k;
+  if(count($w)===1 || isset($single[$w[0]])) return $w[0];
+  return $w[0].' '.$w[1];
+}
+$single=array();
+foreach($order as $k){ if($k[0]!=='#'){ $w=sig_words($k); if(count($w)===1) $single[$w[0]]=true; } }
+$clusters=array();   // серия => подсерия (первые два слова) => игры
+foreach($order as $k){
+  $w = $k[0]==='#' ? array() : sig_words($k);
+  $clusters[series_of($k,$single)][count($w)>1 ? $w[0].' '.$w[1] : $k][]=$k;
+}
+$order=array();
+foreach($clusters as $c){ foreach($c as $sub){ foreach($sub as $k) $order[]=$k; } }
+
 $active = array();
 foreach($order as $k){ if(group_alive($gnames[$k],$banned)) $active[]=$k; }
 $total  = count($active);
