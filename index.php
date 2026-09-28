@@ -24,7 +24,7 @@ if($_SERVER['REQUEST_METHOD']==='POST' && isset($_POST['game'])){
     foreach(array_keys($banned) as $x){ if($x!==$g) $keep[]=$x; }
     file_put_contents($BANF, $keep ? implode("\n",$keep)."\n" : '', LOCK_EX);
   }
-  $q = isset($_GET['i']) ? '?i='.(int)$_GET['i'] : '';
+  $q = isset($_GET['sug']) ? '?sug=1' : (isset($_GET['i']) ? '?i='.(int)$_GET['i'] : '');
   header('Location: '.strtok($_SERVER['REQUEST_URI'],'?').$q);
   exit;
 }
@@ -85,6 +85,35 @@ $curGames = $cur!==null ? $gnames[$cur] : [];
 $self  = strtok($_SERVER['REQUEST_URI'],'?');
 
 function h($s){ return htmlspecialchars($s, ENT_QUOTES, 'UTF-8'); }
+
+// --- предложка: незабаненные игры той же серии / с тем же началом названия, что и забаненные ---
+// Значимые слова названия — без служебных (Online, Mobile, The, of, номера…).
+// Игра предлагается, если её значимые слова начинаются с первых двух значимых слов забаненной
+// (или с одного, если у забаненной оно единственное: Aion → AION 2, Diablo II → Diablo IV).
+function sig_words($g){
+  static $skip = array('the','a','an','of','and','is','for','to','in','on','at','online','mobile','mmo','mmorpg','game','remastered','hd','classic',
+    'tom','clancys','sid','meiers','ii','iii','iv','v','vi','vii','viii','ix','x','xi','xii','xiii','xiv','xv','xvi');
+  $w = preg_split('/[^a-z0-9]+/', strtolower(str_replace(array('&','’',"'"),array(' and ','',''),$g)), -1, PREG_SPLIT_NO_EMPTY);
+  return array_values(array_filter($w, function($x) use ($skip){ return !in_array($x,$skip,true) && !ctype_digit($x); }));
+}
+$sug = array();   // игра => array('banned'=>[...], 'n'=>статей, 'i'=>номер страницы)
+$pref = array();  // первое слово => [[префикс-слова, забаненная игра], ...]
+foreach(array_keys($banned) as $bn){
+  $w=sig_words($bn); $pw=array_slice($w,0,2);
+  if(!$pw || (count($pw)===1 && strlen($pw[0])<3)) continue;
+  $pref[$pw[0]][]=array($pw,$bn);
+}
+foreach($active as $n=>$k){
+  if($k[0]==='#') continue;                       // мультистатьи не предлагаем
+  $w=sig_words($k); if(!$w || !isset($pref[$w[0]])) continue;
+  foreach($pref[$w[0]] as $pb){
+    if(array_slice($w,0,count($pb[0]))===$pb[0]){
+      if(!isset($sug[$k])) $sug[$k]=array('banned'=>array(),'n'=>count($groups[$k]),'i'=>$n+1);
+      $sug[$k]['banned'][]=$pb[1];
+    }
+  }
+}
+$sugMode = isset($_GET['sug']);
 ?>
 <!doctype html>
 <html lang="ru"><head>
@@ -131,8 +160,9 @@ function h($s){ return htmlspecialchars($s, ENT_QUOTES, 'UTF-8'); }
     <a href="<?=h($self)?>?i=<?=max(1,$i)?>" class="<?=$i<=0?'dis':''?>">‹ назад</a>
     <a href="<?=h($self)?>?i=<?=min($total,$i+2)?>" class="<?=$i>=$total-1?'dis':''?>">вперёд ›</a>
     <span class="jump"><input type="number" id="jump" min="1" max="<?=$total?>" value="<?=$i+1?>" title="номер группы"> /<?=$total?></span>
+    <a href="<?=h($self)?>?sug=1" style="margin-left:8px">💡 предложка (<?=count($sug)?>)</a>
   </div>
-  <?php if($cur!==null): ?>
+  <?php if($cur!==null && !$sugMode): ?>
   <span class="pos"><span class="gname"><?=h(implode(', ',$curGames))?></span> <span class="cnt">(<?=count($curGames)>1?'мультиигры, ':''?><?=count($rows)?> статей)</span></span>
   <button type="button" id="copyAll" class="nav" style="margin-left:auto">📋 копировать</button>
   <?php foreach($curGames as $g): if(isset($banned[$g])) continue; ?>
@@ -145,7 +175,24 @@ function h($s){ return htmlspecialchars($s, ENT_QUOTES, 'UTF-8'); }
   <?php endif; ?>
 </header>
 <main>
-<?php if($cur===null): ?>
+<?php if($sugMode): ?>
+  <h2 style="margin:4px 0 12px">💡 Похожие на забаненные (<?=count($sug)?>)</h2>
+  <?php if(!$sug): ?><div class="empty">Нечего предложить.</div><?php endif; ?>
+  <?php foreach($sug as $g=>$s): ?>
+  <div class="card" style="align-items:center">
+    <div class="cbody" style="flex:1">
+      <div class="t"><a href="<?=h($self)?>?i=<?=$s['i']?>" target="_blank" rel="noopener"><?=h($g)?></a> <span class="cnt">(<?=$s['n']?> статей)</span></div>
+      <div class="meta">похожа на забаненные: <?=h(implode(', ',$s['banned']))?></div>
+    </div>
+    <a class="nav" href="<?=h($self)?>?i=<?=$s['i']?>" target="_blank" rel="noopener" style="border:1px solid var(--line);border-radius:6px;padding:8px 12px;text-decoration:none;color:var(--ink)">👁 открыть</a>
+    <form method="post">
+      <input type="hidden" name="game" value="<?=h($g)?>">
+      <input type="hidden" name="act" value="ban">
+      <button class="ban">🚫 забанить</button>
+    </form>
+  </div>
+  <?php endforeach; ?>
+<?php elseif($cur===null): ?>
   <div class="empty">Нет активных групп (все забанены или файл пуст).</div>
 <?php else: foreach($rows as $r): ?>
   <div class="card">
@@ -198,7 +245,7 @@ document.querySelectorAll('form[method="post"]').forEach(function(f){
       .catch(function(){ location.reload(); });
   });
 });
-document.getElementById('copyAll').addEventListener('click', function(){
+var copyBtn=document.getElementById('copyAll'); if(copyBtn) copyBtn.addEventListener('click', function(){
   var cards = document.querySelectorAll('main .card');
   var out = [];
   cards.forEach(function(c){
