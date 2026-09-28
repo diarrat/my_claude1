@@ -48,29 +48,32 @@ if(($fh=fopen($ART,'r'))!==false){
 }
 
 // --- группировка по играм из titles_result3.txt (порядок как в файле) ---
-// Статья с несколькими играми попадает в группу каждой из них (группы не объединяются).
-// Строки с 0 игр пропускаются. Статья скрыта, если все её игры забанены.
-$groups = array();   // game => [rows]
+// Статьи с одной игрой группируются по игре. Статья с несколькими играми (мультиигры)
+// в группы не объединяется — это отдельная страница из одной статьи.
+// Строки с 0 игр пропускаются. Мультистатья скрыта, если все её игры забанены.
+$groups = array();   // ключ => [rows]; ключ = игра или '#id' для мультистатьи
+$gnames = array();   // ключ => список игр группы
 $order  = array();   // порядок появления
 foreach(file($GAMES, FILE_IGNORE_NEW_LINES) as $line){
   $line=rtrim(preg_replace('/^\xEF\xBB\xBF/','',$line),"\r");
   if(!preg_match('/^(\d+)\s+(\d+)\s+-\s+(.+)$/u',$line,$m) || (int)$m[2]===0) continue;
   if(!isset($arts[$m[1]])) continue;
   $games=array_values(array_filter(array_map('trim',explode(', ',$m[3])),'strlen'));
-  $alive=false;
-  foreach($games as $g){ if(!isset($banned[$g])){ $alive=true; break; } }
-  if(!$alive) continue;
-  $row=$arts[$m[1]];
-  $row['games']=$games;
-  foreach($games as $g){
-    if(!isset($groups[$g])){ $groups[$g]=array(); $order[]=$g; }
-    $groups[$g][]=$row;
-  }
+  if(!$games) continue;
+  $k = count($games)===1 ? $games[0] : '#'.$m[1];
+  if(!isset($groups[$k])){ $groups[$k]=array(); $gnames[$k]=$games; $order[]=$k; }
+  $groups[$k][]=$arts[$m[1]];
+}
+
+// группа видна, если хотя бы одна её игра не забанена
+function group_alive($games,$banned){
+  foreach($games as $g){ if(!isset($banned[$g])) return true; }
+  return false;
 }
 
 // активные (небаненные) группы для навигации
 $active = array();
-foreach($order as $g){ if(!isset($banned[$g])) $active[]=$g; }
+foreach($order as $k){ if(group_alive($gnames[$k],$banned)) $active[]=$k; }
 $total  = count($active);
 
 $i = isset($_GET['i']) ? (int)$_GET['i'] : 0;
@@ -78,6 +81,7 @@ if($i<0) $i=0; if($i>=$total) $i=$total-1;
 
 $cur   = $total ? $active[$i] : null;
 $rows  = $cur!==null ? $groups[$cur] : [];
+$curGames = $cur!==null ? $gnames[$cur] : [];
 $self  = strtok($_SERVER['REQUEST_URI'],'?');
 
 function h($s){ return htmlspecialchars($s, ENT_QUOTES, 'UTF-8'); }
@@ -129,13 +133,15 @@ function h($s){ return htmlspecialchars($s, ENT_QUOTES, 'UTF-8'); }
     <span class="jump"><input type="number" id="jump" min="1" max="<?=$total?>" value="<?=$i+1?>" title="номер группы"> /<?=$total?></span>
   </div>
   <?php if($cur!==null): ?>
-  <span class="pos"><span class="gname"><?=h($cur)?></span> <span class="cnt">(<?=count($rows)?> статей)</span></span>
+  <span class="pos"><span class="gname"><?=h(implode(', ',$curGames))?></span> <span class="cnt">(<?=count($curGames)>1?'мультиигры, ':''?><?=count($rows)?> статей)</span></span>
   <button type="button" id="copyAll" class="nav" style="margin-left:auto">📋 копировать</button>
+  <?php foreach($curGames as $g): if(isset($banned[$g])) continue; ?>
   <form method="post" style="margin-left:8px">
-    <input type="hidden" name="game" value="<?=h($cur)?>">
+    <input type="hidden" name="game" value="<?=h($g)?>">
     <input type="hidden" name="act" value="ban">
-    <button class="ban">🚫 забанить группу</button>
+    <button class="ban">🚫 <?=count($curGames)>1 ? h($g) : 'забанить группу'?></button>
   </form>
+  <?php endforeach; ?>
   <?php endif; ?>
 </header>
 <main>
@@ -150,8 +156,7 @@ function h($s){ return htmlspecialchars($s, ENT_QUOTES, 'UTF-8'); }
     <?php endif; ?>
     <div class="cbody">
       <div class="t"><a href="<?=h($r['link'])?>" target="_blank" rel="noopener"><?=h($r['title'])?></a></div>
-      <div class="meta"><?=h($r['date'])?><?= $r['author']!=='' ? ' · '.h($r['author']) : '' ?><?php
-        $other=array_diff($r['games'],array($cur)); if($other): ?> · также: <?=h(implode(', ',$other))?><?php endif; ?></div>
+      <div class="meta"><?=h($r['date'])?><?= $r['author']!=='' ? ' · '.h($r['author']) : '' ?></div>
       <?php if($r['excerpt']!==''): ?><div class="exc"><?=h($r['excerpt'])?></div><?php endif; ?>
     </div>
   </div>
