@@ -17,9 +17,10 @@ def norm(s):
 
 
 def variants(g, aliases):
-    v = {g, re.sub(r'^The ', '', g), re.sub(r' Online$', '', re.sub(r'^The ', '', g))}
-    for sep in (':', ' - ', ' – '):
-        v.add(g.split(sep)[0])
+    # Укороченные варианты короче 3 символов (например «MU» из «MU Online») слишком общие
+    short = {re.sub(r'^The ', '', g), re.sub(r' Online$', '', re.sub(r'^The ', '', g))}
+    short |= {g.split(sep)[0] for sep in (':', ' - ', ' – ')}
+    v = {g} | {x for x in short if len(x.strip()) >= 3}
     words = re.findall(r'[A-Za-z0-9]+', g)
     for ab in (''.join(w[0] for w in words), ''.join(w[0] for w in words if w.lower() not in ('of', 'the'))):
         if len(ab) >= 3:
