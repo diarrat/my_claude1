@@ -101,6 +101,63 @@ SAME = {
     'Legend of Edda: Global Edition': 'Legend of Edda',
 }
 
+# Короткие названия = конкретная игра; дополнения и издания = основная игра
+SAME.update({
+    'Diablo 1': 'Diablo', 'Bless': 'Bless Online', 'Dota': 'Dota 2', 'Blacklight': 'Blacklight Retribution',
+    'Battlestar Galactica': 'Battlestar Galactica Online', 'FreeStyle': 'FreeStyle Street Basketball',
+    'Drakensang': 'Drakensang Online', 'EndWar': "Tom Clancy’s Endwar Online", 'Homefront': 'Homefront: The Revolution',
+    'Uncharted Waters': 'Uncharted Waters Online', 'ESO': 'The Elder Scrolls Online', 'ESO: Morrowind': 'The Elder Scrolls Online',
+    'HotS': 'Heroes of the Storm', 'HOTS': 'Heroes of the Storm',
+    'APB': 'APB Reloaded', 'Chronicle': 'Chronicle: RuneScape Legends', 'Conan': 'Conan Exiles',
+    'Descent': 'Descent: Underground', 'DayZ Standalone': 'DayZ', 'Evolve Stage 2': 'Evolve',
+    'Hounds': 'Hounds: The Last Hope', 'Hover': 'Hover: Revolt of Gamers', 'Luminary': 'Luminary: Rise of the GoonZu',
+    'Nether Online': 'Nether', 'Rune Story': 'RUNE STORY RPG', 'Tokyo Ghoul': 'Tokyo Ghoul: Dark War', 'Torn': 'Torn City',
+    'Victory': 'Victory Command', 'Warfare': 'Warfare Online', 'World of Darkness': 'World of Darkness MMO',
+    'Mount & Blade II': 'Mount & Blade II: Bannerlord', 'Fast & Furious 6': 'Fast & Furious 6: The Game',
+    'Dragon Quest XI: Echoes of an Elusive Age': 'Dragon Quest XI', 'Age of Conan: Unchained': 'Age of Conan',
+    'New World: Aeternum': 'New World', 'New World: Nighthaven': 'New World',
+    # дополнения
+    'Final Fantasy XIV: Dawntrail': 'Final Fantasy XIV', 'Final Fantasy XIV: Evercold': 'Final Fantasy XIV',
+    'Final Fantasy XIV: Heavensward': 'Final Fantasy XIV', 'Final Fantasy XIV: Shadowbringers': 'Final Fantasy XIV',
+    'Final Fantasy XIV: Stormblood': 'Final Fantasy XIV',
+    'World of Warcraft: Battle for Azeroth': 'World of Warcraft', 'World of Warcraft: Cataclysm': 'World of Warcraft',
+    'World of Warcraft: Legion': 'World of Warcraft', 'World of Warcraft: Midnight': 'World of Warcraft',
+    'World of Warcraft: Mists of Pandaria': 'World of Warcraft', 'World of Warcraft: The Burning Crusade': 'World of Warcraft',
+    'World of Warcraft: Warlords of Draenor': 'World of Warcraft', 'World of Warcraft: Wrath of the Lich King': 'World of Warcraft',
+    'Mists of Pandaria': 'World of Warcraft',
+    'Guild Wars 2: Heart of Thorns': 'Guild Wars 2', 'Guild Wars 2: Path of Fire': 'Guild Wars 2',
+    'Destiny 2: Curse of Osiris': 'Destiny 2', 'Destiny 2: Forsaken': 'Destiny 2', 'Destiny 2: Shadowkeep': 'Destiny 2',
+    'Destiny: The Taken King': 'Destiny',
+    'Diablo III: Eternal Collection': 'Diablo III', 'Diablo III: Reaper of Souls': 'Diablo III',
+    'Diablo III: Rise of the Necromancer': 'Diablo III',
+    'EverQuest II: Altar of Malice': 'EverQuest II', 'EverQuest II: Chains of Eternity': 'EverQuest II',
+    'EverQuest II: Tears of Veeshan': 'EverQuest II', 'EverQuest: Rain of Fear': 'EverQuest',
+    'EverQuest: The Darkened Sea': 'EverQuest',
+    'Neverwinter: Shadowmantle': 'Neverwinter', 'Neverwinter: Underdark': 'Neverwinter',
+    'Path of Exile: Bestiary': 'Path of Exile', 'Path of Exile: The Fall of Oriath': 'Path of Exile',
+    'Path of Exile: War for the Atlas': 'Path of Exile',
+    'RIFT: Starfall Prophecy': 'RIFT', 'RIFT: The Nightmare Tide': 'RIFT', 'Rift: Storm Legion': 'RIFT',
+    'Star Wars: The Old Republic – Knights of the Eternal Throne': 'Star Wars: The Old Republic',
+    'StarCraft II: Heart of the Swarm': 'StarCraft II', 'StarCraft II: Legacy of the Void': 'StarCraft II',
+    'WildStar: The Defile': 'WildStar',
+    'Hearthstone: Goblins vs. Gnomes': 'Hearthstone', 'Hearthstone: Journey to Un’Goro': 'Hearthstone',
+    'Hearthstone: Knights of the Frozen Throne': 'Hearthstone', 'Hearthstone: League of Explorers': 'Hearthstone',
+    "Hearthstone: Rastakhan's Rumble": 'Hearthstone', 'Hearthstone: The Grand Tournament': 'Hearthstone',
+    'Monster Hunter Rise: Sunbreak': 'Monster Hunter Rise', 'Monster Hunter World: Iceborne': 'Monster Hunter: World',
+    'The Elder Scrolls: Legends – Moons of Elsweyr': 'The Elder Scrolls: Legends',
+    'Dragon Quest X Online Expansion 8.0': 'Dragon Quest X', 'ArcheAge: Revelation': 'ArcheAge',
+    'Civilization: Rising Tide': 'Civilization: Beyond Earth', 'Endless Legend: Shifters': 'Endless Legend',
+    'Endless Space: Disharmony': 'Endless Space', 'Metro Exodus – The Two Colonies': 'Metro Exodus',
+    'Avatar: Frontiers of Pandora – From The Ashes': 'Avatar: Frontiers of Pandora',
+    'Rise of the Tomb Raider: Blood Ties': 'Rise of the Tomb Raider', 'Total War: The Sword of Attila': 'Total War Attila',
+    # издания
+    'Street Fighter V: Arcade Edition': 'Street Fighter V', 'Payday 2 Crimewave Edition': 'Payday 2',
+    'SMITE: Xbox One Edition': 'SMITE', 'Stellaris: Console Edition': 'Stellaris',
+    'Total War: ROME II – Emperor Edition': 'Total War: Rome II', "Deus Ex: Human Revolution – Director's Cut": 'Deus Ex: Human Revolution',
+    'Sleeping Dogs: Definitive Edition': 'Sleeping Dogs', 'Grand Theft Auto V Premium Edition': 'Grand Theft Auto 5',
+    'World of Tanks: Xbox 360 Edition': 'World of Tanks', 'World of Tanks: Xbox One Edition': 'World of Tanks',
+})
+
 
 def key(g):
     words = re.sub(r'[^a-z0-9а-яёχæ]+', ' ', g.lower().replace('&', ' and ')).split()
@@ -132,7 +189,8 @@ for g in count:
         rename[g] = FIX[g]
     elif rename[g] in FIX:
         rename[g] = FIX[rename[g]]
-    rename[g] = SAME.get(rename[g], rename[g])
+    while rename[g] in SAME:
+        rename[g] = SAME[rename[g]]
 
 out = []
 for l in lines:
