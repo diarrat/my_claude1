@@ -1,3 +1,6 @@
 37 4 - Fiesta Online, Secret of the Solstice, Wind Slayer, Project Powder
 40 14 - MapleStory, Dungeon Fighter Online, Lunia, Grand Chase, Fists of Fu, Dragon Saga, LaTale, Trickster Online, WonderKing, Atlantica Online, NosTale, Osu, Elite Beat Agents, Dance Dance Revolution
 41 14 - Counter-Strike, Quake, Combat Arms, Alliance of Valiant Arms, S4 League, Genesis A.D, CrossFire, GunZ: The Duel, Battlefield Heroes, Battlefield, Wolfteam, Quake Live, Quake 3, War Rock
+44 4 - Fiesta Online, Secret of the Solstice, Project Powder, Wind Slayer
+48 20 - EverQuest, Ultima Online, Vindictus, Runes of Magic, World of Warcraft, League of Legends, DotA, Heroes of Newerth, Aeon of Strife, The Lord of the Rings Online, Perfect World, Battle of the Immortals, Diablo 2, Alliance of Valiant Arms, Wolfteam, Soldier Front, Dungeons and Dragons Online, Ragnarok Online, S4 League, GunZ: The Duel
+49 7 - World of Warcraft, RuneScape, MapleStory, Scions of Fate (Yulgang), Knight Online (Mag Warriors), The Legend of Mir 3, Mir 2
