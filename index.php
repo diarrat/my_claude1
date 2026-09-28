@@ -76,7 +76,7 @@ $active = array();
 foreach($order as $k){ if(group_alive($gnames[$k],$banned)) $active[]=$k; }
 $total  = count($active);
 
-$i = isset($_GET['i']) ? (int)$_GET['i'] : 0;
+$i = isset($_GET['i']) ? (int)$_GET['i']-1 : 0;   // ?i= — номер группы с 1, как в поле ввода
 if($i<0) $i=0; if($i>=$total) $i=$total-1;
 
 $cur   = $total ? $active[$i] : null;
@@ -127,9 +127,9 @@ function h($s){ return htmlspecialchars($s, ENT_QUOTES, 'UTF-8'); }
 <header>
   <a href="https://mmohuts.com/" target="_blank" rel="noopener"><img class="logo" src="https://mmohuts.com/wp-content/uploads/2026/02/cropped-cropped-MMOHuts_Logo-main-opt.png" alt="MMOHuts"></a>
   <div class="nav">
-    <a href="<?=h($self)?>?i=0" class="<?=$i<=0?'dis':''?>" style="margin-right:16px">« первая</a>
-    <a href="<?=h($self)?>?i=<?=max(0,$i-1)?>" class="<?=$i<=0?'dis':''?>">‹ назад</a>
-    <a href="<?=h($self)?>?i=<?=min($total-1,$i+1)?>" class="<?=$i>=$total-1?'dis':''?>">вперёд ›</a>
+    <a href="<?=h($self)?>?i=1" class="<?=$i<=0?'dis':''?>" style="margin-right:16px">« первая</a>
+    <a href="<?=h($self)?>?i=<?=max(1,$i)?>" class="<?=$i<=0?'dis':''?>">‹ назад</a>
+    <a href="<?=h($self)?>?i=<?=min($total,$i+2)?>" class="<?=$i>=$total-1?'dis':''?>">вперёд ›</a>
     <span class="jump"><input type="number" id="jump" min="1" max="<?=$total?>" value="<?=$i+1?>" title="номер группы"> /<?=$total?></span>
   </div>
   <?php if($cur!==null): ?>
@@ -180,11 +180,11 @@ function h($s){ return htmlspecialchars($s, ENT_QUOTES, 'UTF-8'); }
   <?php endif; ?>
 </footer>
 <script>
-// переход по номеру группы (1-based в поле -> 0-based в ?i=), без формы -> без алерта
+// переход по номеру группы (в поле и в ?i= один и тот же номер, с 1), без формы -> без алерта
 (function(){
   var j=document.getElementById('jump'); if(!j) return;
   var go=function(){ var n=parseInt(j.value,10); if(isNaN(n)) return;
-    n=Math.max(1,Math.min(<?=max(1,$total)?>,n))-1;
+    n=Math.max(1,Math.min(<?=max(1,$total)?>,n));
     location.href = location.pathname + '?i=' + n; };
   j.addEventListener('keydown', function(e){ if(e.key==='Enter'){ e.preventDefault(); go(); } });
   j.addEventListener('change', go);
